@@ -48,6 +48,7 @@ Para acesso a todos os recursos siga os passos (Intranet SENAI, Menu lateral **B
 - [Banco de Talentos PCD](https://sesisenaisp.jobs.recrut.ai/job/LKJV4W)
 
 ## GitHub dos outros professores do SENAI Jaguariúna
+- [Wellington](https://github.com/wellifabio)
 - [Reenye](https://github.com/ReenyeLima)
 - [Robson](https://github.com/robsonbsouzaa)
 - [Luis Fernando](https://github.com/luisfernandospoljaric)
