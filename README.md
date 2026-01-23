@@ -51,6 +51,7 @@ Para acesso a todos os recursos siga os passos (Intranet SENAI, Menu lateral **B
 - [Reenye](https://github.com/ReenyeLima)
 - [Robson](https://github.com/robsonbsouzaa)
 - [Luis Fernando](https://github.com/luisfernandospoljaric)
+- [Jansen](https://github.com/jansenleite)
 
 # [Itinerário da área de TI](https://view.genial.ly/653809a786dac80010d6f675/interactive-content-itinerario-da-area-de-tecnologia-da-informacao)
 ## [Seu currículo](https://forms.gle/LFYviKyoqLpeJRcX9)
