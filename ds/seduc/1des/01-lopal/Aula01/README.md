@@ -26,6 +26,22 @@ Algo que possua uma solução porém não trivial.
 8 - Fim
 ```
 
+## Algoritmo: Fazer um suco
+
+### Passo a Passo
+
+1. **Pegue um copo vazio.**
+2. **Pegue frutas (por exemplo, laranja).**
+3. **Lave as frutas.**
+4. **Descasque as frutas.**
+5. **Coloque as frutas espremidas no copo.**
+6. **Adicione água.**
+7. **Mexa com uma colher.**
+8. **Se quiser, adicione açúcar.**
+9. **Mexa novamente.**
+10. **Sirva o suco.**
+
+
 ### Desafio: Pérolas e balança
 Um joalheiro possui 9 pérolas e uma balançã do tipo prato de dois pratos. Todas as pérolas possuem o mesmo peso, exceto uma que é mais leve. Utilizando a balança, escreva um algoritmo que descura quantas pesagens no mínimo são necessárias para descobrir qual é a pérola mais leve?
 
@@ -68,3 +84,17 @@ int main(){
 
 ## Para instalar em casa
 - Download DEV C++ https://sourceforge.net/projects/orwelldevcpp/
+
+---
+
+### Exercícios
+
+Em seu caderno faça 3 algoritmos como o professor explicou.
+Após o termino leve o caderno para o professor vistar a atividade pronta.
+
+**Exercício 1** - Preparar uma xícara de café.
+
+**Exercício 2** - Pergunte para o segu colega 3 numeros e some eles.
+
+**Exercício 3** - Pergunte 3 numeros para o seu coleca e descubra o maior deles.
+
