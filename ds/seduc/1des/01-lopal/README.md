@@ -97,6 +97,16 @@
 	- 7.2. Pull Requests
 	- 7.3. Resolução de conflitos
 
+---
+
+## IDE online para portugol:
+https://visualg.com.br/
+
+## IDE Online para linguamgem em C
+https://www.onlinegdb.com/online_c_compiler
+
+---
+
 ## Referências básicas
 - PASCHOALINI, Glauber R. Princípios de lógica de programação. São Paulo: Editora SENAI, 2017.
 - ALVES, W. P. Lógica de programação de computadores: Ensino didático. São Paulo: Érica, 2010.
