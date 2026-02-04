@@ -89,8 +89,9 @@ int main(){
 
 ### Exercícios
 
-Em seu caderno faça 3 algoritmos como o professor explicou.
-Após o termino leve o caderno para o professor vistar a atividade pronta.
+Em seu caderno faça 3 passo-a-passo como o professor explicou.
+
+**Objetivo:** Cada exercicio deve ter seu fluxograma e o algoritmo.
 
 **Exercício 1** - Preparar uma xícara de café.
 
