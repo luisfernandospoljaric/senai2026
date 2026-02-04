@@ -95,7 +95,7 @@ Em seu caderno faça 3 passo-a-passo como o professor explicou.
 
 **Exercício 1** - Preparar uma xícara de café.
 
-**Exercício 2** - Pergunte para o segu colega 3 numeros e some eles.
+**Exercício 2** - Pergunte para o seu colega 3 números e some eles.
 
-**Exercício 3** - Pergunte 3 numeros para o seu coleca e descubra o maior deles.
+**Exercício 3** - Pergunte 3 numeros para o seu colecg e descubra o maior deles.
 
