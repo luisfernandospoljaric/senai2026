@@ -8,9 +8,17 @@ Além disso, busca-se capacitar os alunos a identificar, compreender e interagir
 
 ---
 
-## Formulário de Atividades
+## Atividades 06/02
 
-[**Clique aqui para acessar o formulário de atividades da aula.**](https://forms.gle/nbu3kSWis1mZ1gcG7)  
+Monte dois computadores. Um com intuito de uso convencional enquanto o outro é de uso profissional.
+
+**Uso profissional:** O solicitante precisa de uma máquina até R$ 7.000,00 onde rode programas como **AutoCad** e faça rendizações no software **Lumion** 
+
+**Uso comum:** O solicitante utiliza mais a máquina para o pacote office e redes sociais. Quer gastar no máximo 3.500,00.
+
+Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spoljaric@sp.senai.br
+
+**Dicas:** Verifiquem se a placa mãe é compativel com o processador e memória escolhida.
 
 ## Para a próxima aula:
 Converta de decimal para binário:
