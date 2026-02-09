@@ -3,6 +3,9 @@
 
 - Conteúdo da aula se encontra nos slides.
 
+---
+
+# Atividades: Colete Requisitos Funcionais, não funcionas e as regras das três atividades!
 
 ## Atividade 1: O Sistema da Clínica "Saúde Já"
 
@@ -21,4 +24,4 @@
 
 ---
 
-**Dicas:** Dica para os alunos: Lembre-os de que os RFs começam quase sempre com verbos (Cadastrar, Gerar, Calcular), enquanto os RNFs são características (Rápido, Seguro, Offline) e as RNs são as "lógicas" de cálculo ou permissão.
+**Dicas:** : Lembre-os de que os RFs começam quase sempre com verbos (Cadastrar, Gerar, Calcular), enquanto os RNFs são características (Rápido, Seguro, Offline) e as RNs são as "lógicas" de cálculo ou permissão.
