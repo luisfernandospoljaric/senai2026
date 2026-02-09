@@ -144,3 +144,12 @@ Algumas linguagens são consideradas **híbridas**, pois utilizam tanto compila�
 
 https://forms.gle/bPw37FNBtzTXgNPN8
 
+---
+
+## Para próxima aula:
+
+1. Entre no computador com o usuario **Desenvolvimento** e senha **senai123**
+2. abra o link https://sourceforge.net/projects/visualg30/files/latest/download
+3. Faça o download e a instatação.
+
+**Obs:** Obrigatório usar essa "IDE" para aprendermos a lógica de programação.
