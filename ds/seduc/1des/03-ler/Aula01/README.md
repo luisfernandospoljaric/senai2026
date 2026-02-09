@@ -5,7 +5,7 @@
 
 ---
 
-# Atividades: Colete Requisitos Funcionais, não funcionas e as regras das três atividades!
+## Atividades: Colete Requisitos Funcionais, não funcionas e as regras das três atividades!
 
 ## Atividade 1: O Sistema da Clínica "Saúde Já"
 
