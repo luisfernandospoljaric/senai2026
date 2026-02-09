@@ -3,6 +3,16 @@
 
 - Conteúdo da aula se encontra nos slides.
 
+## Conhecimentos:
+- 1 Requisitos
+	- 1.1. Definição
+	- 1.2. Modelos de documentação
+	- 1.3. Regras de Negócio
+	- 1.4. Restrições
+	- 1.5. Tipos de Requisitos
+		- 1.5.1.Funcionais
+		- 1.5.2.Não funcionais
+
 ---
 
 ## Atividades: Colete Requisitos Funcionais, não funcionas e as regras das três atividades!
