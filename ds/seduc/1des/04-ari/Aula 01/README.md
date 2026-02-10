@@ -6,7 +6,7 @@
 
 # Atividade Avaliativa IoT 01 - GRUPO
 
-Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula%2001/IOT_01_01_Arquitetura_de_Redes.pdf).
+Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula%2001/IOT_01_01_Arquitetura_de_Redes.pdf)
 
 # Orientações:
 
