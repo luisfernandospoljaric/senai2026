@@ -10,7 +10,7 @@ Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Di
 
 # Orientações:
 
-Vocês formarão um equipe com entre 6 - 8 integrantes.
+Vocês formarão uma equipe entre 6 - 8 integrantes.
 
 Caberá ao grupo apresentar:
 
@@ -41,6 +41,9 @@ Não-Cabeada:
 2) Micro-ondas.
 3) Satélite.
 4) Infra-Vermelho.
+
+# Metodologia de Avaliação:
+1) 
 
 
 
