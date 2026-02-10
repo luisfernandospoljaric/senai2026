@@ -1,14 +1,16 @@
-# Aula 01 - Arquitetura de Redes
+# Aula 01 - Arquitetura de Redes:
 
-- Topologia de Redes
-- Meios de Transmissão
+- Introdução à Arquitetura de Redes;
+- Topologia de Redes;
+- Meios de Transmissão;
 
 # Atividade Avaliativa IoT 01 - GRUPO
 
-Considere seus conhecimentos em Arquitetura de Redes apresentada na aula conforme apresentação: [Acesso no GitHub](https://www.google.com](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula%2001/IOT_01_01_Arquitetura_de_Redes.pdf).
+Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Disponível em GitHub](https://www.google.com](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula%2001/IOT_01_01_Arquitetura_de_Redes.pdf).
 
-Vocês formarão um equipe com entre 6 - 8 integrantes sendo:
+# Orientações:
 
+Vocês formarão um equipe com entre 6 - 8 integrantes.
 
 Caberá ao grupo apresentar:
 
