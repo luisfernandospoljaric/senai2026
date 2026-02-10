@@ -35,3 +35,9 @@
 ---
 
 **Dicas:** : Lembre-os de que os RFs começam quase sempre com verbos (Cadastrar, Gerar, Calcular), enquanto os RNFs são características (Rápido, Seguro, Offline) e as RNs são as "lógicas" de cálculo ou permissão.
+
+
+# Procedimento:
+
+Utilize o FORMS para enviar suas respostas: [Clique aqui para acessar o formulário](https://forms.office.com/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21kvOsYOgfmhAqFEheL54tm9UOTJEUzlXWTlTTDA0RlBZRUo1TjgwSUczSS4u)
+
