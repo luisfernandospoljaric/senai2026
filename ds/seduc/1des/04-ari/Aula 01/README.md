@@ -16,7 +16,7 @@ Caberá ao grupo apresentar:
 
 # TOPOLOGIA:
 
-Aponte as Vantagens e Desvantagens para os 7 tipos de topologia apresentados:
+Aponte as **Vantagens** e **Desvantagens** para os 7 tipos de topologia apresentados:
 
 1) Cliente-Servidor.
 2) Peer-to-Peer (P2P).
@@ -29,14 +29,14 @@ Aponte as Vantagens e Desvantagens para os 7 tipos de topologia apresentados:
 
 # MEIOS DE TRANSMISSÃO DE DADOS:
 
-Aponte as Vantagens e Desvantagens dos meios apresentados:
+Aponte as **Vantagens** e **Desvantagens** dos meios apresentados:
 
-Cabeada:
+**Cabeada:**
 1) Par Trançado (UTP/STP).
 2) Fibra Óptica.
 3) Cabo Coaxial.
 
-Não-Cabeada:
+**Não-Cabeada:**
 1) Ondas de Rádio.
 2) Micro-ondas.
 3) Satélite.
