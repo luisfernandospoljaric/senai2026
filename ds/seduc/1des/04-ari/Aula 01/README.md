@@ -12,7 +12,7 @@ Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Di
 
 Vocês formarão **4 equipes** sendo: 
 
-**2 Turmas** apresentará sobre **TOPOLOGIA** e **2 Turmas** apresentará sobre **MEIOS DE TRANSMISSÃO.**
+**2 Turmas** apresentará sobre **TOPOLOGIA** e **2 Turmas** apresentará sobre **MEIOS DE TRANSMISSÃO DE DADOS.**
 
 Segue abaixo os Tópicos que deverão ser apresentados:
 
