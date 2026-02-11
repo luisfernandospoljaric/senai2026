@@ -10,9 +10,9 @@ Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Di
 
 # Orientações:
 
-Vocês formarão uma equipe entre **6 - 8 integrantes**.
+Vocês formarão **4 equipes**.
 
-Caberá ao grupo apresentar:
+Caberá as equipes apresentar:
 
 # TOPOLOGIA:
 
