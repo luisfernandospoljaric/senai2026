@@ -10,9 +10,11 @@ Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Di
 
 # Orientações:
 
-Vocês formarão **4 equipes**.
+Vocês formarão **4 equipes** sendo: 
 
-Caberá as equipes apresentar:
+**2 Turmas** apresentará sobre **TOPOLOGIA** e **2 Turmas** apresentará sobre **MEIOS DE TRANSMISSÃO.**
+
+Segue abaixo os Tópicos que deverão ser apresentados:
 
 # TOPOLOGIA:
 
