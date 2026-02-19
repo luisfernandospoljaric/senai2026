@@ -206,7 +206,7 @@ Cada grupo deve entregar:
 
 # Resultado Esperado
 
-Ao final da atividade, o aluno deverá:
+Ao final da atividade:
 
 - Diferenciar tipos de malware  
 - Entender como ataques reais acontecem  
