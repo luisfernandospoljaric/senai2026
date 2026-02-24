@@ -1,48 +1,25 @@
-# Aula 01 - Arquitetura de Redes:
+# Aula 02 - Sistemas Operacionais:
 
-- Introdução à Arquitetura de Redes;
-- Topologia de Redes;
-- Meios de Transmissão;
+- Sistemas Operacionais de Código Fechado;
+- Sistemas Operacionais de Código Aberto;
 
-# Atividade Avaliativa IoT 01 - GRUPO
+# Atividade de Fixação SOP - GRUPO
 
-Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula%2001/IOT_01_01_Arquitetura_de_Redes.pdf)
+Considere seus conhecimentos em Sistemas Operacionais na Aula 02: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_02/SOP_01_01_Sistemas_Operacionais.pdf)
 
 # Orientações:
 
-Vocês formarão **4 equipes** sendo: 
-
-**2 Turmas** apresentará sobre **TOPOLOGIA** e **2 Turmas** apresentará sobre **MEIOS DE TRANSMISSÃO DE DADOS.**
-
 Segue abaixo os Tópicos que deverão ser apresentados:
 
-# TOPOLOGIA:
+Deverá ser criado **6 grupos** que farão a pesquisa, análise e apresentação dos seguintes tópicos:
 
-Aponte as **Vantagens** e **Desvantagens** para os 7 tipos de topologia apresentados:
+**Grupo 01:** O que é um sistema operacional de código fechado e quais as suas vantagens.
+**Grupo 02:** O que é um sistema operacional de código fechado e quais as suas desvantagens.
+**Grupo 03:** O que é um sistema operacional de código aberto e quais as suas vantagens.
+**Grupo 04:** O que é um sistema operacional de código aberto e quais as suas desvantagens.
+**Grupo 05:** Cite exemplo de sistemas Operacionais de código fechado e suas aplicações.
+**Grupo 06:** Cite exemplo de sistemas Operacionais de código aberto e suas aplicações. 
 
-1) Cliente-Servidor.
-2) Peer-to-Peer (P2P).
-3) Camada.
-4) Estrela.
-5) Árvore.
-6) Ring (Anel).
-7) Malha (Mesh).
-
-
-# MEIOS DE TRANSMISSÃO DE DADOS:
-
-Aponte as **Vantagens** e **Desvantagens** dos meios apresentados:
-
-**Cabeada:**
-1) Par Trançado (UTP/STP).
-2) Fibra Óptica.
-3) Cabo Coaxial.
-
-**Não-Cabeada:**
-1) Ondas de Rádio.
-2) Micro-ondas.
-3) Satélite.
-4) Infra-Vermelho.
 
 # RECURSOS QUE PODEM SER UTILIZADOS:
 
