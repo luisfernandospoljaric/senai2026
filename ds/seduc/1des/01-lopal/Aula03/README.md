@@ -120,8 +120,17 @@ Faça um Programa que converta metros para centímetros.
 **Exercício 06:**
 Faça um Programa que peça o raio de um círculo, calcule e mostre sua área.
 
+```
+area <- 3.14 * (raio * raio)
+```
+
 **Exercício 07:**
 Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
+```
+area <- lado * lado
+dobro <- area * 2
+```
 
 **Exercício 08:**
 Faça um Programa que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
