@@ -9,8 +9,6 @@ Considere seus conhecimentos em Sistemas Operacionais na Aula 02: [Disponível e
 
 # Orientações:
 
-Segue abaixo os Tópicos que deverão ser apresentados:
-
 Deverá ser criado **6 grupos** que farão a pesquisa, análise e apresentação dos seguintes tópicos:
 
 **Grupo 01:** O que é um sistema operacional de código fechado e quais as suas vantagens.
