@@ -11,12 +11,12 @@ Considere seus conhecimentos em Sistemas Operacionais na Aula 02: [Disponível e
 
 Deverá ser criado **6 grupos** que farão a pesquisa, análise e apresentação dos seguintes tópicos:
 
-**Grupo 01:** O que é um sistema operacional de código fechado e quais as suas vantagens.<br />
-**Grupo 02:** O que é um sistema operacional de código fechado e quais as suas desvantagens.<br />
-**Grupo 03:** O que é um sistema operacional de código aberto e quais as suas vantagens.<br />
-**Grupo 04:** O que é um sistema operacional de código aberto e quais as suas desvantagens.<br />
-**Grupo 05:** Cite exemplo de sistemas Operacionais de código fechado e suas aplicações.<br />
-**Grupo 06:** Cite exemplo de sistemas Operacionais de código aberto e suas aplicações. <br />
+**Grupo 01:** O que é um sistema operacional de código fechado e quais as suas vantagens.<br>
+**Grupo 02:** O que é um sistema operacional de código fechado e quais as suas desvantagens.<br>
+**Grupo 03:** O que é um sistema operacional de código aberto e quais as suas vantagens.<br>
+**Grupo 04:** O que é um sistema operacional de código aberto e quais as suas desvantagens.<br>
+**Grupo 05:** Cite exemplo de sistemas Operacionais de código fechado e suas aplicações.<br>
+**Grupo 06:** Cite exemplo de sistemas Operacionais de código aberto e suas aplicações. <br>
 
 
 # RECURSOS QUE PODEM SER UTILIZADOS:
