@@ -1,6 +1,5 @@
 # E-mails educacionais:
 
-![E-Mails educacionai](../assets/image.png)
 
 | Nome do Aluno                                   | E-mail Educacional                    |
 |--------------------------------------------------|----------------------------------------|
