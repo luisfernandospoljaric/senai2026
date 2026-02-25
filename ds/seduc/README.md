@@ -17,6 +17,8 @@
 | JOAO PEDRO PEREIRA CHINAGLIA                    | joao.chinaglia@senaisp.edu.br          |
 | JOARDSON VITORIO DINIZ                          | joardson.diniz@senaisp.edu.br          |
 | JULIANA SAYURI CHIARELLI IMAGIIRE               | juliana.imagiire@senaisp.edu.br        |
+| JULIO GABRIEL TAMBORIM ALVES                    | julio.tamborim@senaisp.edu.br          |
+| KEILON DE MOURA FRANZÃO BOTELHO                 | keilon.botelho@senaisp.edu.br          |
 | LUCAS DA SILVA HIDALGO                          | lucas.hidalgo@senaisp.edu.br           |
 | LUCAS RAFAEL ANDRADE DE MOURA                   | lucas.moura45@senaisp.edu.br           |
 | LUIZ MATHEUS VELLOZO DE ANDRADE                 | luiz.andrade33@senaisp.edu.br          |
