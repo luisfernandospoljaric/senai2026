@@ -16,7 +16,7 @@
 ## Metodologias
 Duas são as metodologias aplicadas a engenharia de software, metodologia clássica e metodologia ágil.
 ### Metodologia Clássica
-Pautada em etapas bem definiddas onde o produto "software" é entregue ao cliente nas etapas finais, logo apos doversos testes e é fechado um contrato de manutenção geralmente. Dentro da metodologia clpassica temos algumas abordagens
+Pautada em etapas bem definidas onde o produto "software" é entregue ao cliente nas etapas finais, logo apos doversos testes e é fechado um contrato de manutenção geralmente. Dentro da metodologia clpassica temos algumas abordagens
 - **Cascata** (Waterfall)
 - ![Cascata](./waterfall.jpg)
 - **Espiral**
