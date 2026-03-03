@@ -1,5 +1,5 @@
 
-# 📘 Tabela Verdade em Programação
+# Tabela Verdade em Programação
 
 ## O que é Tabela Verdade?
 
