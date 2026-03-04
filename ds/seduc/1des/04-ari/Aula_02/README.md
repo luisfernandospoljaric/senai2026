@@ -1,6 +1,7 @@
 # Aula 02 - Modelos de Protocolos de Rede:
 
 2. Modelos e protocolo de redes
+
 2.1. Definição
 2.2. Protocolo TCP/IP
 2.2.1.Definição
