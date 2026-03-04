@@ -1,54 +1,26 @@
-# Aula 01 - Arquitetura de Redes:
+# Aula 02 - Modelos de Protocolos de Rede:
 
-- Introdução à Arquitetura de Redes;
-- Topologia de Redes;
-- Meios de Transmissão;
+2. Modelos e protocolo de redes
+2.1. Definição
+2.2. Protocolo TCP/IP
+2.2.1.Definição
+2.2.2.Endereçamento de IPv4
+2.2.3.Endereçamento de IPv6
+2.2.4.Portas
+2.3. Protocolo MQTT (Message Queuing
+Telemetry Transport)
+2.3.1.Definição
+2.3.2.Aplicação
 
-# Atividade Avaliativa IoT 01 - GRUPO
+# Atividade Avaliativa 01 - ARI
 
-Considere seus conhecimentos em Arquitetura de Redes apresentada na Aula 01: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula%2001/IOT_01_01_Arquitetura_de_Redes.pdf)
+Considere seus conhecimentos em Modelos Protocolos de Redes apresentada na Aula 01: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula_02/IOT_03_01_Modelos_de_Protocolos_de_Redes.pdf)
 
 # Orientações:
 
-Vocês formarão **4 equipes** sendo: 
+Atividade deverá ser individual disponível em:
 
-**2 Turmas** apresentará sobre **TOPOLOGIA** e **2 Turmas** apresentará sobre **MEIOS DE TRANSMISSÃO DE DADOS.**
+[Disponível em FORMS - Clique aqui para acessá-la!](https://forms.office.com/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUOVRMN0FINDY4ODRXMEwzMTBVNkZZQ0U1RC4u)
 
-Segue abaixo os Tópicos que deverão ser apresentados:
-
-# TOPOLOGIA:
-
-Aponte as **Vantagens** e **Desvantagens** para os 7 tipos de topologia apresentados:
-
-1) Cliente-Servidor.
-2) Peer-to-Peer (P2P).
-3) Camada.
-4) Estrela.
-5) Árvore.
-6) Ring (Anel).
-7) Malha (Mesh).
-
-
-# MEIOS DE TRANSMISSÃO DE DADOS:
-
-Aponte as **Vantagens** e **Desvantagens** dos meios apresentados:
-
-**Cabeada:**
-1) Par Trançado (UTP/STP).
-2) Fibra Óptica.
-3) Cabo Coaxial.
-
-**Não-Cabeada:**
-1) Ondas de Rádio.
-2) Micro-ondas.
-3) Satélite.
-4) Infra-Vermelho.
-
-# RECURSOS QUE PODEM SER UTILIZADOS:
-
-1) Material apresentado na aula.
+1) Material apresentado em aula.
 2) Internet.
-
-
-
-
