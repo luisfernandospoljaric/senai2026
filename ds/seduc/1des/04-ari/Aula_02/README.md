@@ -1,16 +1,16 @@
 # Aula 02 - Modelos de Protocolos de Rede:
 
-2. Modelos e protocolo de redes
-2.1. Definição
-2.2. Protocolo TCP/IP
-2.2.1.Definição
-2.2.2.Endereçamento de IPv4
-2.2.3.Endereçamento de IPv6
-2.2.4.Portas
+2. Modelos e protocolo de redes<br />
+2.1. Definição<br />
+2.2. Protocolo TCP/IP<br />
+2.2.1.Definição<br />
+2.2.2.Endereçamento de IPv4<br />
+2.2.3.Endereçamento de IPv6<br />
+2.2.4.Portas<br />
 2.3. Protocolo MQTT (Message Queuing
-Telemetry Transport)
-2.3.1.Definição
-2.3.2.Aplicação
+Telemetry Transport)<br />
+2.3.1.Definição<br />
+2.3.2.Aplicação<br />
 
 # Atividade Avaliativa 01 - ARI
 
