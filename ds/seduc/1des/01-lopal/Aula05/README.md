@@ -95,14 +95,45 @@ fimalgoritmo
 
 Peça um número ao usuário e informe se ele é **positivo ou negativo**.
 
+```portugal
+Var
+// Seção de Declarações das variáveis 
+numero:real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreval("Digite um numero ")
+   leia(numero)
+   
+   se (numero >=0)entao
+      escreval("O numero é positivo")
+   senao
+        escreval("O numero é negativo")
+   fimse
+Fimalgoritmo
+```
+
 ------------------------------------------------------------------------
 
 ## Exercício 2 -- Par ou Ímpar
 
 Peça um número inteiro e informe se ele é **par ou ímpar**.
 
-------------------------------------------------------------------------
 
+```portugol
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreval("Digite um número inteiro: ")
+   leia(numero)
+   
+   se (numero % 2 = 0) entao
+      escreval("O número é par: ")
+   senao
+        escreval("O número é impar: ")
+   fimse
+Fimalgoritmo
+```
+------------------------------------------------------------------------
 ## Exercício 3 -- Acesso ao Sistema
 
 Peça: - Usuário - Senha
@@ -115,8 +146,25 @@ Caso contrário:
 
 Acesso negado
 
-------------------------------------------------------------------------
 
+```portugol
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreval("Digite seu usuário: ")
+   leia(usuario)
+   
+   escreval("Digite sua senha: ")
+   leia(senha)
+   
+   se(usuario = "admin") e (senha = "1234") entao
+      escreval("acesso liberado")
+   senao
+      escreval("Acesso negado.")
+   fimse
+
+Fimalgoritmo
+```
+------------------------------------------------------------------------
 ## Exercício 4 -- Aprovação do Aluno
 
 Peça: - Nota - Frequência
@@ -128,6 +176,28 @@ O aluno será aprovado se:
 
 Caso contrário, reprovado.
 
+```portugol
+Var
+// Seção de Declarações das variáveis 
+nota, frequencia: real
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+   escreval("Digite a nota do aluno")
+   leia(nota)
+
+   escreval("Digite a frequencia do aluno (%)")
+   leia(Frequencia)
+
+   se(nota>=6) e (frequencia >=75)entao
+      escreval("Aluno aprovado")
+   senao
+      escreval("Aluno reprovado")
+   fimse
+
+Fimalgoritmo
+```
+
 ------------------------------------------------------------------------
 
 ## Exercício 5 -- Pode Votar?
@@ -138,6 +208,25 @@ Peça a idade da pessoa e informe:
 -   Se idade \>= 16 e \< 18 → "Voto facultativo"
 -   Caso contrário → "Não pode votar"
 
+```portugol
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+   escreval("Quantos anos você tem? ")
+   leia(idade)
+
+   se (idade >=18) entao
+      escreval("Obrigado a votar")
+   senao
+      se (idade >= 16) entao
+         escreval("Voto Facultativo")
+      senao
+            escreval("Não pode votar")
+      fimse
+   fimse
+
+Fimalgoritmo
+```
 ------------------------------------------------------------------------
 
 # Desafio Extra
