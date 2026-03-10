@@ -12,9 +12,9 @@ Telemetry Transport)<br />
 2.3.1.Definição<br />
 2.3.2.Aplicação<br />
 
-# Atividade Avaliativa 01 - ARI
+# Atividade Avaliativa 01 - ARI - Modelo de Protocolo de Redes.
 
-Considere seus conhecimentos em Modelos Protocolos de Redes apresentada na Aula 01: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula_02/IOT_03_01_Modelos_de_Protocolos_de_Redes.pdf)
+Considere seus conhecimentos em Modelos Protocolos de Redes apresentada na Aula 02: [Disponível em GitHub - Clique aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/Aula_02/IOT_03_01_Modelos_de_Protocolos_de_Redes.pdf)
 
 # Orientações:
 
