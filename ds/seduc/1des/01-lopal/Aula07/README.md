@@ -158,6 +158,7 @@ ate (condicao)
 
 Solicitar uma senha ao usuário até que ele digite a senha correta.
 
+```portugol
 algoritmo "verificar_senha"
 
 var
