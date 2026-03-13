@@ -69,3 +69,7 @@ Sita-se a vontade para enviar seu currículo para o professor Wellington no int�
 - Faculdade de Tecnologia SENAI Anchieta
 - Faculdade de Tecnologia SENAI Roberto Mange
 - [Faculdade SENAI - Campus Escola SENAI Paulo Antonio Skaf](https://sp.senai.br/cursos/graduacao/0?unidade=134)
+
+## Apresentação Intitucional
+[Arquivo PowerPoint .pptx](https://sesisenaisp-my.sharepoint.com/:p:/g/personal/jansen_leite_sp_senai_br/IQAYmnSkeTEJQb0c4YGS2L9UAXbA__MSYJUdmv0NW7KsO_4?e=f2JfRo)
+
