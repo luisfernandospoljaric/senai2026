@@ -27,7 +27,7 @@ Algo que possua uma solução porém não trivial.
 ```
 
 ### Desafio: Pérolas e balança
-Um joalheiro possui 9 pérolas e uma balançã do tipo prato de dois pratos. Todas as pérolas possuem o mesmo peso, exceto uma que é mais leve. Utilizando a balança, escreva um algoritmo que descura quantas pesagens no mínimo são necessárias para descobrir qual é a pérola mais leve?
+Um joalheiro possui 9 pérolas e uma balanças do tipo prato de dois pratos. Todas as pérolas possuem o mesmo peso, exceto uma que é mais leve. Utilizando a balança, escreva um algoritmo que descura quantas pesagens no mínimo são necessárias para descobrir qual é a pérola mais leve?
 
 ## Conhecimentos:
 - 1 Lógica e algoritmos
