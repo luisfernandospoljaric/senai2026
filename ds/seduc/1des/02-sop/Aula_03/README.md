@@ -29,3 +29,25 @@
     1.4.7.Gerenciamento de arquivos<br />
     1.4.8.Gerenciamento de usuários e permissões<br />
     1.5. Níveis de inicialização e finalização<br />
+    2. Sistema operacional de código aberto<br /><br />
+2.1. Definição<br />
+    2.2. Instalação<br />
+    2.3. Modo texto (linha de comando)<br />
+    2.3.1.Navegação entre diretórios<br />
+    2.3.2.Criação de diretórios e arquivos<br />
+    2.3.3.Exclusão de diretórios e arquivos<br />
+    2.3.4.Renomeação de diretórios e arquivos<br />
+    2.3.5.Movimentação de diretórios e arquivos<br />
+    2.3.6.Cópia de diretórios e arquivos<br />
+    2.3.7.Edição de arquivos<br />
+    2.4. Modo gráfico (interface gráfica)<br />
+    2.4.1.Área de trabalho<br />
+    2.4.2.Trabalho com janelas<br />
+    2.4.3.Configuração do sistema<br />
+    2.4.4.Ferramentas do sistema<br />
+    2.4.5.Acessórios<br />
+    2.4.6.Menu de ajuda<br />
+    2.4.7.Gerenciamento de arquivos<br />
+    2.4.8.Gerenciamento de usuários e permissões<br />
+    2.5. Níveis de inicialização e finalização<br />
+
