@@ -58,7 +58,7 @@
 <b>2.0 - Downloads Windows ISO's</b>
 (https://www.linux.org/pages/download/)<br /><br />
 
-<b>3.0 - Downloads LINUX Distribuition ISO's<br />
+<b>3.0 - Downloads LINUX Distribuition ISO's</b><br />
 (https://www.microsoft.com/pt-br/software-download)<br /><br />
 
 
