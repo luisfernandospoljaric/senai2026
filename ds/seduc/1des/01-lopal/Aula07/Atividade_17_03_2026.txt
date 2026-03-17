@@ -1,0 +1,21 @@
+1. Desenvolva um programa que calcule a idade de uma pessoa. Se a idade for maior ou igual a 18, mostre "Maior de idade”. Caso contrário, mostre "Menor de idade".
+
+2. Desenvolva um programa que leia o salário de um funcionário.:
+- Se o salário for até 1800, aplique um reajuste de 15%.
+- Caso contrário, aplique um reajuste de 10%.
+- Mostre o novo salário.
+
+3. Desenvolva um programa que leia a quantidade de pontos de um time.
+- Se os pontos forem maiores ou iguais a 20, mostre "Classificado".
+- Se os pontos forem maiores ou iguais a 10 e menores que 20, mostre "Em disputa".
+- Caso contrário, mostre "Eliminado".
+
+4. Desenvolva um programa que leia a idade de uma pessoa.
+- Se a idade for menor que 12, mostre "Criança".
+- Se a idade for maior ou igual a 12 e menor que 18, mostre "Adolescente".
+- Caso contrário, mostre "Adulto".
+
+5. Desenvolva um programa que leia três notas de um aluno e calcule a média.
+- Se a média for maior ou igual a 7, mostre "Aprovado".
+- Se a média for maior ou igual a 5 e menor que 7, mostre "Recuperação"
+- Caso contrário, mostre "Reprovado".
