@@ -52,8 +52,8 @@
     2.4.8.Gerenciamento de usuários e permissões<br />
     2.5. Níveis de inicialização e finalização<br />
 
-# Material de Apoio:
-<b>1.0 - Instalação de Máquina Virtual</b> [Clique Aqui para visualizar!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/01_01_Instala%C3%A7%C3%A3o%20de%20M%C3%A1quina%20Virtual.pdf)
+# MATERIAL DE APOIO.
+## 1.0 - Instalação de Máquina Virtual [Clique Aqui para visualizar!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/01_01_Instala%C3%A7%C3%A3o%20de%20M%C3%A1quina%20Virtual.pdf)
 <br />
 ## 2.0 - Downloads Windows ISO's<br />
 (https://www.linux.org/pages/download/)<br />
