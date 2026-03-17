@@ -8,8 +8,8 @@
 - Criação de diretórios
 - Trabalhando com Janelas (Modo Gráfico)
 
-## 1. Sistema operacional de código fechado
-  ### 1.1. Definição
+## 1. Sistema operacional de código fechado <br />
+  ### 1.1. Definição <br />
 1.2. Instalação
 1.3. Modo texto
 1.3.1.Navegação entre diretórios
