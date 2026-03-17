@@ -28,9 +28,10 @@
     1.4.6.Menu de ajuda<br />
     1.4.7.Gerenciamento de arquivos<br />
     1.4.8.Gerenciamento de usuários e permissões<br />
-    1.5. Níveis de inicialização e finalização<br />
-    2. Sistema operacional de código aberto<br /><br />
-2.1. Definição<br />
+    1.5. Níveis de inicialização e finalização<br /><br />
+    
+2. Sistema operacional de código aberto<br />
+    2.1. Definição<br />
     2.2. Instalação<br />
     2.3. Modo texto (linha de comando)<br />
     2.3.1.Navegação entre diretórios<br />
