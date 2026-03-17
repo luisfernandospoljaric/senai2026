@@ -1,12 +1,12 @@
 # Aula 03 - Sistemas Operacionais - SOP.
 
-- Instalando e configurando o ambiente VM (Virtual Machine)
+- Instalando e configurando o ambiente VM (Virtual Machine);
 - Instalação e Configuração de Sistemas Operacionais de Código Fechado;
 - Instalação e Configuração de Sistemas Operacionais de Código Aberto;
-- Linhas de Comando (Modo Texto)
+- Linhas de Comando (Modo Texto);
 - Navegação entre diretórios;
-- Criação de diretórios
-- Trabalhando com Janelas (Modo Gráfico)
+- Criação de diretórios;
+- Trabalhando com Janelas (Modo Gráfico);
 
 1. Sistema operacional de código fechado <br />
     1.1. Definição <br />
