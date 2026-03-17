@@ -1,4 +1,4 @@
-# Aula 03 - Sistemas Operacionais - SOP:
+# Aula 03 - Sistemas Operacionais - SOP.
 
 - Instalando e configurando o ambiente VM (Virtual Machine)
 - Instalação e Configuração de Sistemas Operacionais de Código Fechado;
@@ -51,4 +51,7 @@
     2.4.7.Gerenciamento de arquivos<br />
     2.4.8.Gerenciamento de usuários e permissões<br />
     2.5. Níveis de inicialização e finalização<br />
+
+## Material de Apoio:
+[1.0 - Instalação de Máquina Virtual][Clique Aqui para acessá-lo!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/01_01_Instala%C3%A7%C3%A3o%20de%20M%C3%A1quina%20Virtual.pdf)
 
