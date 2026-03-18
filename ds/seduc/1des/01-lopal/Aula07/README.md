@@ -273,6 +273,24 @@ Faça um algoritmo que leia um número e mostre a tabuada dele de 1 a 10.
 ## Exercício Extra 2
 Crie um programa que calcule a soma de todos os números de 1 até 100 e mostre o resultado final.
 
+## Exercico Extra 3
+Mostre apenas os números pares de 1 até 20
+
+```portugol
+Saída esperada:
+2 4 6 8 10 12 14 16 18 20
+```
+
+## Exercicio Extra 4
+Mostre os números ímpares de 1 até 15
+```portugol
+Saida:
+1 3 5 7 9 11 13 15
+```
+
+
+
+
 # Exercícios com **ENQUANTO**
 
 ## Exercício 3
