@@ -288,6 +288,17 @@ Saida:
 1 3 5 7 9 11 13 15
 ```
 
+## Desafio Extra
+Contar números pares
+
+Faça um programa que:
+
+- Mostre os números de 1 até 20
+
+- Conte quantos números são pares
+
+No final, mostre a quantidade de pares
+
 
 
 
