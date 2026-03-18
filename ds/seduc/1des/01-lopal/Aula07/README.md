@@ -267,6 +267,12 @@ Exemplo:
 ```
 ---
 
+## Exercício Extra 1
+Faça um algoritmo que leia um número e mostre a tabuada dele de 1 a 10.
+
+## Exercício Extra 2
+Crie um programa que calcule a soma de todos os números de 1 até 100 e mostre o resultado final.
+
 # Exercícios com **ENQUANTO**
 
 ## Exercício 3
