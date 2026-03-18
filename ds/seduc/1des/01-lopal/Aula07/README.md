@@ -62,7 +62,7 @@ i: inteiro
 
 inicio
 
-para i de 1 ate 10 faca
+para i de 1 ate 10 passo 1 faca
    escreva(i)
 fimpara
 
