@@ -299,8 +299,7 @@ Faça um programa que:
 
 No final, mostre a quantidade de pares
 
-
-
+---
 
 # Exercícios com **ENQUANTO**
 
