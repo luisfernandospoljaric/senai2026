@@ -56,7 +56,7 @@
 <b>1.0 - Instalação de Máquina Virtual</b> [Clique Aqui para visualizar!](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/01_01_Instala%C3%A7%C3%A3o%20de%20M%C3%A1quina%20Virtual.pdf)<br /><br />
 
 <b>2.0 - Configuração da VM Oracle</b><br />
-[Procedimento_Configuracao_OracleVM](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/1_2_Procedimento%20de%20Configura%C3%A7%C3%A3o%201_2_da%20VM%20Oracle.pdf)<br /><br />
+[Procedimento_Configuracao_OracleVM](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/1_2_Procedimento_de_Configuracao_VM_Oracle.pdf)<br /><br />
 
 <b>3.0 - Downloads Windows ISO's</b><br />
 (https://www.microsoft.com/pt-br/software-download)<br /><br />
