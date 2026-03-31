@@ -59,7 +59,7 @@
 (https://www.microsoft.com/pt-br/software-download)<br /><br />
 
 <b>3.0 - Downloads Windows ISO's</b><br />
-([https://www.microsoft.com/pt-br/software-download](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/1_2_Procedimento%20de%20Configura%C3%A7%C3%A3o%201_2_da%20VM%20Oracle.pdf))<br /><br />
+(https://www.microsoft.com/pt-br/software-download](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/Aula_03/1_2_Procedimento%20de%20Configura%C3%A7%C3%A3o%201_2_da%20VM%20Oracle.pdf)<br /><br />
 
 <b>4.0 - Downloads LINUX Distribuition ISO's</b><br />
 (https://www.linux.org/pages/download/)<br /><br />
