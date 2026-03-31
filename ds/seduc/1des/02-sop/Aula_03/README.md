@@ -62,4 +62,7 @@
 <b>3.0 - Downloads LINUX Distribuition ISO's</b><br />
 (https://www.linux.org/pages/download/)<br /><br />
 
+<b>4.0 - Servidor Download Windows 10</b><br />
+\\DESKTOP-BT67NFB<br /><br />
+
 
