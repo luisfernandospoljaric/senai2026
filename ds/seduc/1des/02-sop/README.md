@@ -118,3 +118,7 @@
 - KERRISK, Michael. The Linux programming interface: A Linux and UNIX system programming handbook. 1 ed., No Starch Press, 2010.
 - SHOTTS, William E. The Linux command line: a complete introduction. Willian Pollock, 2012.
 - TANENBAUM, A. S., WOODHULL, A. S. Sistemas Operacionais: Projeto e Implementação. 3 ed., Porto Alegre: Bookman 2008.
+
+## Pesquisa Socioemocional
+
+[Clique aqui para responder](https://softskillsbr.surveycto.com/collect/baseline_march_april_2026?caseid=513)
