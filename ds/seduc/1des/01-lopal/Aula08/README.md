@@ -1,6 +1,14 @@
 # Vetores
 ---
-
+1. Leia 5 números e mostre a soma de todos
+2. Leia 5 números e calcule a média
+3. Leia 5 números e informe quantos são pares
+4. Leia 5 números e informe quantos são maiores que 10
+5. Leia 5 números e exiba do último para o primeiro
+6. Leia 5 números e mostre o menor valor
+7. Leia 5 números, substitua valores negativos por 0 e exiba o vetor final
+8. Leia 5 números e informe quantos são iguais ao primeiro valor digitado
+---
 # Desafios
 
 ## Desafio 1 – Inverter Vetor
@@ -56,3 +64,12 @@ Crie um algoritmo que:
 - Exiba o novo vetor
 
 (Precisa de comparação entre elementos)
+
+## Desafio 6 – Ordenação Manual (Sem função pronta)
+
+Faça um algoritmo que:
+
+- Leia 10 números
+- Armazene em um vetor
+- Ordene os valores em ordem crescente
+- Exiba o vetor ordenado
