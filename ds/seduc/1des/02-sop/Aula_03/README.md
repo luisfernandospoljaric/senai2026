@@ -67,7 +67,7 @@
 <b>5.0 - Servidor Download Windows 10</b><br />
 \\\DESKTOP-BT67NFB</b><br />
 
-# ATIVIDADE AVALIATIVA 01 - COMANDOS TERMINAL
+# Atividade Avaliativa 01 - Comando via Terminal CMD
 [Clique aqui para realizar a atividade](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNUVVOFA0S0FBTzVNT1NVSklBOTg2UTY2Ti4u)
 
 
