@@ -1,3 +1,6 @@
+# ServiceNow University
+https://learning.servicenow.com/now/lxp/home
+
 # Formulário de Cadastro na plataforma
 https://forms.cloud.microsoft/r/EKceZ4csYC
 
