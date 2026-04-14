@@ -6,7 +6,7 @@ Leia uma matriz 2x2 e mostre todos os valores.
 
 Leia uma matriz 2x2 e mostre a soma de todos os elementos.
 
-## Exercício 3 (Médio)
+## Exercício 3
 
 Leia uma matriz 3x3 e mostre apenas a diagonal principal.
 
