@@ -13,6 +13,7 @@ Leia uma matriz 3x3 e mostre apenas a diagonal principal.
 ## Exercício 4 
 
 Leia uma matriz 3x3 e conte quantos números são maiores que 10.
+
 ---
 ## Formulário de entrega:
 
