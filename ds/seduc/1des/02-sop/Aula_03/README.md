@@ -67,7 +67,22 @@
 <b>5.0 - Servidor Download Windows 10</b><br />
 \\\DESKTOP-BT67NFB</b><br />
 
-# Atividade Avaliativa 01 - Comando via Terminal CMD
+
+# Atividade Avaliativa 01 - Individual - Instalação e Configuração de Máquina Virtual
+Considere seus conhecimentos em Máquina Virtual e realize os seguintes procedimentos:<br /><br />
+
+## Instruções:
+
+- Instale e Máquina Virtual com o Sistema Operacional Windows 10 conforme .ISO disponibilizada em aula;
+
+## Obs:
+- Considere que, caso haja problemas na instalação, você deverá seguir os procedimentos de configurações abordados e mapeados em sala de aula;
+- Será avaliado sua capacidade de resolução de problemas;
+- Entendimento técnico dos procedimentos;
+
+
+
+# Atividade Avaliativa 02 - Comando via Terminal CMD
 [Clique aqui para realizar a atividade](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNUVVOFA0S0FBTzVNT1NVSklBOTg2UTY2Ti4u)
 
 
