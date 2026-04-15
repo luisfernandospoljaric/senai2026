@@ -1,4 +1,10 @@
-# E-mails educacionais:
+## Pesquisa Socioemocional
+
+https://softskillsbr.surveycto.com/collect/baseline_march_april_2026?caseid=513
+
+---
+
+## E-mails educacionais:
 
 
 | Nome do Aluno                                   | E-mail Educacional                    |
