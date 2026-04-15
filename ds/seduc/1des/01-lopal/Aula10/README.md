@@ -1,4 +1,4 @@
-# Evisão para a prova:
+# Revisão para a prova:
 - Façam os exercicis individualmente sem uso de ajuda como inteligência artificial.
 
 - Essa lista de exercicio serve como uma revisão para a **AVALIAÇÃO**.
