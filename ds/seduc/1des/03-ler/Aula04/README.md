@@ -62,3 +62,6 @@ Utilize ferramentas como:
 
 ---
 
+## Entrega:
+- Faça um documento utilizando a ferramenta de sua escolha (Word, LibreOffice, Canva).
+Nesse documento deve conter todos os requisitos e o diagrama de caso uso.
