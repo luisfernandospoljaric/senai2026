@@ -1,0 +1,53 @@
+1) Abra o CMD do Windows como Administrador;
+
+2) Acesse a Raiz da unidade C:
+
+3) Liste todos os diretórios.
+
+4) Acesse a pasta users.
+
+5) Liste todos os diretórios.
+
+6) Identifique a pasta com seu usuário e acesse a mesma.
+
+7) Limpe a tela.
+
+8) Liste todos os diretórios.
+
+9) Acesse a pasta Documents.
+
+10) Crie um diretório com o nome Sistema;
+
+11) Acesse o diretório Sistema criado anteriormente;
+
+12) Crie 3 diretórios com os seguintes nomes (Relatorio, Musica, Video)
+
+13) Crie uma copia do diretório Video para Senai
+
+14) Renomeie o diretório Senai para Prova
+
+15) Acesse o diretório Relatorio.
+
+16) Crie um arquivo em branco no formato .txt com o nome analise.txt
+
+17) Grave seu nome completo dentro do arquivo analise.txt
+
+18) Limpe a tela.
+
+19) Abra o arquivo analise.txt e verifique seu conteúdo
+
+20) Crie um arquivo no formato .txt com o nome de teste_ping.txt
+
+21) Faça uma análise de conexão utilizando o comando PING e grave o resultado dentro do arquivo teste_ping.txt
+
+22) Limpe a tela
+
+23) Abra o arquivo teste_ping.txt e verifique seu conteúdo.
+
+24) Volte para o diretório Sistema
+
+25) Faça uma cópia do diretório e seus arquivos para o nome Relatorio_2
+
+26) Exclua a pasta Relatorio
+ 
+
