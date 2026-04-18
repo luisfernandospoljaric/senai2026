@@ -139,3 +139,139 @@ As pastas contêm os seguintes arquivos:
 
 **Resultado:**
 Assim que o arquivo for descompactado, você verá pastas que contêm seus materiais. Cada pasta contém arquivos específicos que você usará durante e após o curso.
+
+## Lab 1.2 - Fornecer e Verificar Acessos a Aplicações
+
+### **Objetivos do Laboratório (Lab Objectives)**
+
+**Você alcançará os seguintes objetivos:**
+
+- Conceder acesso à **application** (aplicação).
+- Conceder acesso para **impersonate** (realizar a representação de outro usuário).
+
+**Dependência do Laboratório (Lab Dependency):**
+
+- Este laboratório depende do plugin **Agent Workspace for HR**, que foi pré-instalado em sua **student instance** (instância de estudante).
+
+## Lab 1.3.1 - **Criar incidente usando listas e formulários clássicos**
+
+**Objetivos do Laboratório**
+Você se familiarizará com as aplicações, colocando-se no lugar de um funcionário de TI ao completar as seguintes atividades:
+
+- Criar **incident** usando listas e formulários clássicos.
+- Localizar atribuições de trabalho usando **My Groups Work** no **Classic Environment**.
+
+### **Seção 1: Criar um novo Incident no ambiente clássico**
+
+**1. Personificar Usuário**
+
+- Selecione o **User menu** (menu de usuário) e selecione **Impersonate user**.
+
+**2. Pesquisar Usuário**
+
+- No campo **Select a user**, digite **Beth**.
+
+**3. Selecionar Usuário**
+
+- Selecione **Beth Anglin**.
+
+**4. Confirmar Personificação**
+
+- Selecione o botão **Impersonate user**.
+    - **Explicação:** Você assumirá temporariamente a identidade de Beth. A instância abre automaticamente a página inicial do **Service Operations Workspace** e uma janela pop-up de boas-vindas.
+    - **Nota:** Observe a imagem no menu do usuário. Agora ela mostra a Beth com um círculo vermelho ao redor da imagem e um pequeno símbolo de olho. Há também uma linha vermelha no topo da instância.
+
+**5. Fechar Pop-up**
+
+- Feche a janela pop-up **Welcome to Service Operations Workspace**.
+
+**6. Navegação**
+
+- Navegue até o menu **All**. No **Filter navigator**, digite **incident**.
+
+**7. Criar Novo**
+
+- Selecione **Incident > Create New**.
+    - **Nota:** Daqui para frente, os passos de navegação serão mostrados simplificados, como: **All > Incident > Create New**.
+
+    **Cenário:**
+Vamos usar o que você aprendeu até agora para criar um **Incident**. Você acabou de receber uma ligação de Fred Luddy sobre um problema com seu aplicativo móvel para funcionários (*Conference Mobile App for Staff*).
+
+**8. Preencher detalhes do chamado**
+Complete o formulário da seguinte maneira:
+
+- **Caller:** Fred Luddy
+- **Category:** Software
+- **Subcategory:** deixe como `- None --`
+- **Short description:** Cannot get the Conference Event Mobile app for staff to launch. It is flashing error 555.
+- **Description:** It was working yesterday, but not this morning. This is urgent! The event starts in 3 hours.
+    - *(Dica: Você pode copiar e colar os textos em inglês para os campos de descrição)*.
+
+**9. Selecionar Serviço**
+
+- Para **Service**, digite **Conference**, e então selecione **Conference Event Services**.
+    - **Nota:** O **Service** é o serviço geral que precisa dar suporte a partes do negócio. Por exemplo, o *Conference Event Service* apoia o departamento de marketing ao planejar e hospedar eventos.
+
+**10. Selecionar Oferta de Serviço**
+
+- Para **Service offering**, digite **Event Mobile**, e então selecione **Event Mobile for Staff Service Offering**.
+    - **Nota:** **Service offerings** são serviços que os usuários podem solicitar para ajudar a realizar seu trabalho, como trabalhar no Planejamento e Execução de Eventos de Conferência.
+
+**11. Selecionar Item de Configuração**
+
+- Para **Configuration item**, digite **Event Mobile**, e então selecione **Event Mobile for Staff Application**.
+
+**12. Completar restante do formulário**
+Continue preenchendo o formulário da seguinte forma:
+
+- **Channel:** Phone
+- **State:** Deixe como **New**
+- **Impact:** 1-High
+- **Urgency:** 1-High
+- **Priority:** Automaticamente calculado como **1 - Critical**
+- **Assignment Group:** deixe em branco (*leave blank*)
+- **Assigned to:** deixe em branco (*leave blank*)
+
+**13. Salvar (Sem submeter)**
+
+- Clique com o botão direito no **form header** (cabeçalho do formulário) ou selecione o menu **Additional actions** para escolher **Save**.
+    - **Importante:** **NÃO** submeta (*Submit*) o incidente. O botão *Submit* sai do formulário e leva você de volta à lista.
+
+**14. Verificar Atribuição Automática**
+
+- Verifique se o **Assignment group** foi preenchido automaticamente (*auto-populated*) com **Conference Event App Support**.
+
+**15. Localizar campos de anotações**
+
+- Na aba **Notes**, localize os campos **Work notes** e **Additional comments**.
+- Se apenas um dos campos estiver visível, selecione o ícone **Show all journal fields** para ver ambos os campos ao mesmo tempo.
+
+**16. Inserir Notas**
+Complete o formulário com as seguintes informações:
+
+- **Work notes:** No outages have been reported, am routing to the Conference Event App support team.
+- **Additional comments:** Fred, we are working on getting the app up and running.
+
+**17. Atualizar**
+
+- Selecione **Update**.
+    - **Nota:** Observe os dois tipos de notas. **Work notes** são usadas para documentar notas internas relacionadas ao trabalho no incidente. **Additional comments** são visíveis para o cliente (*customer*).
+    - **Nota:** Os botões **Submit** e **Update** salvam as alterações feitas no formulário e levam você de volta à página anterior. Selecionar **Post** é outra opção que manterá você no formulário.
+
+**18. Acessar Histórico**
+
+- Selecione o menu **History** para localizar e abrir o registro do **Incident** que você acabou de criar.
+
+**19. Revisar Atividade**
+
+- Na aba **Notes**, revise o **Activity stream** para confirmar que as **work notes** e **additional comments** foram gravados lá.
+
+**20. Listas Relacionadas**
+
+- Revise as **Related Lists** (Listas Relacionadas) que agora estão disponíveis.
+
+### **Nota sobre Listas Relacionadas**
+
+> As Related lists (Listas relacionadas) contêm informações relacionadas ao registro, como Acordos de Nível de Serviço (Task SLAs), Serviços Impactados (Impacted Services) e Ofertas de Serviço (Service Offerings). Elas não são a mesma coisa que os itens encontrados na lista de Related Links, que são UI Actions (Ações de Interface). Ambos serão discutidos mais tarde no curso.
+>
+
