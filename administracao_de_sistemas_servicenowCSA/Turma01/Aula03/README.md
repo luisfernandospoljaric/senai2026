@@ -93,3 +93,49 @@ necessário.
 Os usuários solicitarão informações dos aplicativos no servidor e o servidor responderá com os
 dados encontrados. Isso pode incluir solicitações para inserir um novo registro, obter uma lista de
 registros, um único registro, executar um relatório, visualizar um painel, etc.
+
+---
+
+## Lab 1 - Baixar Conteúdos da Aula
+
+### **Seção 1: Baixar recursos do curso**
+
+**1. Entendendo a dinâmica do curso**
+Durante este curso, você praticará conceitos através de exercícios de laboratório práticos (*hands-on*). Alguns laboratórios exigem arquivos de exercício específicos que você usará para completar as tarefas.
+
+**2. Prática Adicional e Ambiente**
+O curso também oferece conteúdo prático extra, caso você queira aprender sobre recursos adicionais não abordados em aula.
+
+- Essa prática adicional pode ser encontrada no **Now Learning**, na página inicial do curso.
+- Você deve completá-la no seu próprio ritmo, utilizando uma **Personal Developer Instance (PDI)**.
+
+**3. Acessando os Materiais**
+Os links fornecidos na tela irão direcioná-lo para a pasta **ServiceNow Administration Fundamentals Course Materials**. Lá você encontrará todos os recursos necessários para a aula (disponíveis em inglês e japonês).
+
+**4. Conteúdo das pastas "Course Resources"**
+As pastas contêm os seguintes arquivos:
+
+- **Lab Exercise Materials:** Arquivos de logotipo e planilhas para uso durante os exercícios de laboratório.
+- **Capstone:** O **Capstone Project** foi projetado para testar o conhecimento adquirido em aula e dar a você a chance de explorar a **ServiceNow Platform**.
+
+** 5. Ação Final**
+
+- Selecione os links na parte inferior (ex: **ServiceNow Administration Fundamentals Course Materials (English)**) para acessar e baixar os recursos.
+
+### **Seção 2: Explorar os recursos**
+
+**1. Baixar o arquivo**
+
+- Faça o **Download** da pasta para um local de sua escolha.
+- Lembre-se de onde você salvou os arquivos, pois precisará encontrá-los mais tarde.
+
+**2. Localizar o arquivo**
+
+- Navegue até o arquivo **.zip** que agora está salvo em sua unidade local (*local drive*).
+
+**3. Extrair o conteúdo**
+
+- Descompacte (**Unzip**) o arquivo, conforme suportado pelo seu sistema operacional.
+
+**Resultado:**
+Assim que o arquivo for descompactado, você verá pastas que contêm seus materiais. Cada pasta contém arquivos específicos que você usará durante e após o curso.
