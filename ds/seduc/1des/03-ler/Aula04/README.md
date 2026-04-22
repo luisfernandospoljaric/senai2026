@@ -52,32 +52,22 @@ Com base no texto acima, responda:
 ---
 
 ### b) Liste os Requisitos Funcionais (RF)
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
+- [RF001]...
+- [RF002]...
+...
 ---
 
 ### c) Liste os Requisitos Não Funcionais (RNF)
-1.
-2.
-3.
-4.
-5.
+1.[RNF001]...
+2.[RNF002]...
+...
 
 ---
 
 ### d) Identifique as Regras de Negócio (RN)
-1.
-2.
-3.
-4.
-5.
-6.
+- [RN001]
+- [RN002]
+...
 ---
 
 ### e) Desenvolva um Diagrama de Caso de Uso
