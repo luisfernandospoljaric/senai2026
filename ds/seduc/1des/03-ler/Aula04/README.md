@@ -17,6 +17,31 @@ Ao devolver o veículo, o sistema deve calcular o valor total com base na quanti
 Apenas funcionários podem cadastrar veículos no sistema.
 
 ---
+## Texto para interpretação mais detalhado
+
+Uma locadora de veículos chamada DriveNow deseja informatizar seu sistema de aluguel de carros.
+
+Atualmente, todo o controle é feito manualmente, o que gera atrasos e erros. A empresa precisa de um sistema digital que seja rápido, confiável e fácil de usar, tanto para clientes quanto para funcionários.
+
+O sistema deverá funcionar via internet (web), permitindo acesso por meio de navegadores em diferentes dispositivos, como computadores e celulares.
+
+Os clientes poderão se cadastrar informando seus dados pessoais, como nome, CPF, telefone e e-mail. Durante esse processo, é importante que os dados sejam armazenados com segurança, evitando acessos indevidos.
+
+Para alugar um veículo, o cliente deve possuir CNH válida.
+
+Os veículos terão informações como modelo, marca, ano, placa e status (disponível ou alugado). O sistema deve permitir que essas informações sejam exibidas de forma organizada e de fácil visualização.
+
+O cliente poderá consultar veículos disponíveis e realizar reservas. Essas operações devem acontecer de forma rápida, sem demoras no carregamento das informações.
+
+No momento da retirada, o funcionário confirma a locação e registra a data de retirada e a previsão de devolução. Todas essas ações devem ser registradas no sistema para controle e auditoria.
+
+Ao devolver o veículo, o sistema calcula o valor total com base nos dias utilizados. Caso haja atraso, será aplicada uma taxa adicional por dia.
+
+Para garantir a segurança das informações, o sistema deve realizar backup automático dos dados regularmente.
+
+Apenas funcionários autorizados poderão cadastrar veículos no sistema.
+
+---
 
 ##  Atividade
 
