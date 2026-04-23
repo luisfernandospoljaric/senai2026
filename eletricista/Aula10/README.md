@@ -23,7 +23,7 @@ A função **SOMASE** soma valores **com base em um critério**.
 =SOMASE(intervalo; critério; [intervalo_soma])
 ```
 
-### 🔍 Parâmetros:
+### Parâmetros:
 - **intervalo** → onde o Excel vai verificar a condição  
 - **critério** → a condição (ex: "Vendas", ">100")  
 - **intervalo_soma** → os valores que serão somados  
