@@ -181,14 +181,14 @@ Resultado: **2** (segundo maior)
 
 ## Exercício:
 
-# 📊 Exercício Prático de Excel – Funções (SOMASE, CONT.SE, SE e ORDEM)
+# Exercício Prático de Excel – Funções (SOMASE, CONT.SE, SE e ORDEM)
 
-## 🎯 Objetivo
+## Objetivo
 Trabalhar com uma tabela realista utilizando funções importantes do Excel.
 
 ---
 
-## 📋 Tabela Base
+## Tabela Base
 
 Os alunos devem montar a seguinte tabela no Excel:
 
