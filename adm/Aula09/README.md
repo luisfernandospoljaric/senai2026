@@ -191,18 +191,18 @@ Monte a seguinte tabela no Excel:
 
 | ID | Nome       | Setor   | Salário | Vendas | Faltas | Nota Avaliação |
 |----|-----------|--------|--------|--------|--------|----------------|
-| 1  | Ana       | Vendas | 2500   | 12000  | 2      | 8.5            |
-| 2  | Bruno     | TI     | 4000   | 3000   | 0      | 9.0            |
-| 3  | Carlos    | Vendas | 2700   | 15000  | 1      | 7.0            |
-| 4  | Daniela   | RH     | 3200   | 0      | 3      | 6.5            |
-| 5  | Eduardo   | TI     | 4500   | 2000   | 0      | 8.0            |
-| 6  | Fernanda  | Vendas | 2600   | 18000  | 4      | 9.5            |
-| 7  | Gabriel   | RH     | 3000   | 0      | 2      | 7.5            |
-| 8  | Helena    | TI     | 4200   | 3500   | 1      | 8.8            |
-| 9  | Igor      | Vendas | 2800   | 22000  | 0      | 9.2            |
-| 10 | Juliana   | RH     | 3100   | 0      | 5      | 6.0            |
-| 11 | Kleber    | TI     | 3900   | 2500   | 2      | 7.8            |
-| 12 | Larissa   | Vendas | 2600   | 14000  | 1      | 8.3            |
+| 1  | Ana       | Vendas | 2500   | 12000  | 2      | 8,5            |
+| 2  | Bruno     | TI     | 4000   | 3000   | 0      | 9,0            |
+| 3  | Carlos    | Vendas | 2700   | 15000  | 1      | 7,0            |
+| 4  | Daniela   | RH     | 3200   | 0      | 3      | 6,5            |
+| 5  | Eduardo   | TI     | 4500   | 2000   | 0      | 8,0            |
+| 6  | Fernanda  | Vendas | 2600   | 18000  | 4      | 9,5            |
+| 7  | Gabriel   | RH     | 3000   | 0      | 2      | 7,5            |
+| 8  | Helena    | TI     | 4200   | 3500   | 1      | 8,8            |
+| 9  | Igor      | Vendas | 2800   | 22000  | 0      | 9,2            |
+| 10 | Juliana   | RH     | 3100   | 0      | 5      | 6,0            |
+| 11 | Kleber    | TI     | 3900   | 2500   | 2      | 7,8            |
+| 12 | Larissa   | Vendas | 2600   | 14000  | 1      | 8,3            |
 
 ---
 
