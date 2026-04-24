@@ -71,3 +71,7 @@ Ao final, a planilha deve conter:
 - Coluna de Ranking
 - Resultados das funções aplicadas
 
+## Entrega
+- Nome completo deve estar no formulário e no arquivo das atividades.
+
+https://forms.gle/unQVuAHycgw2W8838
