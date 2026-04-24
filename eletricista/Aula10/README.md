@@ -252,3 +252,7 @@ Ao final, a planilha deve conter:
 - Coluna de Ranking
 - Resultados das funções aplicadas
 
+## Entrega
+- Colocar seu nome no arquivo do Excel.
+
+https://forms.gle/FtU745sv6aF7on3J6
