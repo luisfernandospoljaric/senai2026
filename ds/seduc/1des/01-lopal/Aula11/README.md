@@ -154,6 +154,21 @@ Clique no link abaixo para acessar:
 ### Exercício 1
 Peça um número inteiro e mostre ele na tela.
 
+```c
+#include <stdio.h>
+
+int main() {
+    int numero;
+
+    printf("Digite um numero inteiro: ");
+    scanf("%d", &numero);
+
+    printf("O numero digitado foi: %d\n", numero);
+
+    return 0;
+}
+```
+
 ---
 
 ### Exercício 2
@@ -162,12 +177,46 @@ Peça dois números e mostre:
 - Subtração  
 - Multiplicação  
 
+```c
+#include <stdio.h>
+
+int main() {
+    int num1, num2;
+
+    printf("Digite o primeiro numero: ");
+    scanf("%d", &num1);
+
+    printf("Digite o segundo numero: ");
+    scanf("%d", &num2);
+
+    printf("Soma: %d\n", num1 + num2);
+    printf("Subtracao: %d\n", num1 - num2);
+    printf("Multiplicacao: %d\n", num1 * num2);
+
+    return 0;
+}
+```
 ---
 
 ### Exercício 3
 Peça a idade e mostre:
 
 Você tem X anos!
+
+```c
+#include <stdio.h>
+
+int main() {
+    int idade;
+
+    printf("Digite sua idade: ");
+    scanf("%d", &idade);
+
+    printf("Voce tem %d anos!\n", idade);
+
+    return 0;
+}
+```
 
 ---
 
@@ -179,6 +228,28 @@ Peça:
 Calcule e mostre:
 
 Total da compra: R$ XX.XX
+
+#include <stdio.h>
+
+```
+int main() {
+    float valor;
+    int quantidade;
+    float total;
+
+    printf("Digite o valor do produto: ");
+    scanf("%f", &valor);
+
+    printf("Digite a quantidade: ");
+    scanf("%d", &quantidade);
+
+    total = valor * quantidade;
+
+    printf("Total da compra: R$ %.2f\n", total);
+
+    return 0;
+}
+```
 
 ---
 
