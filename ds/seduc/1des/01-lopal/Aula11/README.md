@@ -229,7 +229,7 @@ Calcule e mostre:
 
 Total da compra: R$ XX.XX
 
-```
+```c
 #include <stdio.h>
 
 int main() {
