@@ -229,9 +229,9 @@ Calcule e mostre:
 
 Total da compra: R$ XX.XX
 
+```
 #include <stdio.h>
 
-```
 int main() {
     float valor;
     int quantidade;
