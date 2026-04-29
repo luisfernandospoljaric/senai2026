@@ -111,12 +111,13 @@ int main() {
 
 ## 5. Operadores Lógicos
 
+```c
 | Operador | Significado | Exemplo |
 |----------|------------|--------|
 | && | E (AND) | idade >= 18 && idade <= 60 |
 | || | OU (OR) | nota >= 7 || trabalho == 10 |
 | ! | NÃO (NOT) | !(idade < 18) |
-
+```
 ### Exemplo:
 ```c
 #include <stdio.h>
