@@ -182,7 +182,7 @@ int main() {
 - `if/else if` → várias decisões  
 - `switch` → múltiplos valores fixos  
 
-## Atividade: 
+## Atividades: 
 
 ### Exercício 1
 Faça um Programa que peça dois números e imprima o maior deles.
