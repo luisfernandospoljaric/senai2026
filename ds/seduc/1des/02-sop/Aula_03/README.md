@@ -82,7 +82,10 @@ Considere seus conhecimentos em Máquina Virtual e realize os seguintes procedim
 
 
 
-# Atividade Avaliativa 02 - Comando via Terminal CMD
+# Atividade Avaliativa 02 - Comando via Terminal Windows CMD
 [Clique aqui para realizar a atividade](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNUVVOFA0S0FBTzVNT1NVSklBOTg2UTY2Ti4u)
+
+# Atividade Avaliativa 03 - Comando via Terminal Linux CMD
+[Clique aqui para realizar a atividade](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUQldITkhYTEJKVjlFOVBHMTRDMEhMUjNLSC4u)
 
 
