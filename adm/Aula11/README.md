@@ -108,7 +108,7 @@ A cafeteria deseja financiar **R$ 18.000** para compra de equipamentos.
 **Fórmula esperada:**
 
 ```excel
-=-PGTO(B3;B4;B2)
+=
 ```
 
 ## Situação 2 — VP (valor presente)
@@ -129,7 +129,7 @@ A cafeteria pode pagar R$ 850 por mês durante 18 meses.
 **Fórmula esperada:**
 
 ```excel
-=VP(B2;B3;-B1)
+=
 ```
 
 ## Situação 3 — VF (valor futuro)
@@ -150,7 +150,7 @@ O proprietário pretende investir R$ 500 por mês durante 30 meses.
 
 **Fórmula esperada:**
 ```
-=VF(B2;B3;-B1;0)
+=
 ```
 
 ## Situação 4 — TAXA (taxa de juros)
@@ -171,7 +171,7 @@ A cafeteria financiou R$ 12.000.
 
 **Fórmula esperada:**
 ```
-=TAXA(B3;-B2;B1)
+=
 ```
 
 ## Situação 5 — NPER (número de períodos)
@@ -193,5 +193,5 @@ A cafeteria possui uma dívida de R$ 7.500.
 
 **Fórmula esperada:**
 ```
-=NPER(B3;-B2;B1)
+=
 ```
