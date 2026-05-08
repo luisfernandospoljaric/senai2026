@@ -94,7 +94,7 @@ Apresentar:
 - Conduz a conversa
 
 ## Co-apresentador
-- Auxilia o aprensetador
+- Auxilia o apresentador
 - Auxilia em todos os debates
 
 ## Convidado(s)
