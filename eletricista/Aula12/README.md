@@ -115,9 +115,44 @@ Apresentar:
 
 ---
 
-# Parte Visual da Aprensetação
+# Parte Visual da Apresentação
 - Crie um logo para o PodCast para ser projetado em sala.
 - Crie um Roteiro do PodCast a ser seguido em **Word**
 - Use a criatividade para transformar em algo divertido e que prenda a atenção dos ouvintes.
 
 --- 
+
+# Grupos
+
+### Grupo 1
+- Enzo
+- Caio
+- Danilo
+Tema:
+
+### Grupo 2
+- Cristiano Ronaldo
+- Quézia
+- Cauã
+Tema: 
+
+### Grupo 3
+- João
+- Arthur
+- Samuel
+- Vitor
+Tema:
+
+### Grupo 4
+- Gabriella
+- Yasmin
+- Raissa
+- Bryan
+Tema:
+
+### Grupo 5
+- Nataly
+- Larissa
+- Giovana
+- Guilherme
+Tema: 
