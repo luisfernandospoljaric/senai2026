@@ -128,31 +128,31 @@ Apresentar:
 - Enzo
 - Caio
 - Danilo
-Tema:
+    - Tema:
 
 ### Grupo 2
 - Cristiano Ronaldo
 - Quézia
 - Cauã
-Tema: 
+    - Tema: 
 
 ### Grupo 3
 - João
 - Arthur
 - Samuel
-- Vitor
-Tema:
+- Victor
+    - Tema:
 
 ### Grupo 4
 - Gabriella
 - Yasmin
 - Raissa
 - Bryan
-Tema:
+    - Tema:
 
 ### Grupo 5
 - Nataly
 - Larissa
 - Giovana
 - Guilherme
-Tema: 
+    - Tema: 
