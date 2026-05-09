@@ -4,6 +4,10 @@ O **ServiceNow** é uma plataforma em nuvem voltada para **gestão de serviços 
 
 ---
 
+## Notion
+
+https://senaisp.notion.site/2-ProEducador-Administra-o-de-Sistemas-ServiceNow-CSA-2bc9251860df81d483e7db98c830d4de
+
 ## O que é o ServiceNow?
 
 O ServiceNow funciona como um sistema central que permite **gerenciar solicitações, incidentes, problemas e fluxos de trabalho** dentro de uma organização. Ele ajuda equipes a trabalharem de forma mais eficiente, reduzindo tarefas manuais.
