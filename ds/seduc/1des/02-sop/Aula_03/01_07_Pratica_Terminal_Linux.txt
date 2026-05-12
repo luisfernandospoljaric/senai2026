@@ -1,0 +1,43 @@
+1) Crie uma pasta em Documentos com o nome de Dev;
+
+2) Crie os seguintes arquivos dentro da pasta Dev:
+
+	so.txt
+	redes.txt
+	logica.txt
+
+3) Escreva no arquivo so.txt 3 sistemas operacionais sendo (1 para servidores, 1 para computadores pessoais e 1 para dispositivos móveis);
+
+4) Limpe os dados de exibição do terminal;
+
+5) Exiba as informações na tela do arquivo so.txt;
+
+6) Escreva no arquivo redes.txt o nome de um protocolo de rede e sua aplicação;
+
+7) Limpe os dados de exibição do terminal;
+
+8) Exiba as informações na tela do arquivo redes.txt;
+
+9) Escreva no arquivo logica.txt uma estrutura de repetição utilizada em Portugol ou C;
+
+10) Limpe os dados de exibição do terminal;
+
+11) Exiba as informações na tela do arquivo so.txt;
+
+12) Crie uma pasta dentro de Dev com o nome de Lixo;
+
+13) Mova o arquivo logica.txt para a pasta Lixo;
+
+14) Faça uma cópia do arquivo so.txt para so2.txt;
+
+15) Liste os arquivos e pastas dentro de Dev;
+
+16) Exclua o arquivo so.txt;
+
+17) Exclua o diretório Lixo;
+
+18) Mostre o caminho atual do diretório;
+
+19) Limpe os dados de exibição do terminal;
+
+20) Feche o terminal;
