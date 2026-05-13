@@ -263,10 +263,6 @@ Utilizando a tabela acima:
 2. O gráfico deve possuir:
    - Título: **Vendas de Produtos**
    - Rótulos de dados
-   - Legenda visível
-3. Altere a cor das colunas.
-4. Deixe o gráfico com aparência profissional.
-
 ---
 
 # Exercício 2 — Gráfico de Pizza
@@ -292,8 +288,6 @@ Utilizando a tabela acima:
    - Título: **Distribuição de Gastos**
    - Porcentagens visíveis
    - Legenda posicionada à direita
-3. Destaque a maior fatia do gráfico.
-4. Utilize cores diferentes para cada categoria.
 
 ---
 
@@ -322,7 +316,6 @@ Utilizando a tabela acima:
    - Marcadores nos pontos da linha
    - Linha suavizada
 3. Insira rótulos de dados.
-4. Personalize as cores do gráfico.
 
 ---
 
@@ -349,8 +342,6 @@ Utilizando a tabela acima:
    - Título: **Atendimentos por Funcionário**
    - Barras coloridas
    - Rótulos de dados
-3. Organize as barras da maior para a menor.
-4. Remova linhas desnecessárias do gráfico.
 
 ---
 
@@ -379,8 +370,6 @@ Utilizando a tabela acima:
    - Área preenchida com cor personalizada
    - Legenda visível
 3. Adicione rótulos de dados.
-4. Ajuste o tamanho do gráfico para melhor visualização.
-
 ---
 
 # Exercício 6 — Desafio
@@ -407,5 +396,3 @@ Utilizando a tabela acima:
    - Título personalizado
    - Rótulos de dados
    - Cores personalizadas
-4. Formate o gráfico para apresentação profissional.
-5. Explique por que escolheu esse tipo de gráfico.
