@@ -661,5 +661,7 @@ Monte um pequeno documento de requisitos contendo:
 
 # Formulário para as Respostas:
 - Atividade deve ser no máximo em 3 pessoas.
+- Encaminhe o documento no e-mail do professor: luis.spoljaric@sp.senai.br
+- E-mail deve conter assunto e corpo.
 
 https://forms.cloud.microsoft/r/1x5QHgwDw0
