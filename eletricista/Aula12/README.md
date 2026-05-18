@@ -128,31 +128,31 @@ Apresentar:
 - Enzo
 - Caio
 - Danilo
-    - Tema:
+    - Tema: Industrial 4.0
 
 ### Grupo 2
 - Cristiano Ronaldo
 - Quézia
 - Cauã
-    - Tema: 
+    - Tema: NR
 
 ### Grupo 3
 - João
 - Arthur
 - Samuel
 - Victor
-    - Tema:
+    - Tema: Importancia geral do curso
 
 ### Grupo 4
 - Gabriella
 - Yasmin
 - Raissa
 - Bryan
-    - Tema:
+    - Tema: Phishing 
 
 ### Grupo 5
 - Nataly
 - Larissa
 - Giovana
 - Guilherme
-    - Tema: 
+    - Tema: Curto Circuito
