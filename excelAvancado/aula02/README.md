@@ -4,7 +4,7 @@ As funções `PROCV` e `PROCH` são utilizadas para buscar informações em tabe
 
 ---
 
-# O que é PROCV?
+# O que é PROCV (VLOOKUP)?
 
 O `PROCV` significa:
 
@@ -107,7 +107,7 @@ Resultado:
 
 ---
 
-# O que é PROCH?
+# O que é PROCH (HLOOKUP)?
 
 O `PROCH` significa:
 
