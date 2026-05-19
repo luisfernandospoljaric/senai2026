@@ -1,7 +1,7 @@
 # Sistemas Operacionais (SOP) - 6.Segurança Cibernética:
 
-- 6 Segurança cibernética
-	6.1. Definição
+- 6 Segurança cibernética<br />
+	&emsp;6.1. Definição
 	6.2. Ameaças
 	6.3. Vulnerabilidades
 	6.4. Credenciais
