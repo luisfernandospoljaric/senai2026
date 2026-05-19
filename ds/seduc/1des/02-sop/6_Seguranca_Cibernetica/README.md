@@ -13,7 +13,7 @@
 # Material de Apoio:
 
 <h3>Apresentação Segurança Cibernética / Digital.</h3>
-[Clique aqui para acessar o material](https://github.com/luisfernandospoljaric/senai2026/tree/main/ds/seduc/1des/02-sop/6_Seguranca_Cibernetica)
+[Clique aqui para acessar o material](https://github.com/luisfernandospoljaric/senai2026/tree/main/ds/seduc/1des/02-sop/6_Seguranca_Cibernetica.pdf)
 
 ## Video: Tipo de Malware'seguintes
 [Clique aqui para assistir o vídeo](https://github.com/luisfernandospoljaric/senai2026/tree/main/ds/seduc/1des/02-sop/6_Seguranca_Cibernetica)
