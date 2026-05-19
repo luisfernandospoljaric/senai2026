@@ -1,0 +1,55 @@
+# Sistemas Operacionais (SOP) - 6.Segurança Cibernética:
+
+- 6 Segurança cibernética
+	6.1. Definição
+	6.2. Ameaças
+	6.3. Vulnerabilidades
+	6.4. Credenciais
+	6.5. Engenharia Social
+	6.6. Intervenções
+	6.6.1.Proteção
+	6.6.2.Prevenção
+
+# Material de Apoio:
+
+## Apresentação Segurança Cibernética / Digital.
+[Clicque aqui para acessar o material]()
+
+## Video: Tipo de Malware'seguintes
+[Clique aqui para assistir o vídeo]()
+
+## Video: Tipo de Malware'seguintes
+[Clique aqui para assistir o vídeo]()
+
+# Atividade em Grupo:
+
+Considere seus conhecimentos em Sistemas Operacionais relacionados a Segurança Cibernética.SOP_01_01_Sistemas_Operacionais.pdf)
+
+# Orientações:
+
+1. Deverá ser criado **3 grupos** podendo ser sorteado os integrantes ou organizado entre os mesmos;
+
+2. Cada grupo deverá votar e eleger um **Líder**;
+
+3. Será sorteado os Temas e direcionado ao grupo pela ordem de sorteio;
+
+4. 
+
+**Grupo 01:** Golpes Digitais<br />
+**Grupo 02:** Tipos de Softwares Maliciosos<br />
+**Grupo 03:** Lei de Proteções Gerais de Dados<br />
+
+5. Cada integrante do Grupo deverá preencher o fomulário abaixo com o conteúdo ao qual fará a sua apresentação.
+
+6. O Lider deverá gerenciar a equipe e construção de uma apresentação sobre o Tema sorteado (anteriormente).
+
+
+# RECURSOS QUE PODEM SER UTILIZADOS:
+
+1) Caderno.
+2) Computador.
+3) Internet.
+
+
+
+
