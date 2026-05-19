@@ -213,7 +213,7 @@ fimalgoritmo
 
 ## 
 
-# Exercícios de Laços de Repetição em Portugol
+# Exercícios de Laços de Repetição em C
 
 A seguir estão **6 exercícios simples para iniciantes**, sendo:
 

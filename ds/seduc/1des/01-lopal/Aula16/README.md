@@ -139,5 +139,9 @@ Crie um algoritmo que peça uma **senha ao usuário**.
 
 O programa deve continuar pedindo a senha **até que o usuário digite 1234**.
 
-Quando a senha estiver correta, mostre a mensagem:
+Quando a senha estiver correta, mostre a mensagem: Senha válida!
 ---
+
+## Formulário pra envio - Valendo pontos nas atividade complementares:
+
+https://forms.cloud.microsoft/r/SaNuACREwi
