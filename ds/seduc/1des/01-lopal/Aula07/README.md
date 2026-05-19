@@ -217,9 +217,9 @@ fimalgoritmo
 
 A seguir estão **6 exercícios simples para iniciantes**, sendo:
 
-- **2 exercícios com `para`**
-- **2 exercícios com `enquanto`**
-- **2 exercícios com `repita até`**
+- **2 exercícios com `FOR`**
+- **2 exercícios com `While`**
+- **2 exercícios com `Do-While`**
 
 ---
 
