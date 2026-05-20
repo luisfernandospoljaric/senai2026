@@ -13,13 +13,19 @@
 # Material de Apoio:
 
 <h3>Apresentação Segurança Cibernética / Digital.</h3>
-<a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/6_Seguranca_Cibernetica/01_Seguranca_Digital.pdf">Clique aqui para assistir o vídeo<a>
+<a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/6_Seguranca_Cibernetica/01_Seguranca_Digital.pdf">Clique aqui para acessar o material<a>
+
+## Video: Tipo de Golpes Digitais
+<a href="https://www.youtube.com/watch?v=LYtI56d68C8">Clique aqui para assistir o Vídeo<a>
 
 ## Video: Tipo de Malware'seguintes
-[Clique aqui para assistir o vídeo](https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/02-sop/6_Seguranca_Cibernetica/01_Seguranca_Digital.pdf)
+<a href="https://www.youtube.com/watch?v=TjtUPdpTOGA">Clique aqui para assistir o Vídeo<a>
 
-## Video: Tipo de Malware'seguintes
-[Clique aqui para assistir o vídeo]()
+## Video: Lei Geral de Proteção de Dados (LGPD)
+<a href="https://www.youtube.com/watch?v=EWoe_IUmd3A">Clique aqui para assistir o Vídeo<a>
+
+
+
 
 # Atividade em Grupo:
 
