@@ -1,6 +1,6 @@
 # Arquitetura de Redes com IoT (ARI) - 3. Equipamentos de rede:
 
-- 3. Equipamentos de rede<br />
+3. Equipamentos de rede<br />
 	&emsp;3.1. Roteador<br />
 	&emsp;3.2. Switch<br />
 	&emsp;3.3. Access Point<br />
