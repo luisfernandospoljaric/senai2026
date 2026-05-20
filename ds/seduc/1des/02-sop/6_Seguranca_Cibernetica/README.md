@@ -29,7 +29,7 @@
 
 # Atividade em Grupo:
 
-Considere seus conhecimentos em Sistemas Operacionais relacionados a Segurança Cibernética.SOP_01_01_Sistemas_Operacionais.pdf)
+Considere seus conhecimentos em Sistemas Operacionais relacionados a Segurança Cibernética
 
 # Orientações:
 
@@ -39,7 +39,7 @@ Considere seus conhecimentos em Sistemas Operacionais relacionados a Segurança 
 
 3. Será sorteado os Temas e direcionado ao grupo pela ordem de sorteio;
 
-4. 
+4. Pela ordem de sorteio os grupos deverão apresentar os seguintes temas:
 
 **Grupo 01:** Golpes Digitais<br />
 **Grupo 02:** Tipos de Softwares Maliciosos<br />
@@ -49,6 +49,7 @@ Considere seus conhecimentos em Sistemas Operacionais relacionados a Segurança 
 
 6. O Lider deverá gerenciar a equipe e construção de uma apresentação sobre o Tema sorteado (anteriormente).
 
+7. Todos da equipe deverão apresentar.
 
 # RECURSOS QUE PODEM SER UTILIZADOS:
 
