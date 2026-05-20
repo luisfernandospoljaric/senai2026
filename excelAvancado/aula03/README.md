@@ -287,7 +287,7 @@ Resultado:
 
 ---
 
-# Exemplo Avançado — Buscar Nome e Coluna
+# Exemplo  — Buscar Nome e Coluna
 
 ## Tabela
 
@@ -320,7 +320,7 @@ Resultado:
 
 ---
 
-# Exemplo SUPER Avançado (Busca em Linha e Coluna)
+# Exemplo  (Busca em Linha e Coluna)
 
 ## Tabela
 
