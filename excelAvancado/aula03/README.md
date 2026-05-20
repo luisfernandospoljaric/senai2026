@@ -5,7 +5,7 @@ Elas são consideradas uma alternativa mais poderosa ao PROCV.
 
 ---
 
-# 1. Função CORRESP
+# 1. Função CORRESP (MATCH)
 
 A função **CORRESP** procura um valor dentro de uma linha ou coluna e retorna a posição desse valor.
 
@@ -79,7 +79,7 @@ o item **Monitor** é o **3º elemento**.
 
 ---
 
-# 2. Função ÍNDICE
+# 2. Função ÍNDICE (INDEX)
 
 A função **ÍNDICE** retorna o valor de uma célula com base na linha e coluna informadas.
 
