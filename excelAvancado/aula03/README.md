@@ -420,3 +420,22 @@ Isso evita problemas ao arrastar fórmulas.
 ```excel
 =SEERRO(ÍNDICE(B2:B5;CORRESP(E2;A2:A5;0));"Não encontrado")
 ```
+
+---
+
+# Atividade 01 
+
+- 1 Utilizando a função **PROCV()** preencha a coluna **G "Valor unitário"** buscando os dados na **tabela** ao lado
+- 2 Também utilizando a função **PROCV()** preencha a coluna **H "Frete"** buscando os dados na **tabela** ao lado.
+- 3 Calcule o total na coluna **I "Total", o frete é por produto, verifique a quantidade de cada produto e some ao frete.
+- 4 Calcule o "Total" geral na célula **I32**
+
+**Faça o download da tabela Exercício01**
+
+---
+# Atividade 02
+
+- Faça o download do **Exercicio.pdf** e do excel **Base Exercicio**
+
+# Formulário para entrega
+https://forms.gle/C3ByYCwktiSX7e3C8
