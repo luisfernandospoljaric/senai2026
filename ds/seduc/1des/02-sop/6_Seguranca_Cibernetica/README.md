@@ -45,7 +45,9 @@ Considere seus conhecimentos em Sistemas Operacionais relacionados a Segurança 
 **Grupo 02:** Tipos de Softwares Maliciosos<br />
 **Grupo 03:** Lei de Proteções Gerais de Dados<br />
 
-5. Cada integrante do Grupo deverá preencher o fomulário abaixo com o conteúdo ao qual fará a sua apresentação.
+5. Cada integrante do Grupo deverá preencher o fomulário abaixo com o conteúdo ao qual fará a sua apresentação.<br />
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUQlhPQjcyRkJPTk5WNU5FNVdDUVFDT1I2VS4u">Clique aqui para preencher o formulário<a>
+
 
 6. O Lider deverá gerenciar a equipe e construção de uma apresentação sobre o Tema sorteado (anteriormente).
 
