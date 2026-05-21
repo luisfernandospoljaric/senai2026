@@ -18,6 +18,18 @@ As funções de data no Excel são muito utilizadas para:
 
 ---
 
+| Função em Português | Função em Inglês | Resumo / Para que serve |
+|---|---|---|
+| DIADASEMANA | WEEKDAY | Retorna o número correspondente ao dia da semana de uma data (ex.: domingo = 1, segunda = 2). |
+| DIATRABALHO | WORKDAY | Retorna uma data futura ou passada considerando apenas dias úteis, ignorando finais de semana e feriados. |
+| DIATRABALHO.INTL | WORKDAY.INTL | Semelhante ao DIATRABALHO, mas permite configurar quais dias serão considerados finais de semana. |
+| DIATRABALHOTOTAL | NETWORKDAYS | Calcula a quantidade de dias úteis entre duas datas, desconsiderando finais de semana e feriados. |
+| DIATRABALHOTOTAL.INTL | NETWORKDAYS.INTL | Calcula os dias úteis entre duas datas com possibilidade de personalizar os finais de semana. |
+| DIAS360 | DAYS360 | Calcula a diferença entre duas datas considerando que o ano possui 360 dias (muito usado em cálculos financeiros). |
+| DATADIF | DATEDIF | Calcula a diferença entre duas datas em anos, meses ou dias. Muito usada para calcular idade ou tempo de serviço. |
+
+---
+
 # 1. DIA.DA.SEMANA
 
 ## O que faz?
