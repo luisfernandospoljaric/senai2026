@@ -1,3 +1,383 @@
+
+# Variáveis no VBA do Excel
+
+As variáveis no VBA (Visual Basic for Applications) servem para **armazenar informações temporariamente na memória** enquanto o código está sendo executado.
+
+Elas podem guardar:
+
+- Números
+- Textos
+- Datas
+- Valores verdadeiros/falsos
+- Objetos do Excel
+- Entre outros
+
+---
+
+# Estrutura de uma variável
+
+A declaração de uma variável normalmente é feita usando `Dim`.
+
+## Sintaxe
+
+```vba
+Dim nomeDaVariavel As Tipo
+```
+
+---
+
+# Exemplo simples
+
+```vba
+Sub ExemploVariavel()
+
+    Dim nome As String
+    Dim idade As Integer
+
+    nome = "Luis"
+    idade = 25
+
+    MsgBox nome & " possui " & idade & " anos."
+
+End Sub
+```
+
+---
+
+# Explicando linha por linha
+
+```vba
+Dim nome As String
+```
+
+Cria uma variável chamada `nome` que armazenará texto.
+
+---
+
+```vba
+Dim idade As Integer
+```
+
+Cria uma variável chamada `idade` que armazenará números inteiros.
+
+---
+
+```vba
+nome = "Luis"
+```
+
+Atribui o valor `"Luis"` para a variável.
+
+---
+
+```vba
+idade = 25
+```
+
+Armazena o número 25 na variável.
+
+---
+
+```vba
+MsgBox nome & " possui " & idade & " anos."
+```
+
+Mostra uma caixa de mensagem concatenando os valores.
+
+Resultado:
+
+```text
+Luis possui 25 anos.
+```
+
+---
+
+# Principais Tipos de Variáveis no VBA
+
+| Tipo | Utilização | Exemplo |
+|---|---|---|
+| `Integer` | Números inteiros pequenos | 10 |
+| `Long` | Números inteiros grandes | 100000 |
+| `Double` | Números decimais | 10.5 |
+| `String` | Textos | "Excel" |
+| `Boolean` | Verdadeiro ou falso | True / False |
+| `Date` | Datas e horários | 22/05/2026 |
+| `Variant` | Aceita qualquer tipo | Texto ou número |
+| `Object` | Objetos do Excel | Planilhas |
+| `Worksheet` | Aba do Excel | Sheets("Plan1") |
+| `Workbook` | Arquivo Excel | ThisWorkbook |
+| `Range` | Células | Range("A1") |
+
+---
+
+# Exemplos de cada tipo
+
+## Integer
+
+```vba
+Dim quantidade As Integer
+
+quantidade = 50
+```
+
+---
+
+## Long
+
+```vba
+Dim populacao As Long
+
+populacao = 1000000
+```
+
+---
+
+## Double
+
+```vba
+Dim preco As Double
+
+preco = 99.90
+```
+
+---
+
+## String
+
+```vba
+Dim produto As String
+
+produto = "Notebook"
+```
+
+---
+
+## Boolean
+
+```vba
+Dim aprovado As Boolean
+
+aprovado = True
+```
+
+---
+
+## Date
+
+```vba
+Dim dataAtual As Date
+
+dataAtual = Date
+```
+
+---
+
+## Variant
+
+O VBA identifica automaticamente o tipo armazenado.
+
+```vba
+Dim valor As Variant
+
+valor = 10
+valor = "Texto"
+```
+
+---
+
+# Variáveis de Objetos
+
+No VBA do Excel, usamos muito objetos.
+
+---
+
+## Worksheet
+
+```vba
+Dim ws As Worksheet
+
+Set ws = Sheets("Plan1")
+```
+
+---
+
+## Workbook
+
+```vba
+Dim wb As Workbook
+
+Set wb = ThisWorkbook
+```
+
+---
+
+## Range
+
+```vba
+Dim celula As Range
+
+Set celula = Range("A1")
+```
+
+---
+
+# Diferença entre Variáveis Normais e Objetos
+
+## Variáveis comuns
+
+Usam:
+
+```vba
+=
+```
+
+Exemplo:
+
+```vba
+idade = 20
+```
+
+---
+
+## Objetos
+
+Usam:
+
+```vba
+Set
+```
+
+Exemplo:
+
+```vba
+Set ws = Sheets("Plan1")
+```
+
+---
+
+# Exemplo Prático no Excel
+
+## Ler valor de uma célula
+
+```vba
+Sub LerCelula()
+
+    Dim nome As String
+
+    nome = Range("A1").Value
+
+    MsgBox "O nome digitado foi: " & nome
+
+End Sub
+```
+
+---
+
+# Exemplo Prático Completo
+
+```vba
+Sub CadastroProduto()
+
+    Dim produto As String
+    Dim preco As Double
+    Dim quantidade As Integer
+    Dim total As Double
+
+    produto = Range("A2").Value
+    preco = Range("B2").Value
+    quantidade = Range("C2").Value
+
+    total = preco * quantidade
+
+    MsgBox "Produto: " & produto & vbCrLf & _
+           "Total: R$ " & total
+
+End Sub
+```
+
+---
+
+# Boas práticas
+
+## 1. Sempre use `Option Explicit`
+
+Isso obriga declarar variáveis.
+
+No topo do módulo:
+
+```vba
+Option Explicit
+```
+
+---
+
+## 2. Use nomes claros
+
+Evite:
+
+```vba
+Dim x As Integer
+```
+
+Prefira:
+
+```vba
+Dim quantidadeAlunos As Integer
+```
+
+---
+
+## 3. Escolha o tipo correto
+
+- Inteiros → `Integer` ou `Long`
+- Decimais → `Double`
+- Texto → `String`
+
+---
+
+# Exercício Básico
+
+Crie uma macro que:
+
+1. Leia:
+   - Nome do produto em A1
+   - Preço em B1
+   - Quantidade em C1
+
+2. Calcule o total
+
+3. Mostre uma `MsgBox` com:
+   - Produto
+   - Quantidade
+   - Valor Total
+
+---
+
+# Gabarito
+
+```vba
+Sub Exercicio()
+
+    Dim produto As String
+    Dim preco As Double
+    Dim quantidade As Integer
+    Dim total As Double
+
+    produto = Range("A1").Value
+    preco = Range("B1").Value
+    quantidade = Range("C1").Value
+
+    total = preco * quantidade
+
+    MsgBox "Produto: " & produto & vbCrLf & _
+           "Quantidade: " & quantidade & vbCrLf & _
+           "Total: R$ " & total
+
+End Sub
+```
+
+---
+
 # Estruturas de Decisão em VBA para Excel
 
 As estruturas de decisão permitem que o VBA tome decisões automaticamente com base em condições.
