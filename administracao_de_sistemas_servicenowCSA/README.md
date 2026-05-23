@@ -14,6 +14,9 @@ O ServiceNow funciona como um sistema central que permite **gerenciar solicitaç
 
 ---
 
+## Site para a certificação
+ServiceNow ServiceNow Certified System Administrator (CSA) - ServiceNow University
+---
 ## Principais funcionalidades
 
 ### ITSM (Gerenciamento de Serviços de TI)
