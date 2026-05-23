@@ -14,8 +14,10 @@ O ServiceNow funciona como um sistema central que permite **gerenciar solicitaç
 
 ---
 
-## Site para a certificação
-ServiceNow ServiceNow Certified System Administrator (CSA) - ServiceNow University
+
+## [ServiceNow ServiceNow Certified System Administrator (CSA) - ServiceNow University](https://learning.servicenow.com/lxp/en/pages/now-learning-get-certified?id=amap_detail&achievement_id=208e1d77dbc27f40de3cdb85ca961987)
+
+
 ---
 ## Principais funcionalidades
 
