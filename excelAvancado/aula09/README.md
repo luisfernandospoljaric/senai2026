@@ -366,18 +366,182 @@ Teclado;7;150
 
 ---
 
-# Desafio
+# Bases de Dados para Praticar Power Query
 
-Importe um arquivo de log com
+Aqui estão várias bases em formatos diferentes para você praticar:
 
-```txt
-DataTipoMensagem
-2026-05-27ERRORFalha no sistema
-2026-05-27INFOSistema iniciado
+- importação;
+- limpeza;
+- transformação;
+- divisão de colunas;
+- junções;
+- filtros;
+- tratamento de erros;
+- consolidação de arquivos.
+
+---
+
+# 1. CSV — Vendas
+
+## Arquivo: `vendas.csv`
+
+```csv
+ID_Venda;Data;Cliente;Cidade;Produto;Categoria;Quantidade;Valor
+1001;2026-01-10;Carlos;Campinas;Mouse;Periféricos;2;80
+1002;2026-01-10;Ana;Sumaré;Notebook;Informática;1;3500
+1003;2026-01-11;João;Hortolândia;Monitor;Informática;1;1200
+1004;2026-01-11;Maria;Campinas;Teclado;Periféricos;3;150
+1005;2026-01-12;Fernanda;Paulínia;Headset;Áudio;2;220
+1006;2026-01-12;Pedro;Sumaré;Mouse;Periféricos;1;40
+1007;2026-01-13;Lucas;Campinas;Notebook;Informática;2;7200
+1008;2026-01-13;Juliana;Hortolândia;Monitor;Informática;1;1300
+1009;2026-01-14;Roberto;Paulínia;Webcam;Acessórios;2;300
+1010;2026-01-14;Patricia;Sumaré;Microfone;Áudio;1;450
 ```
 
-Depois
+---
 
-- divida as colunas;
-- filtre somente `ERROR`;
-- carregue em uma tabela no Excel.
+# 2. TXT — Logs de Sistema
+
+## Arquivo: `logs.txt`
+
+```txt
+2026-05-01|INFO|Sistema iniciado
+2026-05-01|WARNING|Uso alto de memória
+2026-05-01|ERROR|Falha no login
+2026-05-02|INFO|Backup executado
+2026-05-02|ERROR|Banco desconectado
+2026-05-03|INFO|Usuário autenticado
+2026-05-03|WARNING|CPU acima do normal
+2026-05-03|ERROR|Timeout no servidor
+```
+
+---
+
+# 3. JSON — API de Clientes
+
+## Arquivo: `clientes.json`
+
+```json
+[
+  {
+    "id": 1,
+    "nome": "Luis",
+    "cidade": "Sumaré",
+    "idade": 25
+  },
+  {
+    "id": 2,
+    "nome": "Ana",
+    "cidade": "Campinas",
+    "idade": 30
+  },
+  {
+    "id": 3,
+    "nome": "Carlos",
+    "cidade": "Hortolândia",
+    "idade": 22
+  }
+]
+```
+
+---
+
+# 4. XML — Produtos
+
+## Arquivo: `produtos.xml`
+
+```xml
+<Produtos>
+  <Produto>
+    <ID>1</ID>
+    <Nome>Mouse</Nome>
+    <Categoria>Periféricos</Categoria>
+    <Preco>80</Preco>
+  </Produto>
+  <Produto>
+    <ID>2</ID>
+    <Nome>Notebook</Nome>
+    <Categoria>Informática</Categoria>
+    <Preco>3500</Preco>
+  </Produto>
+  <Produto>
+    <ID>3</ID>
+    <Nome>Monitor</Nome>
+    <Categoria>Informática</Categoria>
+    <Preco>1200</Preco>
+  </Produto>
+</Produtos>
+```
+
+---
+
+# 5. CSV — Dados “Sujos”
+
+## Arquivo: `dados_sujos.csv`
+
+```csv
+Nome;Cidade;Telefone
+Luis ; Sumaré ; 199999999
+ANA;Campinas;
+Carlos;;188888888
+maria;Hortolândia;177777777
+;Paulínia;166666666
+```
+
+---
+
+# 6. CSV — Financeiro
+
+## Arquivo: `financeiro.csv`
+
+```csv
+Data;Tipo;Descrição;Valor
+2026-01-01;Receita;Venda Notebook;3500
+2026-01-02;Despesa;Conta Energia;-450
+2026-01-03;Receita;Venda Mouse;200
+2026-01-04;Despesa;Internet;-120
+2026-01-05;Receita;Venda Monitor;1200
+2026-01-06;Despesa;Aluguel;-1800
+```
+
+---
+
+# 7. Pasta com vários arquivos CSV
+
+Crie vários arquivos:
+
+- `janeiro.csv`
+- `fevereiro.csv`
+- `marco.csv`
+
+Todos com mesma estrutura:
+
+```csv
+Data;Produto;Valor
+2026-01-01;Mouse;80
+2026-01-02;Teclado;150
+```
+
+---
+
+# 8. Base Relacional (JOIN)
+
+## Clientes
+
+```csv
+ID_Cliente;Nome
+1;Luis
+2;Ana
+3;Carlos
+```
+
+## Pedidos
+
+```csv
+ID_Pedido;ID_Cliente;Produto
+101;1;Mouse
+102;2;Notebook
+103;1;Teclado
+104;3;Monitor
+```
