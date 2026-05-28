@@ -1,330 +1,304 @@
-# Tabela Dinâmica no Excel 
+# Tabela Dinâmica no Excel
 
 ## O que é uma Tabela Dinâmica?
 
-A **Tabela Dinâmica** é uma ferramenta do Excel usada para:
+A **Tabela Dinâmica** é uma ferramenta do Excel utilizada para resumir, organizar, analisar e visualizar grandes volumes de dados de forma rápida e inteligente.
 
-- resumir grandes volumes de dados;
-- organizar informações;
-- fazer análises rápidas;
-- criar relatórios;
-- agrupar dados;
-- calcular totais automaticamente.
+Ela permite transformar uma tabela comum em relatórios dinâmicos, possibilitando alterar a visualização das informações apenas arrastando campos, sem precisar criar fórmulas complexas.
 
-Ela é chamada de “dinâmica” porque você pode reorganizar os dados rapidamente apenas arrastando campos.
+Seu principal objetivo é facilitar a análise de dados.
 
 ---
 
-# Exemplo Prático
+# Para que serve uma Tabela Dinâmica?
 
-Tabela de vendas:
+A Tabela Dinâmica serve para:
 
-| Data | Vendedor | Produto | Categoria | Cidade | Quantidade | Valor |
-|---|---|---|---|---|---|---|
-| 01/05/2026 | Ana | Notebook | Informática | Campinas | 2 | 7000 |
-| 01/05/2026 | Carlos | Mouse | Informática | São Paulo | 5 | 500 |
-| 02/05/2026 | Ana | Mesa | Móveis | Campinas | 1 | 1200 |
-| 03/05/2026 | João | Cadeira | Móveis | Rio de Janeiro | 3 | 1800 |
+- resumir dados rapidamente;
+- criar relatórios automáticos;
+- calcular totais;
+- comparar informações;
+- agrupar dados;
+- filtrar informações;
+- analisar tendências;
+- transformar grandes tabelas em informações organizadas;
+- criar dashboards;
+- gerar gráficos dinâmicos.
 
-Com a Tabela Dinâmica você consegue responder perguntas como:
+---
 
-- Qual vendedor vendeu mais?
-- Qual cidade teve maior faturamento?
-- Quanto foi vendido por categoria?
-- Quantos produtos foram vendidos?
-- Qual mês teve maior receita?
+# Por que ela é chamada de “Dinâmica”?
+
+Porque os dados podem ser reorganizados rapidamente.
+
+Você pode mudar:
+
+- linhas;
+- colunas;
+- filtros;
+- cálculos;
+
+apenas arrastando os campos da tabela.
+
+Sem precisar refazer fórmulas.
 
 ---
 
 # Estrutura da Tabela Dinâmica
 
-Ao criar uma Tabela Dinâmica, o Excel mostra 4 áreas principais:
+Uma Tabela Dinâmica possui quatro áreas principais:
 
 | Área | Função |
 |---|---|
-| Filtros | Filtrar informações |
-| Linhas | Organizar os dados verticalmente |
-| Colunas | Organizar horizontalmente |
-| Valores | Realizar cálculos |
+| Filtros | Filtra informações específicas |
+| Linhas | Organiza os dados verticalmente |
+| Colunas | Organiza os dados horizontalmente |
+| Valores | Realiza cálculos nos dados |
 
 ---
 
-# Como Criar uma Tabela Dinâmica
+# Exemplo Simples
 
-## Passo 1 — Selecionar os Dados
+Imagine uma tabela de vendas:
 
-Selecione toda a tabela.
+| Vendedor | Produto | Cidade | Valor |
+|---|---|---|---|
+| Ana | Notebook | Campinas | 7000 |
+| Carlos | Mouse | São Paulo | 500 |
+| Ana | Mesa | Campinas | 1200 |
+| João | Cadeira | Rio de Janeiro | 1800 |
 
-### Dicas
+Com a Tabela Dinâmica você pode descobrir:
 
-- Não deixe linhas vazias;
-- Todas as colunas devem possuir título.
-
-### Exemplo correto
-
-| Data | Produto | Valor |
-|---|---|---|
-
----
-
-## Passo 2 — Inserir Tabela Dinâmica
-
-Vá em:
-
-```text
-Inserir → Tabela Dinâmica
-```
-
-O Excel perguntará:
-
-- Intervalo dos dados;
-- Onde deseja criar a tabela.
-
-Escolha:
-
-```text
-Nova planilha
-```
-
-Clique em:
-
-```text
-OK
-```
+- quanto cada vendedor vendeu;
+- qual cidade teve maior faturamento;
+- quais produtos vendem mais;
+- qual categoria possui maior lucro.
 
 ---
 
-# Entendendo os Campos
+# Principais Utilidades
 
-Após criar, aparecerá a lista de campos.
+## 1. Resumo de Grandes Quantidades de Dados
+
+A Tabela Dinâmica consegue resumir milhares de linhas em poucos segundos.
 
 ### Exemplo
 
-```text
-☑ Data
-☑ Produto
-☑ Cidade
-☑ Quantidade
-☑ Valor
-```
-
-Você arrasta esses campos para:
-
-- Linhas
-- Colunas
-- Valores
-- Filtros
-
----
-
-# Primeiro Exemplo
-
-## Objetivo
-
-Descobrir o total vendido por vendedor.
-
-### Linhas
+Uma planilha com:
 
 ```text
-Vendedor
+50.000 linhas de vendas
 ```
 
-### Valores
+pode ser resumida em:
 
-```text
-Valor
-```
-
-### Resultado
-
-| Vendedor | Soma de Valor |
+| Cidade | Total Vendido |
 |---|---|
-| Ana | 8200 |
-| Carlos | 500 |
-| João | 1800 |
+| Campinas | 150.000 |
+| São Paulo | 300.000 |
 
 ---
 
-# Alterando o Tipo de Cálculo
+# 2. Criação de Relatórios
 
-Por padrão o Excel usa:
+Muito utilizada para relatórios empresariais.
+
+### Exemplos
+
+- Relatórios financeiros;
+- Relatórios de vendas;
+- Controle de estoque;
+- Indicadores de RH;
+- Controle de produção.
+
+---
+
+# 3. Análise de Dados
+
+Ajuda na tomada de decisões.
+
+### Exemplos
+
+- Qual vendedor vende mais;
+- Qual produto possui menor saída;
+- Qual mês teve maior faturamento;
+- Qual região gera mais lucro.
+
+---
+
+# 4. Comparação de Informações
+
+Permite comparar dados rapidamente.
+
+### Exemplo
+
+| Produto | Janeiro | Fevereiro |
+|---|---|---|
+| Notebook | 20 | 35 |
+| Mouse | 50 | 40 |
+
+---
+
+# 5. Agrupamento de Dados
+
+A Tabela Dinâmica consegue agrupar automaticamente:
+
+- datas;
+- meses;
+- anos;
+- categorias;
+- intervalos numéricos.
+
+### Exemplo
+
+Agrupar vendas por:
+
+- mês;
+- trimestre;
+- ano.
+
+---
+
+# 6. Filtros Dinâmicos
+
+Você pode visualizar somente informações específicas.
+
+### Exemplo
+
+Filtrar:
 
 ```text
-SOMA
+Apenas vendas da cidade de Campinas
 ```
 
-Mas você pode trocar para:
-
-- Contagem
-- Média
-- Máximo
-- Mínimo
-- Produto
-- Desvio padrão
-
----
-
-## Como alterar
-
-Clique na seta do campo em:
+ou
 
 ```text
-Valores
-```
-
-Depois:
-
-```text
-Configurações do Campo de Valor
+Somente o vendedor Ana
 ```
 
 ---
 
-# Exemplo de Média
+# 7. Segmentação de Dados
 
-Se trocar de SOMA para MÉDIA:
+A Segmentação de Dados cria botões interativos para filtros.
 
-| Vendedor | Média de Valor |
-|---|---|
-| Ana | 4100 |
-| Carlos | 500 |
-| João | 1800 |
+### Exemplo
 
----
-
-# Agrupamento de Datas
-
-Uma das funções mais poderosas.
-
-Você pode agrupar por:
-
-- Dias
-- Meses
-- Anos
-- Trimestres
-
----
-
-## Como fazer
-
-Clique com botão direito em uma data:
-
-```text
-Agrupar
-```
-
-Escolha:
-
-```text
-Meses
-```
-
----
-
-# Exemplo
-
-| Mês | Soma de Valor |
-|---|---|
-| Maio | 10500 |
-
----
-
-# Segmentação de Dados (Slicer)
-
-A Segmentação cria botões visuais para filtros.
-
----
-
-## Como inserir
-
-Vá em:
-
-```text
-Inserir → Segmentação de Dados
-```
-
-Escolha um campo:
-
-```text
-Cidade
-```
-
-Agora você terá botões:
+Botões:
 
 - Campinas
 - São Paulo
 - Rio de Janeiro
 
-Ao clicar, a Tabela Dinâmica filtra automaticamente.
+Ao clicar, os dados são filtrados automaticamente.
 
 ---
 
-# Linha do Tempo
+# 8. Criação de Gráficos Dinâmicos
 
-Usada para filtrar datas visualmente.
+A Tabela Dinâmica pode gerar gráficos automáticos.
 
----
+### Exemplos
 
-## Inserir Linha do Tempo
-
-```text
-Inserir → Linha do Tempo
-```
-
-Escolha o campo de data.
+- gráfico de colunas;
+- gráfico de pizza;
+- gráfico de linhas;
+- gráfico de barras.
 
 ---
 
-# Atualizar Tabela Dinâmica
+# 9. Automatização de Relatórios
 
-Se os dados mudarem:
+Ao atualizar os dados da tabela original, a Tabela Dinâmica também pode ser atualizada rapidamente.
 
-Clique com botão direito:
-
-```text
-Atualizar
-```
-
-ou:
-
-```text
-Dados → Atualizar Tudo
-```
+Isso economiza muito tempo em empresas.
 
 ---
 
-# Gráfico Dinâmico
+# Vantagens da Tabela Dinâmica
 
-Você pode transformar a Tabela Dinâmica em gráfico.
-
----
-
-## Como criar
-
-Selecione a Tabela Dinâmica:
-
-```text
-Inserir → Gráfico Dinâmico
-```
-
-### Tipos mais usados
-
-- Coluna
-- Pizza
-- Linha
-- Barras
+| Vantagem | Benefício |
+|---|---|
+| Rapidez | Análise instantânea |
+| Facilidade | Pouco uso de fórmulas |
+| Flexibilidade | Mudança rápida de visualização |
+| Organização | Dados mais claros |
+| Automação | Relatórios automáticos |
 
 ---
 
-# Campos Calculados
+# Exemplos de Uso no Mercado
 
-Permitem criar fórmulas dentro da Tabela Dinâmica.
+## Área Financeira
+
+- fluxo de caixa;
+- despesas;
+- faturamento;
+- lucro.
 
 ---
 
-## Exemplo
+## Área Comercial
 
-Criar:
+- ranking de vendedores;
+- produtos mais vendidos;
+- metas;
+- comissões.
+
+---
+
+## Recursos Humanos
+
+- controle de funcionários;
+- salários;
+- horas extras;
+- absenteísmo.
+
+---
+
+## Estoque
+
+- entrada e saída de produtos;
+- produtos mais vendidos;
+- controle de quantidade.
+
+---
+
+## Marketing
+
+- análise de campanhas;
+- retorno sobre investimento;
+- desempenho de anúncios.
+
+---
+
+# Recursos Importantes
+
+## Soma Automática
+
+Calcula automaticamente:
+
+- soma;
+- média;
+- contagem;
+- máximo;
+- mínimo.
+
+---
+
+## Atualização Rápida
+
+Quando os dados mudam, a tabela pode ser atualizada sem precisar recriar tudo.
+
+---
+
+## Campos Calculados
+
+Permite criar cálculos personalizados.
+
+### Exemplo
 
 ```text
 Comissão = Valor * 10%
@@ -332,143 +306,235 @@ Comissão = Valor * 10%
 
 ---
 
-## Caminho
+# Quando Utilizar uma Tabela Dinâmica?
 
-```text
-Analisar Tabela Dinâmica →
-Campos, Itens e Conjuntos →
-Campo Calculado
-```
+Utilize quando:
+
+- houver muitos dados;
+- precisar criar relatórios;
+- quiser resumir informações;
+- precisar analisar resultados;
+- quiser comparar dados rapidamente.
 
 ---
 
-# Atualização Automática da Base
+# Quando NÃO Utilizar
 
-Transforme sua base em:
+Evite usar quando:
 
-```text
-Tabela do Excel
-```
-
-### Atalho
-
-```text
-CTRL + T
-```
-
-Assim, quando novos dados forem adicionados, a Tabela Dinâmica poderá ser atualizada facilmente.
+- os dados forem muito pequenos;
+- a análise for extremamente simples;
+- precisar apenas de uma conta básica.
 
 ---
 
 # Boas Práticas
 
-## 1. Nunca deixe colunas sem nome
+## Organize bem a base de dados
 
-### Errado
+A tabela deve possuir:
 
-```text
-| Produto | | Valor |
-```
+- títulos nas colunas;
+- dados padronizados;
+- sem linhas vazias;
+- sem colunas vazias.
 
 ---
 
-## 2. Não misture tipos de dados
+## Evite misturar tipos de dados
 
-### Errado
+Errado:
 
 ```text
 100
 ABC
-200
+250
 ```
 
 na mesma coluna.
 
 ---
 
-## 3. Evite linhas vazias
+## Utilize tabelas do Excel
+
+Transformar os dados em:
+
+```text
+Tabela do Excel
+```
+
+facilita atualizações futuras.
 
 ---
 
-## 4. Use formatação consistente
+# Conclusão
 
-- Datas como data;
-- Valores como moeda;
-- Quantidade como número.
+A Tabela Dinâmica é uma das ferramentas mais poderosas do Excel.
 
----
+Ela permite:
 
-# Principais Aplicações
+- resumir dados;
+- analisar informações;
+- criar relatórios;
+- automatizar análises;
+- visualizar resultados rapidamente.
 
-| Área | Uso |
-|---|---|
-| Financeiro | Relatórios financeiros |
-| RH | Controle de funcionários |
-| Comercial | Análise de vendas |
-| Estoque | Movimentação de produtos |
-| Marketing | Resultados de campanhas |
+Por isso, é extremamente utilizada no mercado de trabalho em áreas administrativas, financeiras, comerciais e tecnológicas.
 
 ---
 
-# Ativividade Prática 1
+# Exemplo
 
-Monte uma Tabela Dinâmica que mostre:
+### Passo 1 - Dados
+- Faça download do arquivo Tabela-Dinamica-Exemplo.xlsx
+- Abra a tabela
+- Selecione ela toda.
 
-- Total vendido por cidade.
+Dicas: CTRL + SHIFT + SETA
 
----
+### Passo 2 - Montar tabela dinâmica
+- Com a tabela selecionada vá na guia Inserir -> Tabela Dinâmica
+- Selecione para criar uma nova aba.
 
-# Ativividade Prática 2
+### Passo 3 - Criar Resumo
+- No lado esquedo da tela, clique sobre o titutlo **Marca** e o arraste para dentro do quadrante **Linhas**
+- Pegue o titulo **Fabricas** e arraste para o quadrante **Colunas**
+- Pegue o Titulo **Venda** e arraste no quadrante **Valores**
 
-Monte uma Tabela Dinâmica que mostre:
+### Passo 4 - Formatação e Ajuste
+Com a tabela já pronta precisamos fazer alguns ajustes básicos:
+- Dimensione as colunas no tamanho desejado.
+- Pode formatar o texto dos valores como centralizado.
+- Formate os valores como *moeda**.
 
-- Total vendido por categoria;
-- Separado por vendedor.
-
----
-
-# Ativividade Prática 3
-
-Monte uma Tabela Dinâmica com:
-
-- Soma de vendas;
-- Média de vendas;
-- Filtro por cidade;
-- Segmentação de dados;
-- Gráfico dinâmico.
-
----
-
-# Dicas Profissionais
-
-## Use atalhos
-
-| Atalho | Função |
-|---|---|
-| ALT + N + V | Criar Tabela Dinâmica |
-| CTRL + T | Transformar em tabela |
-| ALT + F5 | Atualizar Tabela Dinâmica |
+### Passo 5 - Consultas
+- Clique duas vezes na celula correspondente a **Marca A** da **Fabrica do ES**.
+- Repare que o Excel cria uma nova aba mostrando todos os produtos que são da **Marca A** e da **Fabrica do ES**
 
 ---
 
-# Erros Mais Comuns
 
-| Erro | Causa |
-|---|---|
-| Dados não aparecem | Intervalo errado |
-| Soma vira contagem | Dados como texto |
-| Datas não agrupam | Datas inválidas |
-| Atualização não funciona | Base fora da tabela |
+# Exercício 1 — Total de Vendas por Vendedor
+
+## Objetivo
+
+Criar uma Tabela Dinâmica que mostre:
+
+- o total vendido por cada vendedor.
 
 ---
 
-# Resumo
+## Base Exemplo
 
-A Tabela Dinâmica permite:
+| Vendedor | Produto | Valor |
+|---|---|---|
+| Ana | Notebook | 7000 |
+| Carlos | Mouse | 500 |
+| Ana | Mesa | 1200 |
+| João | Cadeira | 1800 |
 
-- resumir;
-- analisar;
-- comparar;
-- filtrar;
-- visualizar dados rapidamente.
+---
 
+# Exercício 2 — Vendas por Cidade
+
+## Objetivo
+
+Criar uma Tabela Dinâmica que apresente:
+
+- o total de vendas por cidade;
+- quantidade de vendas realizadas.
+
+---
+
+## Base Exemplo
+
+| Cidade | Produto | Valor |
+|---|---|---|
+| Campinas | Notebook | 7000 |
+| São Paulo | Mouse | 500 |
+| Campinas | Mesa | 1200 |
+| Rio de Janeiro | Cadeira | 1800 |
+
+---
+
+# Exercício 3 — Comparação por Categoria
+
+## Objetivo
+
+Criar uma Tabela Dinâmica que mostre:
+
+- total vendido por categoria;
+- média de vendas por categoria.
+
+---
+
+## Base Exemplo
+
+| Categoria | Produto | Valor |
+|---|---|---|
+| Informática | Notebook | 7000 |
+| Informática | Mouse | 500 |
+| Móveis | Mesa | 1200 |
+| Móveis | Cadeira | 1800 |
+
+---
+
+# Exercício 4 — Análise Mensal
+
+## Objetivo
+
+Criar uma Tabela Dinâmica que apresente:
+
+- vendas agrupadas por mês;
+- soma total de vendas mensais.
+
+---
+
+## Base Exemplo
+
+| Data | Produto | Valor |
+|---|---|---|
+| 01/01/2026 | Notebook | 7000 |
+| 15/01/2026 | Mouse | 500 |
+| 03/02/2026 | Mesa | 1200 |
+| 10/02/2026 | Cadeira | 1800 |
+
+---
+
+# Exercício 5 — Relatório Completo
+
+## Objetivo
+
+Criar uma Tabela Dinâmica contendo:
+
+- total vendido por vendedor;
+- filtro por cidade;
+- gráfico dinâmico;
+- segmentação de dados;
+- média de vendas.
+
+---
+
+## Base Exemplo
+
+| Vendedor | Cidade | Produto | Valor |
+|---|---|---|---|
+| Ana | Campinas | Notebook | 7000 |
+| Carlos | São Paulo | Mouse | 500 |
+| Ana | Campinas | Mesa | 1200 |
+| João | Rio de Janeiro | Cadeira | 1800 |
+| Carlos | Campinas | Teclado | 900 |
+
+---
+
+# Atividade Extra
+
+## Objetivo
+
+Monte uma Tabela Dinâmica que consiga responder:
+
+- Qual vendedor vendeu mais?
+- Qual cidade teve maior faturamento?
+- Qual produto teve maior quantidade de vendas?
+- Qual foi a média geral de vendas?
+- Qual mês teve maior faturamento?
