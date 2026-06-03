@@ -13,4 +13,10 @@
 <a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/1des/04-ari/3_Equipamentos_de_Rede/3_1_Equipamentos_de_Rede.pdf">Clique aqui para acessar o material<a>
 
 
+# Atividade Individual
+<label>Considere seus conhecimentos em Equipamentos de Rede e responda o formulário à seguir:</label><br />
+
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUNDZGQzM1T1czRzBaRjAwSElZU0Y5VkFEUi4u">Clique aqui para responder o formulário<a>
+
+
 
