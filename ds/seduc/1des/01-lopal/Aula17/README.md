@@ -1,4 +1,4 @@
-# Manipulação de Arquivos em C — Básico para Iniciantes
+# Manipulação de Arquivos em C
 
 ## O que é Manipulação de Arquivos?
 
