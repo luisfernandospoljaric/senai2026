@@ -8,7 +8,7 @@
 ## Modo de entrega:
 - Apresentação pode ser Slide
 
-- Documentação deve ter:
+- Documentação deve ter (PDF):
     - capa
     - nome do grupo 
     - objetivo 
