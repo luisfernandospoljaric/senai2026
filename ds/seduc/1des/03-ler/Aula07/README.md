@@ -1,5 +1,7 @@
-# Atividade de compensação
+# Atividade de Compensação / Somativa
 ---
+
+# Shark Tanks Senai e Julia Calhau
 
 ![lousa](lousa.jpg)
 
