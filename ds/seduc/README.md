@@ -31,6 +31,8 @@
 | VÍVIAN FERREIRA DA SILVA | https://nam.dcv.ms/51fU6MLwaf |
 | Yago Gregio de Oliveira | https://nam.dcv.ms/NNYNF1LGtl |
 
+https://portaldepesquisassenai.sp.senai.br/
+
 ## Pesquisa Socioemocional
 
 https://softskillsbr.surveycto.com/collect/baseline_march_april_2026?caseid=513
