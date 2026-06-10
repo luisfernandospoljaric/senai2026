@@ -4,15 +4,15 @@
 |--------|--------|
 | Arthur Alves do Amaral Pereira | https://nam.dcv.ms/MAdY3NH11b |
 | Artur Henrique da Silva Oliveira | https://nam.dcv.ms/6DrhdPi4AH |
-| Bianka Vieira Ventura dos Santos | https://nam.dcv.ms/r4E7jlKidm |
+| Bianka Vieira Ventura dos Santos | https://nam.dcv.ms/r4E7jIKidm |
 | Bruna Layane Santos Marques | https://nam.dcv.ms/38oyhqYWSO |
 | CAMILA GARCIA PATRUSSI | https://nam.dcv.ms/Pg5vtrty3t |
 | Caua Aparecido Domingos | https://nam.dcv.ms/hFgPsGgvsf |
 | Emmauelly Faria de Oliveira | https://nam.dcv.ms/F8iZO9xTBV |
 | Enzo Gabriel dos Santos Oliveira | https://nam.dcv.ms/aCSgNPmGfJ |
-| Eyck Jardel dos Santos Sousa | https://nam.dcv.ms/bzk8DPtcoK |
+| Eyck Jardel dos Santos Sousa | https://nam.dcv.ms/bzk8DPtcoK|
 | João Pedro Pereira Chinaglia | https://nam.dcv.ms/7U1XQiACTz |
-| Joardson Vitorio Fernandes Diniz | https://nam.dcv.ms/wBxIu7CNcV |
+| Joardson Vitorio Fernandes Diniz | https://nam.dcv.ms/wBxlu7CNcV|
 | JULIANA SAYURI CHIARELLI IMAGIIRE | https://nam.dcv.ms/aU46SBmH9S |
 | Julio Gabriel Tamborim Alves | https://nam.dcv.ms/FEWSt50jby |
 | Keilon de Moura Frazão Botelho | https://nam.dcv.ms/HTxdcp5Ydv |
