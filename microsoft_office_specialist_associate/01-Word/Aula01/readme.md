@@ -67,9 +67,14 @@ Crie um documento no Word com o título **"Meu Animal Favorito"** e siga as inst
 
 ---
 
-## ✅ Solução Final Esperada
+##  Solução Final Esperada
 O documento final deve ter:
 - **Título centralizado**, Arial, tamanho 20, negrito, cor azul.
 - **Parágrafo justificado** falando sobre o animal.
 - **Imagem** do animal com borda preta.
 - Arquivo salvo como `Animal_Favorito.docx`.
+
+## Jogos para treinar a digitação:
+   - Ratatype: https://www.ratatype.com.br/typing-games/race/select-hero/
+   - Edclub: https://www.edclub.com/pt/library/mundo-da-digitacao
+   -  AgileFingers: https://agilefingers.com/pt
