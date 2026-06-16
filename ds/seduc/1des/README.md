@@ -36,3 +36,7 @@
 | Pedro Thiago Nunes Da Silva Costa         | https://nam.dcv.ms/YILfsZt7EE     |
 | Thamyris Lopes Gomes                      | https://nam.dcv.ms/zJ68uXvEZ1     |
 | CAMILA GARCIA PATRUSSI                    | https://nam.dcv.ms/fXsnOHwYhY     |
+| Julio Gabriel Tamborim Alves              | https://nam.dcv.ms/FEWSt50jby     |
+| Luiz Matheus Vellozo de Andrade           | https://nam.dcv.ms/q7qCqyHnp5     |
+| Thaís Barbosa Alves Pinto                 | https://nam.dcv.ms/MBabyHWMHa     |
+| Thalyson Stenio Camara Viana              | ttps://nam.dcv.ms/RoyRwEAs2W      |
