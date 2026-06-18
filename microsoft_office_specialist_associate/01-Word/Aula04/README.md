@@ -1,13 +1,13 @@
-# 📬 Como Fazer Mala Direta no Word
+#  Como Fazer Mala Direta no Word
 
-## 📌 O que é Mala Direta?
+##  O que é Mala Direta?
 A **Mala Direta** é um recurso do Microsoft Word que permite criar documentos personalizados em massa (cartas, etiquetas, e-mails, etc.) usando dados vindos de uma base como **Excel**, **Access** ou outro formato.
 
 ---
 
-## 🛠 Passo a Passo
+##  Passo a Passo
 
-### **1️⃣ Criar a base de dados no Excel**
+### **1️ Criar a base de dados no Excel**
 1. Abra o **Excel**.
 2. Crie uma tabela com **cabeçalhos claros**.
 3. Exemplo de tabela:
@@ -22,7 +22,7 @@ A **Mala Direta** é um recurso do Microsoft Word que permite criar documentos p
 
 ---
 
-### **2️⃣ Abrir o Word e iniciar a Mala Direta**
+### **2️ Abrir o Word e iniciar a Mala Direta**
 1. Abra o **Word**.
 2. Vá até **Correspondências** → **Iniciar Mala Direta**.
 3. Escolha o tipo de documento:
@@ -33,14 +33,14 @@ A **Mala Direta** é um recurso do Microsoft Word que permite criar documentos p
 
 ---
 
-### **3️⃣ Conectar ao arquivo Excel**
+### **3️ Conectar ao arquivo Excel**
 1. Em **Correspondências**, clique em **Selecionar Destinatários** → **Usar uma lista existente**.
 2. Escolha o arquivo `Contatos.xlsx`.
 3. Selecione a planilha correta (ex.: `Plan1$`).
 
 ---
 
-### **4️⃣ Inserir campos personalizados**
+### **4️ Inserir campos personalizados**
 1. Escreva o texto normalmente.
 2. No ponto que quiser inserir informações da base, clique em **Inserir Campo de Mesclagem** e escolha o campo desejado.
    
@@ -56,7 +56,7 @@ Equipe de Marketing
 
 ---
 
-### **5️⃣ Visualizar e finalizar**
+### **5️ Visualizar e finalizar**
 1. Clique em **Visualizar Resultados** para conferir como ficará cada documento.
 2. Se estiver tudo certo:
    - **Concluir e Mesclar** → **Editar documentos individuais**
@@ -64,15 +64,8 @@ Equipe de Marketing
 
 ---
 
-## 📂 Material de Treino
+##  Material de Treino
 Este repositório contém:
 - `Contatos.xlsx` → Base de dados com contatos fictícios
 - `Modelo_Mala_Direta.docx` → Documento Word para teste
 - `README.md` → Guia completo
-
----
-
-## 📖 Dicas Extras
-- Mantenha os cabeçalhos do Excel sem espaços no começo ou no final.
-- Não use linhas ou colunas em branco no meio da tabela.
-- Salve tudo antes de iniciar o processo no Word.

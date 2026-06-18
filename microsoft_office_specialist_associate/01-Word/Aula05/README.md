@@ -1,16 +1,16 @@
 # 📬 Mala direta + Tabelas
 
 
-## 📊 Tabelas no Word
+## Tabelas no Word
 
 As **tabelas** no Word são estruturas organizadas em linhas e colunas que permitem apresentar dados de forma clara e visualmente acessível.
 
-### ✅ Para que servem:
+### Para que servem:
 - Organizar informações (ex: cronogramas, listas, comparações)
 - Criar formulários ou fichas
 - Estruturar dados para relatórios e documentos técnicos
 
-### 🛠️ Como funcionam:
+### Como funcionam:
 1. Vá em **Inserir > Tabela**
 2. Escolha o número de linhas e colunas
 3. Preencha os dados conforme necessário
@@ -18,17 +18,17 @@ As **tabelas** no Word são estruturas organizadas em linhas e colunas que permi
 
 
 
-## ✉️ Mala Direta no Word
+## Mala Direta no Word
 
 A **Mala Direta** é um recurso que permite criar documentos personalizados em massa, como cartas, etiquetas, certificados ou e-mails, usando uma fonte de dados (como uma planilha do Excel).
 
 
-### ✅ Para que serve:
+### Para que serve:
 - Enviar comunicações personalizadas para vários destinatários
 - Automatizar certificados, convites, contratos, etc.
 - Reduzir erros e economizar tempo em tarefas repetitivas
 
-### 🛠️ Como funciona:
+### Como funciona:
 1. Prepare uma **fonte de dados** (ex: Excel com nomes, endereços, etc.)
 2. No Word, vá em **Correspondências > Iniciar Mala Direta**
 3. Escolha o tipo de documento (ex: cartas, envelopes, etiquetas)
@@ -42,7 +42,7 @@ A **Mala Direta** é um recurso que permite criar documentos personalizados em m
 ---
 
 
-## 📘 Exercício de Avaliação de Notas
+## Exercício de Avaliação de Notas
 
 Você deverá realizar as seguintes tarefas:
 

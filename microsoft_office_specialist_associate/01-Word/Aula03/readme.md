@@ -1,8 +1,8 @@
 # 📊 Como Gerenciar Tabelas e Listas no Word
 
-## 🗂 Gerenciar Tabelas no Word
+##  Gerenciar Tabelas no Word
 
-### 1️⃣ Criar uma Tabela
+### 1️ Criar uma Tabela
 - **Método 1:**  
   Guia **Inserir** → **Tabela** → arraste para selecionar o número de linhas e colunas.
 - **Método 2:**  
@@ -10,47 +10,47 @@
 
 ---
 
-### 2️⃣ Inserir e Remover Linhas/Colunas
+### 2️ Inserir e Remover Linhas/Colunas
 - **Adicionar linha abaixo/acima:** clique dentro da tabela → **Layout** (menu da tabela) → **Inserir Abaixo** ou **Inserir Acima**.
 - **Adicionar coluna à esquerda/direita:** **Layout** → **Inserir à Esquerda** ou **Inserir à Direita**.
 - **Excluir linha/coluna:** selecione → **Layout** → **Excluir**.
 
 ---
 
-### 3️⃣ Mesclar e Dividir Células
+### 3️ Mesclar e Dividir Células
 - **Mesclar:** selecione as células → **Layout** → **Mesclar Células**.  
 - **Dividir:** clique na célula → **Layout** → **Dividir Células**.
 
 ---
 
-### 4️⃣ Ajustar Tamanho
+### 4️ Ajustar Tamanho
 - Passe o mouse sobre as bordas até aparecer a seta dupla → arraste.
 - Ou use **Layout** → grupo **Tamanho da Célula** → defina largura e altura exatas.
 
 ---
 
-### 5️⃣ Formatar Tabela
+### 5️ Formatar Tabela
 - **Estilos Prontos:** clique na tabela → **Design** → escolha um **Estilo de Tabela**.
 - **Bordas:** **Design** → **Bordas** → escolha o tipo (todas, externas, internas).
 - **Sombreamento:** **Design** → **Sombreamento** para mudar a cor de fundo das células.
 
 ---
 
-## 📋 Gerenciar Listas no Word
+## Gerenciar Listas no Word
 
-### 1️⃣ Listas com Marcadores
+### 1️ Listas com Marcadores
 - Guia **Página Inicial** → **Marcadores** (●, ○, ✓, etc.)
 - Clique na seta para escolher um estilo de marcador.
 
 ---
 
-### 2️⃣ Listas Numeradas
+### 2️ Listas Numeradas
 - Guia **Página Inicial** → **Numeração** (1, 2, 3… ou I, II, III…)
 - Personalize clicando na seta e escolhendo o formato.
 
 ---
 
-### 3️⃣ Listas Multinível
+### 3️ Listas Multinível
 - Guia **Página Inicial** → **Lista Multinível**
 - Útil para criar tópicos e subtópicos:
 
@@ -104,5 +104,3 @@
 >  **Dica de Ouro:** Use estilos consistentes (como “Título 1”, “Marcadores”, “Lista Multinível”) para permitir sumários e referências automáticas no Word — isso facilita a edição e a navegação no documento!
 
 ---
-
-Adicione os links das imagens usando `![Descrição](URL-da-imagem)` após fazer upload no repositório ou em um serviço de hospedagem. Se quiser, posso te ajudar a criar esse README já com os links correctos. </markdown>

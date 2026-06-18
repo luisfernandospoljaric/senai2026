@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Enunciado
+## Enunciado
 Crie um documento no Word com o título **"Meu Animal Favorito"** e siga as instruções:
 
 1. Abra o **Microsoft Word**.  
@@ -23,7 +23,7 @@ Crie um documento no Word com o título **"Meu Animal Favorito"** e siga as inst
 
 ---
 
-## 🛠 Passo a Passo
+## Passo a Passo
 
 1. **Abrir o Word**  
    - Clique no botão **Iniciar** > digite **Word** > pressione **Enter**.
