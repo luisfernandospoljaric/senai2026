@@ -21,7 +21,7 @@ Monte dois computadores. Um com intuito de uso convencional enquanto o outro é 
 
 - **Uso profissional:** O solicitante precisa de uma máquina até R$ 7.000,00 onde rode programas como **AutoCad** e faça rendizações no software **Lumion** 
 
-- **Uso comum:** O solicitante utiliza mais a máquina para o pacote office e redes sociais. Quer gastar no máximo 3.500,00.
+- **Uso comum:** O solicitante utiliza mais a máquina para o pacote office e redes sociais. Quer gastar no máximo R$ 3.500,00.
 
 Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spoljaric@sp.senai.br
 
