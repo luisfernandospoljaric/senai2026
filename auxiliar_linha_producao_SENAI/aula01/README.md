@@ -27,20 +27,251 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 **Dicas:** Verifiquem se a placa mãe é compativel com o processador e memória escolhida.
 
-## Para a próxima aula:
-Converta de decimal para binário:
-- 74
-- 88
-- 64
-- 128
-- 160 
-- 180
-- 188
-- 256
-- 300
-- 512
-- 724
-- 800
-- 888
-- 1000
-- 1024
+---
+
+# Atividade
+
+### 1. A palavra "computador" deriva do verbo:
+
+- ( ) Processar
+- ( ) Calcular
+- ( ) Programar
+- ( ) Digitalizar
+
+---
+
+### 2. Qual foi um dos primeiros instrumentos utilizados para realizar cálculos?
+
+- ( ) Calculadora eletrônica
+- ( ) Régua de cálculo
+- ( ) Ábaco
+- ( ) Máquina Analítica
+
+---
+
+### 3. O Ábaco surgiu aproximadamente em:
+
+- ( ) 500 d.C.
+- ( ) 2500 a.C.
+- ( ) 1500 a.C.
+- ( ) 1800
+
+---
+
+### 4. Quem construiu a primeira calculadora mecânica funcional, conhecida como Pascaline?
+
+- ( ) Charles Babbage
+- ( ) Blaise Pascal
+- ( ) Alan Turing
+- ( ) Joseph Jacquard
+
+---
+
+### 5. A Máquina de Leibniz era capaz de realizar:
+
+- ( ) Apenas soma
+- ( ) Soma e subtração
+- ( ) As quatro operações matemáticas
+- ( ) Apenas multiplicação
+
+---
+
+### 6. Quem introduziu o conceito de cartões perfurados?
+
+- ( ) Blaise Pascal
+- ( ) Joseph Marie Jacquard
+- ( ) Charles Babbage
+- ( ) Steve Wozniak
+
+---
+
+### 7. A Máquina Diferencial foi projetada por:
+
+- ( ) Charles Babbage
+- ( ) Gottfried Leibniz
+- ( ) Thomas Flowers
+- ( ) Douglas Engelbart
+
+---
+
+### 8. Qual tecnologia caracteriza a Primeira Geração dos computadores?
+
+- ( ) Transistores
+- ( ) Circuitos Integrados
+- ( ) Válvulas
+- ( ) Microprocessadores
+
+---
+
+### 9. Uma característica da Primeira Geração era:
+
+- ( ) Baixo consumo de energia
+- ( ) Pequeno tamanho
+- ( ) Grande consumo de energia
+- ( ) Uso de SSD
+
+---
+
+### 10. O COLOSSUS foi desenvolvido com qual finalidade?
+
+- ( ) Jogos eletrônicos
+- ( ) Controle bancário
+- ( ) Decifrar códigos secretos
+- ( ) Navegação na internet
+
+---
+
+### 11. O ENIAC foi desenvolvido para auxiliar:
+
+- ( ) Empresas privadas
+- ( ) O exército americano
+- ( ) Escolas
+- ( ) Universidades
+
+---
+
+### 12. Qual componente substituiu as válvulas na Segunda Geração?
+
+- ( ) Microprocessadores
+- ( ) Circuitos Integrados
+- ( ) Transistores
+- ( ) Chips gráficos
+
+---
+
+### 13. O primeiro computador totalmente transistorizado produzido pela Bell Laboratories foi:
+
+- ( ) IBM 7094
+- ( ) TRADIC
+- ( ) ENIAC
+- ( ) Apple I
+
+---
+
+### 14. Na Terceira Geração surgiram:
+
+- ( ) Válvulas
+- ( ) Cartões perfurados
+- ( ) Circuitos Integrados
+- ( ) Discos rígidos
+
+---
+
+### 15. Quem inventou o mouse?
+
+- ( ) Steve Jobs
+- ( ) Bill Gates
+- ( ) Douglas Engelbart
+- ( ) Steve Wozniak
+
+---
+
+### 16. Qual foi o primeiro microprocessador fabricado no mundo?
+
+- ( ) Motorola 68000
+- ( ) Intel 4004
+- ( ) Intel 8086
+- ( ) IBM 7094
+
+---
+
+### 17. O Apple I foi projetado por:
+
+- ( ) Steve Jobs
+- ( ) Steve Wozniak
+- ( ) Bill Gates
+- ( ) Douglas Engelbart
+
+---
+
+# Parte 2 – Verdadeiro ou Falso
+
+### 18.
+
+( ) A Primeira Geração utilizava transistores.
+
+---
+
+### 19.
+
+( ) O ENIAC possuía aproximadamente 18.000 válvulas.
+
+---
+
+### 20.
+
+( ) O IBM 305 RAMAC foi o primeiro disco magnético.
+
+---
+
+### 21.
+
+( ) O CDC 6600 utilizava processamento paralelo.
+
+---
+
+### 22.
+
+( ) Os Circuitos Integrados marcaram a Terceira Geração.
+
+---
+
+# Parte 3 – Questões Discursivas
+
+### 23.
+
+Explique por que o Ábaco é considerado importante para a história da computação.
+
+---
+
+### 24.
+
+Cite **duas características** da Primeira Geração dos computadores.
+
+---
+
+### 25.
+
+Qual foi a principal vantagem do transistor em relação às válvulas?
+
+---
+
+### 26.
+
+O que são Circuitos Integrados (CI)?
+
+---
+
+### 27.
+
+Qual foi a importância do Intel 4004 para a evolução dos computadores?
+
+---
+
+# Parte 4 – Desafio
+
+### 28. Complete a tabela
+
+| Geração | Tecnologia Principal |
+|---------|----------------------|
+| 1ª | _______________________ |
+| 2ª | _______________________ |
+| 3ª | _______________________ |
+| 4ª | _______________________ |
+
+---
+
+### 29. Coloque os acontecimentos em ordem cronológica
+
+Numere de **1 a 7**, sendo **1 o mais antigo**.
+
+- ( ) ENIAC
+- ( ) Ábaco
+- ( ) Intel 4004
+- ( ) Máquina de Pascal
+- ( ) Máquina de Leibniz
+- ( ) Cartões Perfurados
+- ( ) Máquina Diferencial
+
+---
+
