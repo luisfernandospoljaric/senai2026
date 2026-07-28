@@ -1,3 +1,5 @@
+<img src="fluxoweb.png">
+
 Definição
 
 Um **Web Service** é uma forma de permitir que diferentes sistemas se comuniquem pela internet ou por uma rede local, independentemente da linguagem de programação ou do sistema operacional utilizado.
