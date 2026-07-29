@@ -214,4 +214,4 @@ Cada equipe deverá entregar um documento contendo:
 - Casos de uso ou histórias de usuário;
 - Proposta de solução.
 
-Ao final da atividade, espera-se que os alunos compreendam a importância da comunicação com o cliente e da definição correta dos requisitos antes do início do desenvolvimento de um sistema.
+Ao final da atividade, quero que entendam a importância da comunicação com o cliente e da definição correta dos requisitos antes do início do desenvolvimento de um sistema.
