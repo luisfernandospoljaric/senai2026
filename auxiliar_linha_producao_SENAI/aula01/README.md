@@ -217,29 +217,4 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ---
 
 
-# Gabarito
 
-| Questão | Resposta |
-|---------|----------|
-| 1 | B |
-| 2 | C |
-| 3 | B |
-| 4 | B |
-| 5 | C |
-| 6 | B |
-| 7 | A |
-| 8 | C |
-| 9 | C |
-| 10 | C |
-| 11 | B |
-| 12 | C |
-| 13 | B |
-| 14 | C |
-| 15 | C |
-| 16 | B |
-| 17 | B |
-| 18 | Falso |
-| 19 | Verdadeiro |
-| 20 | Verdadeiro |
-| 21 | Verdadeiro |
-| 22 | Verdadeiro |
