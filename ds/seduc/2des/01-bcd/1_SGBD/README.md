@@ -36,15 +36,15 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 
 <h4>Temas Propostos:</h4>
 <pre>
-    1.0 O que é SGBD?
+    1.0. O que é SGBD?
         - Tipos de SGBD;
         - Escolher 1 (um) SGBD e explicar suas características e aplicações;
 
-    2.0 O que é Banco de Dados?
+    2.0. O que é Banco de Dados?
         - Tipos de Banco de Dados;
         - Características e suas aplicações;
 
-    3.0 O que é um Servidor Web?
+    3.0. O que é um Servidor Web?
         - Tipos de servidores web;
         - Escolher 1 (um) Servidor Web e explicar suas características e aplicações;
 </pre>
