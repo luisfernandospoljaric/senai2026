@@ -23,26 +23,36 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 <h3>Material de Apoio:</h3>
 
 <h4>Introdução a SGBD</h4>
-<pre><a href="">Clique aqui para acessá-lo.</a></pre>
+<pre><a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/2des/01-bcd/1_SGBD/1_1_Introducao_SGBD.pdf">Clique aqui para acessá-lo.</a></pre>
 
 <h3>Atividade em Grupo</h3>
 
 <h4>Definições da Equipe</h4>
 <pre>
-    - Sorteio dos integrantes on-line.
-    - De 4 à 6 integrantes.
+    - Sorteio dos integrantes on-line;
+    - 3 Equipes;
     - Definir um líder;
+</pre>
+
+<h4>Temas Propostos:</h4>
+<pre>
+    1.0 O que é SGBD?
+        - Tipos de SGBD;
+        - Escolher 1 (um) SGBD e explicar suas características e aplicações;
+
+    2.0 O que é Banco de Dados?
+        - Tipos de Banco de Dados;
+        - Características e suas aplicações;
+
+    3.0 O que é um Servidor Web?
+        - Tipos de servidores web;
+        - Escolher 1 (um) Servidor Web e explicar suas características e aplicações; 
 </pre>
 
 <h4>Definições da Atividade</h4>
 <pre>
-    - Criar uma empresa fictícia;
-    - Definir Razão Social;
-    - Nome fantasia;
-    - Marca;
-    - Logotipo;
-    - Logomarca;
-    - Slogan;
-    - Jingle;
-    - Produto (somente 1);
+    - Sortear o tema para cada equipe;
+    - Cada equipe deverá montar um apresentação do Tema escolhido e apresentar em sala.
+    - Tempo máximo de 15 minutos por equipe;
+    - Ao final da apresentação haverá bancada de perguntas do público e/ou professor; 
 </pre>
