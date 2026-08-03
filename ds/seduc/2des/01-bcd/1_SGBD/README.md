@@ -46,7 +46,7 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 
     3.0 O que é um Servidor Web?
         - Tipos de servidores web;
-        - Escolher 1 (um) Servidor Web e explicar suas características e aplicações; 
+        - Escolher 1 (um) Servidor Web e explicar suas características e aplicações;
 </pre>
 
 <h4>Definições da Atividade</h4>
