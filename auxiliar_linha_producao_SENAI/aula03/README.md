@@ -77,7 +77,7 @@ O Sistema Operacional é o **principal software do computador**.
 
 Ele atua como intermediário entre o usuário e o hardware.
 
-## 📌 Principais Funções:
+## Principais Funções:
 - Gerenciar memória RAM
 - Controlar o processador (CPU)
 - Administrar arquivos
@@ -146,6 +146,69 @@ Desenvolvido para:
 - O Sistema Operacional é o software mais importante.
 - Sistemas para desktop focam em desempenho e produtividade.
 - Sistemas mobile focam em mobilidade, segurança e economia de energia.
+
+---
+
+## Atividade de Entrega:
+
+### OBS:. Essas questões devem ser respondidas no caderno. Após o termino leve para o professor ver e pontuar.
+
+1.  O que é software?
+2.  Qual a função do sistema operacional?
+3.  Cite três sistemas operacionais.
+4.  O Android pertence a qual categoria?
+5.  O Linux é:
+    -   ( ) Pago
+    -   ( ) Código aberto
+    -   ( ) Exclusivo da Apple
+    -   ( ) Apenas para servidores
+
+---
+
+## Classificando Softwares
+
+Vocês devem classificar em:
+
+- Sistema Operacional
+- Software de Aplicação
+- Software Utilitário
+- Navegador
+- Editor de imagens
+- Mensageiro
+
+| Software        | Tipo |
+|-----------------|------|
+| Windows 11      |      |
+| Google Chrome   |      |
+| LibreOffice     |      |
+| Ubuntu          |      |
+| Photoshop       |      |
+| Android         |      |
+| WhatsApp        |      |
+| Linux Mint      |      |
+| VLC             |      |
+| macOS           |      |
+
+---
+
+## Defendam cada um deles:
+Elabore um texto onde faça a defesa dos sistemas operacionais.
+
+**Critérios:**Facilidade de uso, Segurança, Compatibilidade, Custo, Desempenho.
+
+1. Defender o Windows.
+2. Defender o Linux.
+3. Defender o macOS.
+
+## Pesquisa
+
+Pesquise um dos sistemas abaixo:
+
+-   Android
+-   iOS
+-   HarmonyOS
+
+Faça tópicos respondendo: Qual a Desenvolvedora, Ano de lançamento, Vantagens, Desvantagens, Participação de mercado, curiosidades.
 
 ---
 ## Atividade:
