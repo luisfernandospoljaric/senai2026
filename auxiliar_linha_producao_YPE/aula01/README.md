@@ -34,7 +34,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 1. A palavra "computador" deriva do verbo:
 
 - ( ) Processar
-- ( ) Calcular
+- (X) Calcular
 - ( ) Programar
 - ( ) Digitalizar
 
@@ -44,7 +44,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Calculadora eletrônica
 - ( ) Régua de cálculo
-- ( ) Ábaco
+- (X) Ábaco
 - ( ) Máquina Analítica
 
 ---
@@ -52,7 +52,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 3. O Ábaco surgiu aproximadamente em:
 
 - ( ) 500 d.C.
-- ( ) 2500 a.C.
+- (X) 2500 a.C.
 - ( ) 1500 a.C.
 - ( ) 1800
 
@@ -61,7 +61,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 4. Quem construiu a primeira calculadora mecânica funcional, conhecida como Pascaline?
 
 - ( ) Charles Babbage
-- ( ) Blaise Pascal
+- (X) Blaise Pascal
 - ( ) Alan Turing
 - ( ) Joseph Jacquard
 
@@ -71,7 +71,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Apenas soma
 - ( ) Soma e subtração
-- ( ) As quatro operações matemáticas
+- (X) As quatro operações matemáticas
 - ( ) Apenas multiplicação
 
 ---
@@ -79,7 +79,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 6. Quem introduziu o conceito de cartões perfurados?
 
 - ( ) Blaise Pascal
-- ( ) Joseph Marie Jacquard
+- (X) Joseph Marie Jacquard
 - ( ) Charles Babbage
 - ( ) Steve Wozniak
 
@@ -87,7 +87,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 ### 7. A Máquina Diferencial foi projetada por:
 
-- ( ) Charles Babbage
+- (X) Charles Babbage
 - ( ) Gottfried Leibniz
 - ( ) Thomas Flowers
 - ( ) Douglas Engelbart
@@ -98,7 +98,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Transistores
 - ( ) Circuitos Integrados
-- ( ) Válvulas
+- (X) Válvulas
 - ( ) Microprocessadores
 
 ---
@@ -107,7 +107,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Baixo consumo de energia
 - ( ) Pequeno tamanho
-- ( ) Grande consumo de energia
+- (X) Grande consumo de energia
 - ( ) Uso de SSD
 
 ---
@@ -116,7 +116,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Jogos eletrônicos
 - ( ) Controle bancário
-- ( ) Decifrar códigos secretos
+- (X) Decifrar códigos secretos
 - ( ) Navegação na internet
 
 ---
@@ -124,7 +124,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 11. O ENIAC foi desenvolvido para auxiliar:
 
 - ( ) Empresas privadas
-- ( ) O exército americano
+- (X) O exército americano
 - ( ) Escolas
 - ( ) Universidades
 
@@ -134,7 +134,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Microprocessadores
 - ( ) Circuitos Integrados
-- ( ) Transistores
+- (X) Transistores
 - ( ) Chips gráficos
 
 ---
@@ -142,7 +142,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 13. O primeiro computador totalmente transistorizado produzido pela Bell Laboratories foi:
 
 - ( ) IBM 7094
-- ( ) TRADIC
+- (X) TRADIC
 - ( ) ENIAC
 - ( ) Apple I
 
@@ -152,7 +152,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Válvulas
 - ( ) Cartões perfurados
-- ( ) Circuitos Integrados
+- (X) Circuitos Integrados
 - ( ) Discos rígidos
 
 ---
@@ -161,7 +161,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 - ( ) Steve Jobs
 - ( ) Bill Gates
-- ( ) Douglas Engelbart
+- (X) Douglas Engelbart
 - ( ) Steve Wozniak
 
 ---
@@ -169,7 +169,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 16. Qual foi o primeiro microprocessador fabricado no mundo?
 
 - ( ) Motorola 68000
-- ( ) Intel 4004
+- (X) Intel 4004
 - ( ) Intel 8086
 - ( ) IBM 7094
 
@@ -178,7 +178,7 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 ### 17. O Apple I foi projetado por:
 
 - ( ) Steve Jobs
-- ( ) Steve Wozniak
+- (X) Steve Wozniak
 - ( ) Bill Gates
 - ( ) Douglas Engelbart
 
@@ -188,31 +188,31 @@ Monte dois orçamentos, um para cada solicitante e encaminhe por email: luis.spo
 
 ### 18.
 
-( ) A Primeira Geração utilizava transistores.
+(F) A Primeira Geração utilizava transistores.
 
 ---
 
 ### 19.
 
-( ) O ENIAC possuía aproximadamente 18.000 válvulas.
+(V) O ENIAC possuía aproximadamente 18.000 válvulas.
 
 ---
 
 ### 20.
 
-( ) O IBM 305 RAMAC foi o primeiro disco magnético.
+(V) O IBM 305 RAMAC foi o primeiro disco magnético.
 
 ---
 
 ### 21.
 
-( ) O CDC 6600 utilizava processamento paralelo.
+(V) O CDC 6600 utilizava processamento paralelo.
 
 ---
 
 ### 22.
 
-( ) Os Circuitos Integrados marcaram a Terceira Geração.
+(V) Os Circuitos Integrados marcaram a Terceira Geração.
 
 ---
 
