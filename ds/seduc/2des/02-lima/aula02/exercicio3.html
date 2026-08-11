@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formulário</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+        }
+
+        h1 {
+            font-size: 30px;
+        }
+
+        fieldset {
+            width: 480px;
+            margin-bottom: 25px;
+        }
+
+        legend {
+            font-size: 14px;
+        }
+
+        .campo {
+            margin-bottom: 6px;
+        }
+
+        .campo label {
+            display: inline-block;
+            width: 65px;
+        }
+
+        input[type="text"] {
+            height: 18px;
+        }
+
+        select {
+            height: 22px;
+        }
+
+        .cargo {
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+
+        .cargo label,
+        .interesse label {
+            margin-right: 8px;
+        }
+
+        .interesse {
+            margin-bottom: 25px;
+        }
+
+        textarea {
+            width: 335px;
+            height: 80px;
+            margin-left: 90px;
+        }
+
+        .curriculo {
+            display: flex;
+            align-items: flex-end;
+        }
+
+        .curriculo label {
+            margin-right: 5px;
+        }
+
+        button {
+            margin-right: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Formulário</h1>
+
+    <form>
+
+        <!-- DADOS PESSOAIS -->
+        <fieldset>
+
+            <legend>Dados pessoais</legend>
+
+            <div class="campo">
+                <label for="nome">Nome:</label>
+                <input type="text" id="nome" name="nome">
+            </div>
+
+            <div class="campo">
+                <label for="endereco">Endereço:</label>
+                <input type="text" id="endereco" name="endereco">
+            </div>
+
+            <div class="campo">
+                <label for="cidade">Cidade:</label>
+                <input type="text" id="cidade" name="cidade">
+            </div>
+
+            <div class="campo">
+                <label for="estado">Estado:</label>
+
+                <select id="estado" name="estado">
+                    <option>São Paulo</option>
+                    <option>Rio de Janeiro</option>
+                    <option>Minas Gerais</option>
+                    <option>Paraná</option>
+                    <option>Santa Catarina</option>
+                    <option>Rio Grande do Sul</option>
+                </select>
+            </div>
+
+        </fieldset>
+
+
+        <!-- DADOS PROFISSIONAIS -->
+        <fieldset>
+
+            <legend>Dados profissionais</legend>
+
+            <div class="cargo">
+
+                <p>Natureza do Cargo</p>
+
+                <label>
+                    <input type="radio" name="cargo" value="gerencia" checked>
+                    Gerência
+                </label>
+
+                <label>
+                    <input type="radio" name="cargo" value="financeiro">
+                    Financeiro
+                </label>
+
+                <label>
+                    <input type="radio" name="cargo" value="recepcao">
+                    Recepção
+                </label>
+
+                <label>
+                    <input type="radio" name="cargo" value="administrativo">
+                    Administrativo
+                </label>
+
+                <label>
+                    <input type="radio" name="cargo" value="juridico">
+                    Jurídico
+                </label>
+
+            </div>
+
+
+            <div class="interesse">
+
+                <p>Área de interesse</p>
+
+                <label>
+                    <input type="checkbox" name="interesse" value="computacao">
+                    Computação
+                </label>
+
+                <label>
+                    <input type="checkbox" name="interesse" value="biologia">
+                    Biologia
+                </label>
+
+                <label>
+                    <input type="checkbox" name="interesse" value="meio-ambiente">
+                    Meio Ambiente
+                </label>
+
+                <label>
+                    <input type="checkbox" name="interesse" value="engenharia">
+                    Engenharia
+                </label>
+
+                <label>
+                    <input type="checkbox" name="interesse" value="historia">
+                    História
+                </label>
+
+            </div>
+
+
+            <div class="curriculo">
+
+                <label for="minicurriculo">
+                    Mini-currículo:
+                </label>
+
+                <textarea id="minicurriculo" name="minicurriculo"></textarea>
+
+            </div>
+
+        </fieldset>
+
+
+        <!-- BOTÕES -->
+        <button type="submit">Enviar</button>
+
+        <button type="reset">Limpar</button>
+
+    </form>
+
+</body>
+
+</html>

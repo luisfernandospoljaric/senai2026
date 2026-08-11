@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Deixe um comentário</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        .comentario {
+            width: 390px;
+        }
+
+        h1 {
+            font-size: 22px;
+            margin-bottom: 25px;
+        }
+
+        label {
+            display: block;
+            font-size: 12px;
+            margin-top: 8px;
+        }
+
+        input,
+        textarea {
+            width: 350px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            padding: 3px;
+        }
+
+        input {
+            height: 16px;
+        }
+
+        textarea {
+            height: 125px;
+            resize: both;
+        }
+
+        .observacao {
+            font-size: 11px;
+            margin-top: 12px;
+        }
+
+        button {
+            margin-top: 10px;
+            font-size: 11px;
+            padding: 2px 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="comentario">
+
+        <h1>Deixe um comentário</h1>
+
+        <form>
+
+            <label for="nome">Nome:</label>
+            <input type="text" id="nome" name="nome">
+
+            <label for="email">E-mail:</label>
+            <input type="email" id="email" name="email">
+
+            <label for="website">Website:</label>
+            <input type="url" id="website" name="website">
+
+            <label for="comentario">Comentário:</label>
+            <textarea id="comentario" name="comentario"></textarea>
+
+            <p class="observacao">
+                <strong>Observação:</strong>
+                Seu comentário será publicado após passar pelo moderador
+            </p>
+
+            <button type="submit">Enviar Comentário</button>
+
+        </form>
+
+    </div>
+
+</body>
+
+</html>

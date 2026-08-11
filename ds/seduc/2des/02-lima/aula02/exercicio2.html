@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Manutenção de Usuários</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 11px;
+        }
+
+        .formulario {
+            width: 330px;
+        }
+
+        h1 {
+            font-size: 12px;
+            margin-bottom: 18px;
+        }
+
+        .linha {
+            display: flex;
+            align-items: center;
+            margin-bottom: 4px;
+        }
+
+        .linha label {
+            width: 100px;
+            font-weight: bold;
+        }
+
+        input[type="text"],
+        input[type="password"],
+        input[type="date"] {
+            width: 105px;
+            height: 16px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+        }
+
+        select {
+            width: 60px;
+            height: 20px;
+            font-size: 11px;
+        }
+
+        input[type="radio"],
+        input[type="checkbox"] {
+            margin: 0 3px 0 0;
+            vertical-align: middle;
+        }
+
+        .opcoes {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+        }
+
+        .opcoes label {
+            width: auto;
+            font-weight: normal;
+        }
+
+        textarea {
+            width: 220px;
+            height: 65px;
+            resize: both;
+            border: 1px solid #aaa;
+            box-sizing: border-box;
+        }
+
+        .observacoes {
+            align-items: flex-start;
+        }
+
+        .modulos {
+            margin-top: 5px;
+            margin-bottom: 15px;
+            margin-left: 100px;
+            width: 230px;
+        }
+
+        .modulos label {
+            font-weight: normal;
+            margin-right: 8px;
+        }
+
+        .botoes {
+            margin-top: 10px;
+        }
+
+        button {
+            font-size: 11px;
+            padding: 2px 8px;
+            margin-right: 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="formulario">
+
+        <h1>MANUTENÇÃO DE USUÁRIOS DO SISTEMA INTERNO</h1>
+
+        <form>
+
+            <!-- LOGIN -->
+            <div class="linha">
+                <label for="login">Login</label>
+                <input type="text" id="login" name="login">
+            </div>
+
+            <!-- SENHA -->
+            <div class="linha">
+                <label for="senha">Senha</label>
+                <input type="password" id="senha" name="senha">
+            </div>
+
+            <!-- STATUS -->
+            <div class="linha">
+                <label for="status">Status</label>
+
+                <select id="status" name="status">
+                    <option>Inativo</option>
+                    <option>Ativo</option>
+                </select>
+            </div>
+
+            <!-- TIPO -->
+            <div class="linha">
+                <label>Tipo</label>
+
+                <div class="opcoes">
+
+                    <label>
+                        <input type="radio" name="tipo" value="tecnico">
+                        Técnico
+                    </label>
+
+                    <label>
+                        <input type="radio" name="tipo" value="professor">
+                        Professor
+                    </label>
+
+                    <label>
+                        <input type="radio" name="tipo" value="aluno">
+                        Aluno
+                    </label>
+
+                </div>
+            </div>
+
+            <!-- DATA -->
+            <div class="linha">
+                <label for="data">Data Criação</label>
+                <input type="date" id="data" name="data">
+            </div>
+
+            <!-- PERFIL -->
+            <div class="linha">
+                <label>Perfil</label>
+
+                <div class="opcoes">
+
+                    <label>
+                        <input type="radio" name="perfil" value="convidado">
+                        Convidado
+                    </label>
+
+                    <label>
+                        <input type="radio" name="perfil" value="administrador">
+                        Administrador
+                    </label>
+
+                </div>
+            </div>
+
+            <!-- OBSERVAÇÕES -->
+            <div class="linha observacoes">
+
+                <label for="observacoes">Observações</label>
+
+                <textarea id="observacoes" name="observacoes"></textarea>
+
+            </div>
+
+            <!-- MÓDULOS -->
+            <div class="linha">
+                <label>Módulos</label>
+
+                <div class="opcoes">
+
+                    <label>
+                        <input type="checkbox" name="modulos" value="compras">
+                        Compras
+                    </label>
+
+                    <label>
+                        <input type="checkbox" name="modulos" value="biblioteca">
+                        Biblioteca
+                    </label>
+
+                    <label>
+                        <input type="checkbox" name="modulos" value="academico">
+                        Acadêmico
+                    </label>
+
+                </div>
+            </div>
+
+            <div class="modulos">
+
+                <label>
+                    <input type="checkbox" name="modulos" value="documentacao">
+                    Documentação
+                </label>
+
+                <label>
+                    <input type="checkbox" name="modulos" value="recursos-humanos">
+                    Recursos Humanos
+                </label>
+
+            </div>
+
+            <!-- BOTÕES -->
+            <div class="botoes">
+
+                <button type="submit">
+                    Cadastrar
+                </button>
+
+                <button type="reset">
+                    Excluir
+                </button>
+
+            </div>
+
+        </form>
+
+    </div>
+
+</body>
+
+</html>
