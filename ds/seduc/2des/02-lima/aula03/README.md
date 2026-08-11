@@ -93,7 +93,6 @@
 
 ```
 
-Link para a sala: https://meet.google.com/edf-hwji-bbs
 
 ## Exercícios de sala
 
