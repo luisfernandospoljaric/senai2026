@@ -1,3 +1,64 @@
+# Exemplo de Funções:
+
+```javaScript
+// As funções é bloco de código criado para executar uma determinada tarefa
+function saudacao(){
+    console.log("Olá, mundo!!");
+}
+
+//Uma função só é executada quando é chamada
+saudacao();
+
+function saudacao2(nome){
+    console.log("Olá, " + nome)
+}
+
+saudacao2("Luis")
+
+```
+
+# Exemplo de funções de média:
+
+```javaScript
+function calcularMedia(nota1, nota2){
+    let media = (nota1 + nota2)/2
+    
+    console.log("Média: ", media)
+}
+
+calcularMedia(50,20)
+
+
+function verificarAprovacao(nota){
+    if(nota >= 6){
+        return "Aprovado";
+    } else {
+        return "Reprovado";
+    }
+}
+
+let resultado = verificarAprovacao(7);
+
+console.log(resultado);
+
+function verificaAprovacao(nota){
+    if(nota >= 6){
+        return "Aprovado"
+    }
+
+    return "Reprovado"
+}
+
+function mostrarResultado(nome, nota){
+    let situacao = verificaAprovacao(nota);
+
+    console.log(nome + ": " + situacao);
+}
+
+mostrarResultado("Pedro Henrique", 3);
+
+```
+
 # Exercícios de Funções em JavaScript
 
 Lista de exercícios para praticar **funções, parâmetros, `return`, condicionais e funções trabalhando em conjunto**.
