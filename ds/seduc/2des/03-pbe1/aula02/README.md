@@ -31,6 +31,20 @@ Resultado:
 24
 ```
 
+```javascript
+
+function dobro(numero) {
+
+   return numero * 2;
+
+}
+
+console.log(dobro(5));
+
+console.log(dobro(12));
+
+```
+
 
 ---
 
@@ -57,6 +71,39 @@ Positivo
 Negativo
 Zero
 ```
+```javascript
+
+function verificarNumero(numero) {
+
+
+
+   if (numero > 0) {
+
+       return "Positivo";
+
+   } else if (numero < 0) {
+
+       return "Negativo";
+
+   } else {
+
+       return "Zero";
+
+   }
+
+
+
+}
+
+
+
+console.log(verificarNumero(10));
+
+console.log(verificarNumero(-5));
+
+console.log(verificarNumero(0));
+
+```
 
 
 ---
@@ -76,7 +123,30 @@ Resultado:
 ```text
 20
 ```
+```javascript
 
+function maiorNumero(numero1, numero2) {
+
+
+
+   if (numero1 > numero2) {
+
+       return numero1;
+
+   } else {
+
+       return numero2;
+
+   }
+
+}
+
+console.log(maiorNumero(10, 20));
+
+console.log(maiorNumero(50, 30));
+
+
+```
 
 ---
 
@@ -99,6 +169,22 @@ Resultado:
 
 ```text
 26
+```
+
+```javascript
+
+function calcularIdade(anoNascimento, anoAtual) {
+
+&#x20;   return anoAtual - anoNascimento;
+
+}
+
+
+
+console.log(calcularIdade(2000, 2026));
+
+console.log(calcularIdade(1995, 2026));
+
 ```
 
 
@@ -150,6 +236,29 @@ Resultado:
 ```text
 30
 ```
+```javascript
+
+function celsiusParaFahrenheit(celsius) {
+
+&#x20;   return celsius \* 1.8 + 32;
+
+}
+
+
+
+function fahrenheitParaCelsius(fahrenheit) {
+
+&#x20;   return (fahrenheit - 32) / 1.8;
+
+}
+
+
+
+console.log(celsiusParaFahrenheit(30));
+
+console.log(fahrenheitParaCelsius(86));
+
+```
 
 
 
@@ -190,6 +299,58 @@ console.log(imc);
 console.log(classificarIMC(imc));
 ```
 ---
+
+```javascript
+
+function calcularIMC(peso, altura) {
+
+
+
+&#x20;   return peso / (altura \* altura);
+
+
+
+}
+
+
+
+function classificarIMC(imc) {
+
+
+
+&#x20;   if (imc < 18.5) {
+
+&#x20;       return "Abaixo do peso";
+
+&#x20;   } else if (imc < 25) {
+
+&#x20;       return "Peso normal";
+
+&#x20;   } else if (imc < 30) {
+
+&#x20;       return "Sobrepeso";
+
+&#x20;   } else {
+
+&#x20;       return "Obesidade";
+
+&#x20;   }
+
+
+
+}
+
+
+
+let imc = calcularIMC(70, 1.75);
+
+
+
+console.log("IMC:", imc.toFixed(2));
+
+console.log("Classificação:", classificarIMC(imc));
+
+```
 
 
 #  Desafio — Sistema de Notas
@@ -235,5 +396,75 @@ A função deverá utilizar as outras funções para mostrar o resultado.
 Aluno: João
 Média: 7.33
 Situação: Aprovado
+```
+
+```javascript
+
+function calcularMedia(nota1, nota2, nota3) {
+
+
+
+   return (nota1 + nota2 + nota3) / 3;
+
+
+
+}
+
+
+
+function verificarSituacao(media) {
+
+
+
+   if (media >= 6) {
+
+       return "Aprovado";
+
+   } else if (media >= 4) {
+
+       return "Recuperação";
+
+   } else {
+
+       return "Reprovado";
+
+   }
+
+
+
+}
+
+
+
+function mostrarResultado(nome, nota1, nota2, nota3) {
+
+
+
+   let media = calcularMedia(nota1, nota2, nota3);
+
+
+
+   let situacao = verificarSituacao(media);
+
+
+
+   console.log("Aluno:", nome);
+
+   console.log("Média:", media.toFixed(2));
+
+   console.log("Situação:", situacao);
+
+
+
+}
+
+
+
+mostrarResultado("João", 8, 7, 7);
+
+mostrarResultado("Maria", 5, 6, 4);
+
+mostrarResultado("Carlos", 3, 2, 4);
+
 ```
 
