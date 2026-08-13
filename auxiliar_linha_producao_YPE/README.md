@@ -1,3 +1,25 @@
+# E-mail Educacional:
+
+| Nome | E-mail |
+|---|---|
+| Beatriz Santos do Prado | beatriz.prado10@senaisp.edu.br |
+| Carlos Eduardo Silva Miranda | carlos.miranda10@senaisp.edu.br |
+| Daniel Silva Neves | daniel.neves10@senaisp.edu.br |
+| Érica França Sorráz | erica.sorraz@senaisp.edu.br |
+| Larissa Morais da Silva | larissa.silva374@senaisp.edu.br |
+| Lívia Puertas Masiero | livia.masiero@senaisp.edu.br |
+| Luiz Fernando Silva Miranda | luiz.miranda8@senaisp.edu.br |
+| Maria Vitória dos Santos | maria.santos1042@senaisp.edu.br |
+| Matheus Henrique Bueno Paulino | matheus.paulino13@senaisp.edu.br |
+| Maykon Lira Balbino | maykon.balbino@senaisp.edu.br |
+| Murilo Dias Torelli | murilo.torelli@senaisp.edu.br |
+| Pamela Maria José dos Santos | pamela.santos42@senaisp.edu.br |
+| Paula Eduarda da Silva | paula.silva46@senaisp.edu.br |
+| Sabrina Vitória da Rocha Lima Cabral | sabrina.cabral4@senaisp.edu.br |
+| Vitória Gabrielli Godoy dos Santos | vitoria.santos241@senaisp.edu.br |
+
+---
+
 # Letramento Digital
 
 ## Capacidades Básicas
