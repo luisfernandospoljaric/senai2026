@@ -262,4 +262,15 @@ Ao final da atividade:
 - Tema: Logic Bomb, CryptoJacking
   - Paulo
 
-# Entregar no email : luis.spoljaric@sp.senai.br 
+# Entrega do Trabalho:
+
+A entrega do trabalho vai ser por **e-mail**, e deve conter:
+
+- Assunto: Trabalho de Segurança da Informação
+
+- O email deve conter:
+  - Tema a ser tratado.
+  - Nome dos integrantes
+  - Anexo com o PDF com o Resumo e da Apresentação em SLIDE.
+
+  Email a ser enviado: **luis.spoljaric@sp.senai.br**
