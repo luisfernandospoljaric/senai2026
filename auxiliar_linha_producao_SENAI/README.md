@@ -1,3 +1,38 @@
+# E-mail Educacional:
+
+| Nome | E-mail |
+|---|---|
+| Ana Cristina Gomes Aranha Marcelo | ana.marcelo3@senaisp.edu.br |
+| Ariane da Silva Caetano | ariane.caetano2@senaisp.edu.br |
+| Bianca Campos Martins | bianca.martins18@senaisp.edu.br |
+| Brayan Silva Sena | brayan.sena@senaisp.edu.br |
+| Cauê Eduardo de Castro | caue.castro4@senaisp.edu.br |
+| Daniel Barbosa Amaro | daniel.amaro2@senaisp.edu.br |
+| Davy da Silva Conceição | davy.conceicao2@senaisp.edu.br |
+| Diogo Marques da Silva | diogo.silva159@senaisp.edu.br |
+| Felipe Augusto Teslenco Souza | felipe.souza214@senaisp.edu.br |
+| Felipe Silva | felipe.silva718@senaisp.edu.br |
+| Gabriela Trevisan Pinheiro | gabriela.pinheiro8@senaisp.edu.br |
+| Giovanna Petillo Bancatelli | gioanna.bancatelli@senaisp.edu.br |
+| João Vitor Custodio de Souza | joao.souza485@senaisp.edu.br |
+| Júlia Montezani | julia.montezani@senaisp.edu.br |
+| Juliana Kauany da Silva | juliana.silva202@senaisp.edu.br |
+| Kauê Henrique de Souza Xavier | kaue.xavier4@senaisp.edu.br |
+| Larissa Morais da Silva | larissa.silva374@senaisp.edu.br |
+| Larissa Thalita de Campos Gonçalves | larissa.goncalves21@senaisp.edu.br |
+| Letícia Gabrielle da Silva Evangelista | leticia.evangelista7@senaisp.edu.br |
+| Lorena Lemos Teodoro | lorena.teodoro2@senaisp.edu.br |
+| Lorrainy Medeiros de Paiva | lorrainy.paiva@senaisp.edu.br |
+| Luís Fernando Araujo Silva | luis.silva389@senaisp.edu.br |
+| Maicon Jose da Silva | maicon.silva37@senaisp.edu.br |
+| Maria Eduarda Silva Paes Landim | maria.landim3@senaisp.edu.br |
+| Mariana Beatriz Bizzo | mariana.bizzo@senaisp.edu.br |
+| Paulo Renato Silva dos Reis | paulo.reis12@senaisp.edu.br |
+| Sabrina Vitória da Rocha Lima Cabral | sabrina.cabral4@senaisp.edu.br |
+| Victor Hugo Nogueira da Rocha | victor.rocha41@senaisp.edu.br |
+| Yasmin Eloá Sousa Santos | yasmin.santos166@senaisp.edu.br |
+
+---
 # Letramento Digital
 
 ## Capacidades Básicas
