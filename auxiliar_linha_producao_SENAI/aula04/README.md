@@ -215,6 +215,53 @@ Ao final da atividade:
 
 --- 
 
+# Grupos:
+
+- Tema: Spyware
+  - Felipe Silva
+  - Lorena
+  - Bianca
+
+- Tema: Cavalo de Troia
+  - Daniel Amaro
+  - Felipe 
+  - Cauê
+
+- Tema: Vírus
+  - Giovanna
+  - Leticia
+  - Mariana
+
+- Tema: Botnet
+  - Lorrany
+  - Larissa
+  - Victor Hugo
+  - Davy
+  - Maicon
+
+- Tema: Keylogger
+  - Brayan
+  - João Vitor
+
+- Tema: Exploit 
+  - Luis
+  - Juliana
+  - Yasmin
+  - Eduarda
+
+- Tema: Ransoware
+  - Kauê
+
+- Tema: Fileless Malware
+  - Gabriela Trevisan
+
+- Tema: Worm
+  - Ana Cristina
+  - Júlia
+
+- Tema: Logic Bomb, CryptoJacking
+  - Paulo
+
 # Link para a Entrega: 
 
-https://forms.gle/S2A3AdquU4QB7xZU8
+https://forms.gle/9dgBoHKFFkcnixDk9
