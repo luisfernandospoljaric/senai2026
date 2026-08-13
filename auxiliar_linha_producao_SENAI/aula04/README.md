@@ -262,6 +262,4 @@ Ao final da atividade:
 - Tema: Logic Bomb, CryptoJacking
   - Paulo
 
-# Link para a Entrega: 
-
-https://forms.gle/QSu6Zwmak5S1h6E17
+# Entregar no email : luis.spoljaric@sp.senai.br 
