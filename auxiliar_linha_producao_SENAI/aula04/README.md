@@ -217,21 +217,25 @@ Ao final da atividade:
 
 # Grupos:
 
+- Grupo: 1
 - Tema: Spyware
   - Felipe Silva
   - Lorena
   - Bianca
 
+- Grupo: 2
 - Tema: Cavalo de Troia
   - Daniel Amaro
   - Felipe 
   - Cauê
 
+- Grupo: 3
 - Tema: Vírus
   - Giovanna
   - Leticia
   - Mariana
 
+- Grupo: 4
 - Tema: Botnet
   - Lorrany
   - Larissa
@@ -239,29 +243,39 @@ Ao final da atividade:
   - Davy
   - Maicon
 
+- Grupo: 5
 - Tema: Keylogger
   - Brayan
   - João Vitor
 
+- Grupo: 6
 - Tema: Exploit 
   - Luis
   - Juliana
   - Yasmin
   - Eduarda
 
+- Grupo: 7
 - Tema: Ransoware
   - Kauê
 
+- Grupo: 8
 - Tema: Fileless Malware
   - Gabriela Trevisan
 
+- Grupo: 9
 - Tema: Worm
   - Ana Cristina
   - Júlia
 
+- Grupo: 10
 - Tema: Logic Bomb, CryptoJacking
   - Paulo
+---
 
+# A ordem das apresentações será sorteada no dia 20/08
+
+---
 # Entrega do Trabalho:
 
 A entrega do trabalho vai ser por **e-mail**, e deve conter:
