@@ -13,6 +13,8 @@
 
     <!-- Título que aparece na aba do navegador -->
     <title>Semântica</title>
+
+     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -153,6 +155,64 @@ nav a {
     /*removi o sublinhado */
     text-decoration: none;
     /*espaçamento entre os links */
+    /* 1º -> cima e de baixo / 2º -> direira e esquerda*/
     margin: 0 15px;
 }
+
+nav a:hover{
+    color: #00aaff;
+}
+
+main{
+    /*Define uma largura máxima do elemento */
+    max-width: 1000px;
+    /*Centraliza o conteudo*/
+    margin: 30px auto;
+    /* Espaçamento Lateral */
+    padding: 0 20px;
+}
+
+section{
+    background-color: white;
+    /* espaçamento interno */
+    padding: 30px;
+    /*Arredonda os cantos */
+    border-radius: 10px;
+    /*Espaço abaixo da seção */
+    margin-bottom: 30px;
+}
+
+article{
+    background-color: white;
+    padding: 25px;
+    /* espaçamento entre os article */
+    margin-bottom: 20px;
+    border-radius: 10px;
+
+}
+
+article h2{
+    color: #0066cc
+}
+
+aside {
+    background-color: #e8f3ff;
+    padding: 20px;
+    border-left: 5px solid #0066cc;
+    /* Margem/espaço de cima */
+    margin-top: 20px;
+}
+
+footer{
+    background-color: #222;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+address{
+    font-style: normal;
+    color: #00aaff;
+}
+
 ```
