@@ -102,3 +102,55 @@
 </body>
 </html>
 ```
+
+# CSS
+
+```css
+/* CONFIGURAÇÕES GERAIS DA PÁGINA */
+
+/* O * (asterisco) seleciona TODOS os elementos da página */
+
+* {
+    
+    box-sizing: border-box;
+} 
+
+body {
+    /* Define a fonte utilizada */
+    font-family: Arial, sans-serif;
+    /* Remove a margem padrão do navegador */
+    margin: 0;
+    /* Mudando a cor de fundo */
+    background-color: #f4f4f4;
+    /* Definir a cor padrão dos textos */
+    color: #333;
+}
+
+header {
+    background-color: #222;
+    color: white;
+    /* Espaçamento interno. */
+    padding: 30px;
+    /* Centralizar o texto */
+    text-align: center;
+}
+
+header h1 {
+    /* Remover a margem superior */
+    margin-top: 0;
+}
+
+nav {
+    background-color: #333;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    /*removi o sublinhado */
+    text-decoration: none;
+    /*espaçamento entre os links */
+    margin: 0 15px;
+}
+```
