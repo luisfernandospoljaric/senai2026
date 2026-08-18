@@ -1,5 +1,5 @@
 
-# HTML
+# HTML Semântico:
 
 ```html
 <!DOCTYPE html>
@@ -107,7 +107,9 @@
 </html>
 ```
 
-# CSS
+---
+
+# Exemplo de CSS
 
 ```css
 /* CONFIGURAÇÕES GERAIS DA PÁGINA */
@@ -216,3 +218,93 @@ address{
 }
 
 ```
+
+# Exemplo de HTML + JS
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Calculadora</title>
+</head>
+
+<body>
+
+    <h1>Calculadora de Soma</h1>
+
+    <!-- Primeiro campo para o usuário digitar um número -->
+    <label for="numero1">Primeiro número:</label>
+
+    <input type="number" id="numero1">
+
+    <br><br>
+
+
+    <!-- Segundo campo para o usuário digitar um número -->
+    <label for="numero2">Segundo número:</label>
+
+    <input type="number" id="numero2">
+
+    <br><br>
+
+
+    <!-- Botão que chama a função somar() -->
+    <button onclick="somar()">
+        Somar
+    </button>
+
+
+    <!--
+        Esse parágrafo começa vazio.
+        O JavaScript colocará o resultado aqui.
+    -->
+    <p id="resultado"></p>
+
+
+    <script>
+
+        // Criamos uma função chamada somar
+        function somar() {
+
+            // Pegamos o primeiro input
+            const campoNumero1 = document.getElementById("numero1");
+
+            // Pegamos o segundo input
+            const campoNumero2 = document.getElementById("numero2");
+
+
+            // Pegamos o valor digitado pelo usuário
+            const numero1 = Number(campoNumero1.value);
+
+            const numero2 = Number(campoNumero2.value);
+
+
+            // Fazemos a soma
+            const resultado = numero1 + numero2;
+
+
+            // Encontramos o parágrafo pelo seu ID
+            const campoResultado = document.getElementById("resultado");
+
+
+            // Mostramos o resultado na página
+            campoResultado.textContent = "Resultado: " + resultado;
+
+        }
+
+    </script>
+
+</body>
+
+</html>
+
+```
+---
+
+# Formlulário para entregar a atividade.
+Formulário será fechamdo as 17h00
+
+https://forms.cloud.microsoft/r/f6RFjA4EeX
