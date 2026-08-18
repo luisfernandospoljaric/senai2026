@@ -1,6 +1,25 @@
 
 # HTML Semântico:
 
+![html semantico](./hmtlsemantico.jpg)
+| Tag            | Para que serve                                                                                                    |
+| -------------- | ----------------------------------------------------------------------------------------------------------------- |
+| `<header>`     | Representa o **cabeçalho** de uma página ou de uma seção. Pode conter logo, título, menu etc.                     |
+| `<nav>`        | Representa uma área de **navegação**, normalmente contendo links para outras páginas ou partes do site.           |
+| `<main>`       | Representa o **conteúdo principal** da página. Deve existir, normalmente, apenas um `<main>` por página.          |
+| `<section>`    | Representa uma **seção temática** do conteúdo, geralmente com um título.                                          |
+| `<article>`    | Representa um **conteúdo independente**, como uma notícia, postagem, artigo ou publicação.                        |
+| `<aside>`      | Representa um conteúdo **secundário ou complementar**, como uma barra lateral, dicas ou informações relacionadas. |
+| `<footer>`     | Representa o **rodapé** de uma página ou seção. Pode conter copyright, contatos, links etc.                       |
+| `<figure>`     | Representa um conteúdo visual ou ilustrativo, como **imagem, gráfico ou diagrama**.                               |
+| `<figcaption>` | Adiciona uma **legenda** ou descrição para o conteúdo dentro de `<figure>`.                                       |
+| `<address>`    | Representa **informações de contato** do autor ou responsável pelo conteúdo.                                      |
+| `<time>`       | Representa uma **data ou horário**.                                                                               |
+| `<mark>`       | Destaca um trecho de texto, como se fosse um **marcador de texto**.                                               |
+| `<details>`    | Cria uma área que pode ser **expandida ou recolhida** pelo usuário.                                               |
+| `<summary>`    | Define o **título clicável** de um `<details>`.                                                                   |
+
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
