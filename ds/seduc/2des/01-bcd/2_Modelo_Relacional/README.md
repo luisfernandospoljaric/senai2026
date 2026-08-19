@@ -1,4 +1,4 @@
-# Medelo Relacional
+# Modelo Relacional
 Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SENAI Jaguariúna.
 
 <h3>Módulo: 2. Modelo Relacional</h3>
