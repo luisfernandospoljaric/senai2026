@@ -314,6 +314,71 @@ address{
 
         }
 
+                function subtrair(){
+             
+            const campoNumero1 = document.getElementById("n1");
+            
+            const campoNumero2 = document.getElementById("n2");
+
+            
+            const numero1 = Number(campoNumero1.value);
+
+            const numero2 = Number(campoNumero2.value);
+
+            
+            const resultado = numero1 - numero2;
+
+            
+            const campoResultado = document.getElementById("resultado");
+
+            
+            campoResultado.textContent = "Resultado: " + resultado;
+        }
+        
+        function multiplicar(){
+            
+            const campoNumero1 = document.getElementById("n1");
+            
+            const campoNumero2 = document.getElementById("n2");
+
+            
+            const numero1 = Number(campoNumero1.value);
+
+            const numero2 = Number(campoNumero2.value);
+
+            
+            const resultado = numero1 * numero2;
+
+            
+            const campoResultado = document.getElementById("resultado");
+
+            
+            campoResultado.textContent = "Resultado: " + resultado;
+        }
+
+        function divisao(){
+            
+            const campoNumero1 = document.getElementById("n1");
+            
+            const campoNumero2 = document.getElementById("n2");
+
+            
+            const numero1 = Number(campoNumero1.value);
+
+            const numero2 = Number(campoNumero2.value);
+            const campoResultado = document.getElementById("resultado");
+
+            if(numero2 === 0){
+                campoResultado.textContent = "Não existe divisão por ZERO";
+            } else {
+                
+                const resultado = numero1 / numero2;
+
+                
+                campoResultado.textContent = "Resultado: " + resultado;
+            }
+        }
+
     </script>
 
 </body>
@@ -327,3 +392,4 @@ address{
 Formulário será fechamdo as 17h00
 
 https://forms.cloud.microsoft/r/f6RFjA4EeX
+
