@@ -1,5 +1,10 @@
 # Criação e Edição de imagens para Mídias Sociais: Aula 02
 
+
+## Video demonstrado em Aula:
+https://www.youtube.com/watch?v=I2qeQezy3TU&pp=ygUKZ2F2ZXRhIGx1eg%3D%3D
+
+--- 
 - 2.0. Introdução ao Canva.<br />
     &emsp;2.1. Área de Trabalho.<br />
     &emsp;2.2. Camadas: Transparência, transformações e organização.<br />
