@@ -1,5 +1,8 @@
 # Técnico em Desenvolvimento de Sistemas
 
+## Pesquisa de Caracterização:
+https://portaldepesquisassenai.sp.senai.br/Home/Login
+
 ## [Plano de Curso](./planejamento/Plano_de_Curso_2025.pdf)
 ## Competências transversais - Cursos autoinstitucionais
 - 1 Portal **[EAD](https://ead.sp.senai.br)**
