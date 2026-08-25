@@ -215,7 +215,7 @@ li {
 
 ```
 
-## Exercicio - Sitema de Nota
+## Exercicio - Sistema de Nota
 
 Criar uma página web utilizando **HTML, CSS e JavaScript** para calcular a média de um aluno e informar sua situação.
 
