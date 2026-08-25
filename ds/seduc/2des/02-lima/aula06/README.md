@@ -214,3 +214,136 @@ li {
 }
 
 ```
+
+## Exercicio - Sitema de Nota
+
+Criar uma página web utilizando **HTML, CSS e JavaScript** para calcular a média de um aluno e informar sua situação.
+
+O exercício deverá ser desenvolvido utilizando três arquivos separados:
+
+```text
+projeto/
+│
+├── index.html
+├── style.css
+└── script.js
+```
+
+---
+
+## Requisitos
+
+A página deverá possuir:
+
+### HTML
+
+Crie:
+
+* Um título escrito **"Sistema de Notas"**;
+* Um campo para informar o **nome do aluno**;
+* Um campo para informar a **Nota 1**;
+* Um campo para informar a **Nota 2**;
+* Um botão chamado **"Calcular Média"**;
+* Uma área para apresentar o resultado.
+
+---
+
+### JavaScript
+
+Ao clicar no botão **"Calcular Média"**, o programa deverá:
+
+1. Pegar o nome do aluno;
+2. Pegar a Nota 1;
+3. Pegar a Nota 2;
+4. Calcular a média:
+
+```text
+média = (nota1 + nota2) / 2
+```
+
+5. Exibir o nome do aluno;
+6. Exibir a média calculada;
+7. Informar a situação do aluno.
+
+---
+
+## Regras da situação
+
+| Média                            | Situação    |
+| -------------------------------- | ----------- |
+| Maior ou igual a 7               | Aprovado    |
+| Maior ou igual a 5 e menor que 7 | Recuperação |
+| Menor que 5                      | Reprovado   |
+
+---
+
+## Exemplo
+
+Se o usuário informar:
+
+```text
+Aluno: João
+Nota 1: 8
+Nota 2: 6
+```
+
+O resultado deverá ser:
+
+```text
+Aluno: João
+Média: 7
+Situação: Aprovado
+```
+
+---
+
+## Validação
+
+O programa deverá verificar se os campos foram preenchidos.
+
+Caso o usuário tente calcular sem preencher os dados, deverá aparecer uma mensagem informando:
+
+```text
+Preencha todos os campos!
+```
+
+---
+
+## CSS
+
+Utilize CSS para deixar a página organizada.
+
+O aluno deverá:
+
+* Centralizar o conteúdo;
+* Criar um fundo para a página;
+* Estilizar os campos de entrada;
+* Estilizar o botão;
+* Utilizar `:hover` no botão;
+* Criar uma área visualmente destacada para o resultado.
+
+---
+
+## Desafios extras
+
+Depois de finalizar o exercício, tente implementar:
+
+### Desafio 1
+
+Adicionar um botão **"Limpar"** que apague os campos e o resultado.
+
+### Desafio 2
+
+Adicionar uma terceira nota e calcular a média de três notas.
+
+### Desafio 3
+
+Alterar a cor da situação:
+
+* 🟢 Aprovado;
+* 🟡 Recuperação;
+* 🔴 Reprovado.
+
+### Desafio 4
+
+Impedir que sejam informadas notas menores que `0` ou maiores que `10`.
