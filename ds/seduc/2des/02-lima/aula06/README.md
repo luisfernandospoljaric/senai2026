@@ -183,4 +183,34 @@ button:hover{
     background-color: #0056b3;
 }
 
+.lista {
+    margin-top: 30px;
+}
+
+ul {
+    padding: 0px;
+    list-style: none;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f5f5f5;
+    padding: 12px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+
+.total {
+    margin-top: 30px;
+    text-align: right;
+    border-top: 2px solid #ddd;
+    padding-top: 15px;
+}
+
+.total p {
+    font-size: 24px;
+    font-weight: bold;
+}
+
 ```
