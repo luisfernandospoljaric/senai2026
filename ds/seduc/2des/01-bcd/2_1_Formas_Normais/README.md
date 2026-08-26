@@ -18,5 +18,5 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 
 <h4>Introdução a Modelo Relacional</h4>
 <pre>
-    <a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/2des/01-bcd/2_Modelo_Relacional/2_1_Introducao_Modelo%20Relacional.pdf">Clique aqui para acessá-lo.</a>
+    <a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/2des/01-bcd/2_1_Formas_Normais/2_1_Introducao_Formas_Normais.pdf">Clique aqui para acessá-lo.</a>
 </pre>
