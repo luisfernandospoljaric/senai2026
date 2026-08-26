@@ -945,4 +945,3 @@ Esse exemplo já apresenta os principais conceitos iniciais:
 - Rotas
 - `localhost`
 
-A partir daqui, o próximo passo natural é aprender **Express.js** e construir uma API REST de verdade.
