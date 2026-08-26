@@ -16,7 +16,7 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 
 <h3>Material de Apoio:</h3>
 
-<h4>Introdução a Modelo Relacional</h4>
+<h4>Introdução a Formas Normais - Normalização</h4>
 <pre>
     <a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/2des/01-bcd/2_1_Formas_Normais/2_1_Introducao_Formas_Normais.pdf">Clique aqui para acessá-lo.</a>
 </pre>
