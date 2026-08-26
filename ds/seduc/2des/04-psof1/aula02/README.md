@@ -215,3 +215,5 @@ Cada equipe deverá entregar um documento contendo:
 - Proposta de solução.
 
 Ao final da atividade, quero que entendam a importância da comunicação com o cliente e da definição correta dos requisitos antes do início do desenvolvimento de um sistema.
+
+# APRESENTAÇÃO DIA 09/09/2026
