@@ -22,7 +22,7 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 </pre>
 
 
-## Exercícios:
+# Exercícios:
 
 <h3>Exercício 1</h3>
 <b>1. Analise a seguinte tabela abaixo. Identifique quais os problemas a mesmas apresenta. Liste em seu caderno e discuta em sala com o professor.</b>
