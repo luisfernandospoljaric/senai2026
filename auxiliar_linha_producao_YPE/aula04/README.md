@@ -288,3 +288,48 @@ A entrega do trabalho vai ser por **e-mail**, e deve conter:
   - Anexo com o PDF com o Resumo e da Apresentação em SLIDE.
 
   Email a ser enviado: **luis.spoljaric@sp.senai.br**
+
+---
+
+# Grupos:
+
+- Grupo 01
+  - Erica
+  - Beatriz
+- Tema: Vírus e Cavalo de Troia
+
+- Grupo 02:
+  - Larisa
+  - Sabrina
+- Tema: Adware e Scareware
+
+- Grupo 03
+  - Matheus
+- Tema: CriptoJack
+
+- Grupo 4
+  - Murilo
+  - Daniel
+- Worm e Bot/Botnet
+
+
+- Grupo 05
+  - Luiz
+  - Carlos
+- Tema: Ransoware e Exploit
+
+- Grupo 06
+  - Vitoria
+  - Maria Vitoria
+- Tema: Logic Bomb e Keylogger
+
+
+- Grupo 07
+  - Paula
+  - Lívia
+- Tema: Spyware e Backdoor
+
+- Grupo 8
+  - Maykon
+  - Pamela
+- Tema: Fileless Malware e Rootkit
