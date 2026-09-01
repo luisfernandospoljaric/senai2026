@@ -3,6 +3,7 @@ const express = require("express");
 
 //importa nossa de rota de alunos
 const alunoRota = require("./routes/alunoRota");
+const professorRota = require("./routes/professorRota");
 
 //Cria a aplicação do Express.
 const app = express();
@@ -11,6 +12,8 @@ const app = express();
 const porta = 3000;
 
 app.use("/alunos", alunoRota);
+app.use("/professores", professorRota);
+
 
 //Cria uma rota para a página inicial
 app.get("/", (req, res) => {
