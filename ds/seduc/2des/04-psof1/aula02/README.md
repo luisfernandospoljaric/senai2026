@@ -217,3 +217,10 @@ Cada equipe deverá entregar um documento contendo:
 Ao final da atividade, quero que entendam a importância da comunicação com o cliente e da definição correta dos requisitos antes do início do desenvolvimento de um sistema.
 
 # APRESENTAÇÃO DIA 09/09/2026
+
+# Envio:
+- Uma pessoa do grupo cria um repositório no Github.
+- No repositório deve ter o Resumo em PDF e o arquivo da Apresentação.
+- No repositório tenha um README.md com o nomes dos integrantes.
+
+- Apenas uma pessoa do grupo preenche o formulário: https://forms.cloud.microsoft/r/tCquBkCHx4
