@@ -25,5 +25,5 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 
 <h4>Introdução a SQL, DDL, DML, DCL e Tipagem de Dados</h4>
 <pre>
-    <a href="">Clique aqui para acessá-lo.</a>
+    <a href="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/2des/01-bcd/2_2_SQL_DDL_DML_DCL/2_2_1_SQL_DDL_DML_DCL.pdf">Clique aqui para acessá-lo.</a>
 </pre>
