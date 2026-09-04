@@ -1,3 +1,7 @@
+# Banco de Imagens:
+https://www.pexels.com/pt-br/
+
+---
 # Máscara de Camada e Efeitos de Camada no Canva
 
 Neste conteúdo vamos aprender dois recursos importantes para edição de imagens:
