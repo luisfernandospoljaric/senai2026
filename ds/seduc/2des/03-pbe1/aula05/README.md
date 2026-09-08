@@ -50,18 +50,23 @@ npm init -y
 - Será criado o arquivo de configuração **package.json** semelhanta ao abaixo
 ```json
 {
-  "name": "pedidos_quitanda",
+  
+  "name": "aula03",
   "version": "1.0.0",
-  "description": "Exemplo de cliente x servidor full-stack",
+  "description": "",
   "main": "servidor/server.js",
   "scripts": {
     "dev": "node servidor/server.js"
   },
-  "keywords": ["quitanda","produtos"],
-  "author": "wellifabio",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
+
 ```
 - Vamos preencher alguns dados no formato JSON no arquivo **dados.json**
 ```json
