@@ -59,7 +59,7 @@
 ```
 
 ### Javascript
-```
+```js
 // Pagamos o formulário pelo ID
 const formulario = document.getElementById("formPedido");
 
