@@ -253,4 +253,4 @@ Baseado neste exemplo visto em aula desenvolva os seguintes projetos
     - Calcule quantos jogos e quantos pontos cada clube fez
 
 ### Link formulário
-[Envio dos repositórios das atividades](https://forms.cloud.microsoft/r/8d4jdUFVbx)
+[Envio dos repositórios das atividades]
