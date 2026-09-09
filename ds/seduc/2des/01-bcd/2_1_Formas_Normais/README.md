@@ -35,3 +35,9 @@ Material de Estudo para o Curso de Técnico em Desenvolviemnto de Sistemas - SEN
 <img src="https://github.com/luisfernandospoljaric/senai2026/blob/main/ds/seduc/2des/01-bcd/2_1_Formas_Normais/2_3_Exercicio_2.png" alt="Exercicio 2">
 <b>2. Normalize a tabela abaixo seguindo as regras 1FN, 2FN e 3 FN. Ao final, apresente ao professor!</b>
 <br /><br />
+
+
+
+# Envio das atividades:
+<b>Faça upload dos seus arquivos para o Github e informe o caminho absoluto no formulário abaixo:</b><br /><br />
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUMzM0SkNQNVFDMU1FU0lCWjVWQjQ0SDdQNy4u">Clique aqui para enviar.</a>
