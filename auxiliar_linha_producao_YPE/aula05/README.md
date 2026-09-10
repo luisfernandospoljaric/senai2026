@@ -1,20 +1,3 @@
-# Grupos para apresentar
-**Primeira parte da aula**: Finalizar as apresentações:
-
-- Grupo: 6
-- Tema: Exploit 
-  - Luis
-  - Juliana
-  - Yasmin
-  - Eduarda
-
-<br>
-
-- Grupo: 8
-- Tema: Fileless Malware
-  - Gabriela Trevisan
-
----
 
 # Marco Civil da Internet
 
