@@ -8,7 +8,7 @@ Material didático sobre conceitos de vetorização e utilização de elementos 
 
 # 1. Objetivos da aula
 
-Ao final desta aula, o aluno deverá ser capaz de:
+Vocês devem ser capaz de:
 
 * Entender o que é uma imagem vetorial.
 * Diferenciar imagem bitmap de imagem vetorial.
@@ -67,3 +67,22 @@ Continua com contornos definidos
 
 ---
 
+## Principais Utilidades
+
+| Utilidade | Exemplo |
+|---|---|
+| **Criação de logotipos** | Criar o logo de uma empresa para diferentes aplicações |
+| **Impressão** | Banners, cartazes, outdoors e cartões de visita |
+| **Redimensionamento** | Aumentar ou diminuir uma imagem mantendo a qualidade |
+| **Identidade visual** | Criar símbolos, padrões e elementos de uma marca |
+| **Criação de ícones** | Ícones para sites, aplicativos e sistemas |
+| **Ilustrações** | Desenhos, personagens e mascotes |
+| **Personalização** | Alterar cores, formas, contornos e partes do desenho |
+| **Estampas** | Criar artes para camisetas, canecas e outros produtos |
+| **Materiais digitais** | Criar elementos para sites e redes sociais |
+| **Recorte eletrônico** | Preparar determinados desenhos para máquinas de corte |
+
+
+## App para a aula 
+
+- Tracer
