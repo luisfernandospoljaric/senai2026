@@ -1,5 +1,3 @@
-TA FUNCIONANDO
-
 # Aula05
 Objetos JSON Servidor (NodeJS) x Cliente (HTML)
 
