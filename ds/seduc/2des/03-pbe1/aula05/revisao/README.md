@@ -1,3 +1,4 @@
+![ImagemFullStack](imagem.webp)
 
 # 1. Dúvida Back-end, servidor, Node.js e Express
 
