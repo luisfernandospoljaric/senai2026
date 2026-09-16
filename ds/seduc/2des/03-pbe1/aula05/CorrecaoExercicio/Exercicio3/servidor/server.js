@@ -23,7 +23,6 @@ const calcularMedia = (req, res) => {
     alunos.forEach(a => {
         a.media = (parseFloat(a.nota1) + parseFloat(a.nota2) + parseFloat(a.nota3))/3
     })
-    
 }
 
 //rota
