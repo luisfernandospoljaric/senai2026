@@ -22,7 +22,7 @@ O programa deve descobrir
 - Maior número
 - Menor número
 - soma dos números
-- qantidade de numeros pares
+- quantidade de numeros pares
 - quantidade de numeros impares.
 
 ---
@@ -54,3 +54,7 @@ As formas de pagamento serão:
 
 **Desafio**
 Se o pagamento for em dinheiro, silicite também o valor entregue pelo cliente e calcule o troco;
+
+---
+# Link para envio:
+https://forms.cloud.microsoft/r/j9izW1RBQ8
