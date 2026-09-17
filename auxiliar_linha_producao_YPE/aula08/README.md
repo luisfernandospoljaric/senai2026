@@ -308,3 +308,7 @@ Peça aos alunos:
 - Criar um dashboard simples
 
 ---
+
+# Jogos de digitação
+
+https://www.ratatype.com.br/typing-games/race/select-hero/
