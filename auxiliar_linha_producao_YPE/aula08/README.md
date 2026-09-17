@@ -311,4 +311,6 @@ Peça aos alunos:
 
 # Jogos de digitação
 
-https://www.ratatype.com.br/typing-games/race/select-hero/
+Jogo de Corrida: https://www.ratatype.com.br/typing-games/race/select-hero/
+
+AgileFingers: https://agilefingers.com/pt
