@@ -116,12 +116,10 @@ Podem ser utilizados, por exemplo:
 * Tipografia
 * Elementos vetoriais
 * Formas geométricas
-* Ferramenta Caneta
 * Ajustes de imagem
 * Modos de mesclagem
 * Molduras
 * Quadros
-* Linhas-guia
 * Efeitos para textos
 
 **Importante:** não é necessário utilizar todas as ferramentas.
