@@ -97,7 +97,7 @@ A informação da promoção deve continuar sendo a mesma.
 
 # 4. Ferramentas e recursos obrigatórios
 
-Durante o desenvolvimento das três artes, vocês deverão utilizar **pelo menos 8 recursos ou ferramentas estudados durante o curso**.
+Durante o desenvolvimento das três artes, vocês deverão utilizar **pelo menos 5 recursos ou ferramentas estudados durante o curso**.
 
 Podem ser utilizados, por exemplo:
 
