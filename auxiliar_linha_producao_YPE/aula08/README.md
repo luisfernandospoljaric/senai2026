@@ -90,6 +90,7 @@ O **SE encadeado** é quando usamos vários SE juntos.
 
 ```excel
 =SE(teste_lógico; valor_se_verdadeiro; valor_se_falso)
+=SES(teste_lógico; valor_verdadeiro;teste_lógico;valor_verdadeiro; ... )
 ``` 
 ---
 
