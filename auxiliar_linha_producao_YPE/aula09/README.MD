@@ -50,15 +50,14 @@ Regras:
 ```
 ---
 
-### 4. ORDEM
-Crie uma coluna chamada **Ranking de Vendas**
+### 5. SOMA.SE e MÉDIA.SE
+Total dos equipamentos de informática e a média.
 
-- Classifique os valores da coluna **Valor (R$)**  
-- O maior valor deve ser **posição 1**
+### 6. SOMA.SE e MÉDIA.SE
+Valor total dos Movéis e a média.
 
----
 
-### 5. Desafio Extra (Misturando funções)
+### 4. Desafio Extra (Misturando funções)
 Calcule o total de vendas **APENAS dos pedidos pagos**
 
 ---
@@ -70,8 +69,3 @@ Ao final, a planilha deve conter:
 - Coluna de Classificação
 - Coluna de Ranking
 - Resultados das funções aplicadas
-
-## Entrega
-- Nome completo deve estar no formulário e no arquivo das atividades.
-
-https://forms.gle/unQVuAHycgw2W8838
