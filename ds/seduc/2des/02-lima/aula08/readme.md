@@ -305,33 +305,6 @@ ventilador/
 
 ---
 
-## O que será avaliado
-
-| Critério                         |   Pontos |
-| -------------------------------- | -------: |
-| Estrutura HTML                   |      2,0 |
-| Estilização CSS                  |      2,0 |
-| Funcionamento do botão           |      2,0 |
-| Utilização correta do JavaScript |      2,0 |
-| Organização do código            |      1,0 |
-| Criatividade                     |      1,0 |
-| **Total**                        | **10,0** |
-
----
-
-## Perguntas para responder após a atividade
-
-1. Qual é a função do HTML no projeto?
-2. Qual é a função do CSS?
-3. Qual é a função do JavaScript?
-4. Para que serve o `addEventListener()`?
-5. O que acontece quando utilizamos `classList`?
-6. Por que precisamos utilizar `if` e `else`?
-7. Como o JavaScript consegue alterar a aparência do ventilador?
-8. O que aconteceria se retirássemos o JavaScript da aplicação?
-
----
-
 ### Dica
 
 Não tente fazer tudo de uma vez.
