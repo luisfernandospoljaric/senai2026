@@ -149,7 +149,7 @@ O arquivo inventario.json poderá iniciar com alguns registros para testes:
   - exemplos de respostas;
 - Evidências dos testes realizados nas rotas da API.
 
-<<<<<<< HEAD
+
 [Envio do repositório da atividade]()
 =======
 [Envio do repositório da atividade](https://forms.cloud.microsoft/r/EgMWXA1iv8)
