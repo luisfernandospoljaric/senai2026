@@ -39,7 +39,7 @@ body {
 
     transform: translate(-50%, -50%);
 
-    animation: girar 1s linear infinite;
+    
 }
 
 /* Cada hélice */
@@ -107,6 +107,10 @@ body {
 /* Quando o ventilador está ligado */
 #ventilador.ligado {
     box-shadow: 0 0 30px #00aaff;
+}
+
+#ventilador.ligado .helices {
+    animation: girar 1s linear infinite;
 }
 
 /* Botões */

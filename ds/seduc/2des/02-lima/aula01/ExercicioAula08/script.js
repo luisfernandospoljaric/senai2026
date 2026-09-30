@@ -2,7 +2,7 @@ const ventilador = document.getElementById("ventilador");
 
 const botao = document.getElementById("botao");
 
-const status = document.getElementById("status");
+const statusVentilador = document.getElementById("status");
 
 const velocidade1 = document.getElementById("velocidade1");
 
@@ -22,13 +22,13 @@ botao.addEventListener("click", function() {
 
         botao.textContent = "Desligar";
 
-        status.textContent = "Status: Ligado";
+        statusVentilador.textContent = "Status: Ligado";
 
     } else {
 
         botao.textContent = "Ligar";
 
-        status.textContent = "Status: Desligado";
+        statusVentilador.textContent = "Status: Desligado";
 
     }
 
