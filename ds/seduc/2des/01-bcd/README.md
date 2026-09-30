@@ -136,3 +136,8 @@ Recomenda-se o uso de softwares específicos como: MySQL, Postgree, SQLserver, M
 - MANZANO, José Augusto N. G. Microsoft SQL Server 2008 Express: Interativo: Guia Prático. São Paulo: Érica, 2009.
 - 
 Link pra aula: https://meet.google.com/knm-tbtb-omw
+
+## Suporte as Aulas:
+
+- Formulário para envio de Trabalhos, Atividades e Projetos:
+<a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUOFRaUTVZQlNESVlUUk5EV1pPT0RaVUhaSi4u">https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=3qZIQdENBE2kxXjjdOT21s9TnjA0VhxPpDn3fqAMYYRUOFRaUTVZQlNESVlUUk5EV1pPT0RaVUhaSi4u</a> 
