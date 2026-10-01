@@ -275,6 +275,7 @@ Crie um sistema onde o usuário digita a matrícula e o Excel retorna:
 - 2 Também utilizando a função **PROCV()** preencha a coluna **H "Frete"** buscando os dados na **tabela** ao lado.
 - 3 Calcule o total na coluna **I "Total", o frete é por produto, verifique a quantidade de cada produto e some ao frete.
 - 4 Calcule o "Total" geral na célula **I32**
+---
 |Planilha com os valores calculados para conferência|
 |-|
 |![Fretes](./fretes2.png)|
