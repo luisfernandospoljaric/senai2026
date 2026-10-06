@@ -9,8 +9,31 @@ const criar = (req, res) => {
 const listar = (req, res) => {
     res.json(clientes)
 }
-const alterar = (req, res) => { res.json("Em construção") }
-const excluir = (req, res) => { res.json("Em construção") }
+
+const alterar = (req, res) => { 
+    const id = req.params.id
+    const dados = req.body
+
+    clientes.forEach((cliente) => {
+        if(cliente.id == id) {
+            cliente.cpf = dados.cpf
+            cliente.nome = dados.nome
+        }
+    })
+    res.send("Cliente alterado com sucesso")
+}
+
+const excluir = (req, res) => {
+    const id = req.params.id
+    
+    clientes.forEach((cliente, indice) => { 
+        if(cliente.id == id) {
+            clientes.splice(indice, 1)
+        }
+    });
+
+    res.send("Cliente excluído com sucesso")
+}
 
 module.exports = {
     criar, listar, alterar, excluir
