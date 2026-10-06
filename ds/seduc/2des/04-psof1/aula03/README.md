@@ -27,10 +27,10 @@ Selecionar uma metodologia ágil para o desenvolvimento do seu projeto e estrutu
 
 ### 4. Elaboração do Planejamento Inicial:
 
-Crie um cronograma ou roadmap inicial baseado na metodologia escolhida.
+- Crie um cronograma ou roadmap inicial baseado na metodologia escolhida.
 
-Indique como serão feitas as entregas e revisões do software ao longo do desenvolvimento.
+- Indique como serão feitas as entregas e revisões do software ao longo do desenvolvimento.
 
 ### 5.	Apresentação da Atividade:
 
-Cada grupo deverá preparar um pequeno documento ou apresentação explicando suas escolhas e como irão aplicar a metodologia escolhida na prática.
+- Cada grupo deverá preparar um pequeno documento ou apresentação explicando suas escolhas e como irão aplicar a metodologia escolhida na prática.
