@@ -210,3 +210,7 @@ const buscarPorNome = (req, res) => {
 Crie uma função chamada `calcTotais` que calcule o total de cada pedido e faça a chamada no CRUD listar.
     - Teste com Thunder e anexe o print no README.md
     - Faça commit com as alterações
+
+
+## Forms
+https://forms.cloud.microsoft/r/EgMWXA1iv8
