@@ -34,3 +34,8 @@ Selecionar uma metodologia ágil para o desenvolvimento do seu projeto e estrutu
 ### 5.	Apresentação da Atividade:
 
 - Cada grupo deverá preparar um pequeno documento ou apresentação explicando suas escolhas e como irão aplicar a metodologia escolhida na prática.
+
+---
+
+# Formulário para a entrega dos trabalhos:
+https://forms.cloud.microsoft/r/bWmyRBSUnA
