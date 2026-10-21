@@ -1,3 +1,11 @@
+# Sistema de loja
+
+Seguem os códigos.
+
+---
+## Atividade proposta
+- Fazer um botão para limpar o carrinho de compras.
+
 ```css
 
 * {
