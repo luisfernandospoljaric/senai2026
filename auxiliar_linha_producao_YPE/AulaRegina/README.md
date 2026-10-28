@@ -114,6 +114,4 @@ O que mais chamou sua atenção durante a visita ao CD 4.0 da Ypê?
 ---
 
 ### Modo de entrega:
-O questionário pode ser respondido pelo word e encaminhado para o e-mail da Professora Regina.
-
-Se preferir fazer no caderno entregar para o Professor Luís.
+Escrito com suas palavras e depois entregar para o professor Luís.
