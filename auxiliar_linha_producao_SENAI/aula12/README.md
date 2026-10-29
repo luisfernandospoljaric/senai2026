@@ -1,4 +1,19 @@
-# Grupos
+## 11. Tecnologias Emergentes
+
+- **11.1.** Inteligência Artificial
+- **11.2.** Internet das Coisas (IoT)
+- **11.3.** Realidade aumentada
+- **11.4.** Realidade virtual
+- **11.5.** Blockchain
+- **11.6.** Nanotecnologia
+- **11.7.** Impressão 3D
+- **11.8.** Metaverso
+- **11.9.** Big Data
+- **11.10.** Machine Learning
+
+--- 
+
+## Grupos
 
 Aguardando:
 
