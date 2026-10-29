@@ -20,7 +20,7 @@
     - Realidade Aumentada
 
 - Grupo 02
-    - Cauê, Lorrayne, Davy, João e mariana
+    - Cauê, Lorrayne, Davy, João, Victor e mariana
     - IoT
     - Machine Learning
     - MetaVerso
