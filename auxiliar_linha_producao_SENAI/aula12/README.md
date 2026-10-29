@@ -46,9 +46,6 @@
     - Julia e Ana Cristina
     - Big Data
 
-Aguardando:
-
-
 ---
 
 # Roteiro de Pesquisa – Sala de Aula Invertida
