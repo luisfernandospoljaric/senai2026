@@ -131,3 +131,7 @@ Sugestão de estrutura para todos os grupos:
 - Evitem apenas ler os slides. A apresentação deve explicar os conceitos de maneira clara e objetiva.
 - Utilizem imagens, vídeos ou demonstrações para facilitar a compreensão da turma.
 - Revisem as informações e confiram se todas as fontes estão identificadas antes da apresentação.
+
+---
+
+## Entregar por E-mail: **luis.spoljaric@docente.senai.br**
