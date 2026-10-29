@@ -15,6 +15,37 @@
 
 ## Grupos
 
+- Grupo 01
+    - Felipe e Daniel
+    - Realidade Aumentada
+
+- Grupo 02
+    - Cauê, Lorrayne, Davy, João e mariana
+    - IoT
+    - Machine Learning
+    - MetaVerso
+
+- Grupo 03
+    - Brayan e Leticia
+    - I.A
+
+- Grupo 04
+    - Paulo
+    - Nanotecnologia
+
+- Grupo 05
+    - Kauê e Diogo
+    - BlockChain 
+
+- Grupo 06
+    - Lorena, Bianca e Maykon
+    - Realidade Virutal
+    - Impressora 3D
+
+- Grupo 07
+    - Julia e Ana Cristina
+    - Big Data
+
 Aguardando:
 
 
