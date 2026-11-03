@@ -1,3 +1,36 @@
+# Conhecimentos da aula:
+
+- 10.2. Vídeo, podcast e videocast
+    - 10.2.1. Conteúdo
+    - 10.2.2. Roteiro
+    - 10.2.3. Enquadramento
+    - 10.2.4. Iluminação
+    - 10.2.5. Fundo
+    - 10.2.6. Áudio
+
+---
+
+# Tipos de Produção de Conteúdo
+
+### 1. Vídeo
+É um formato de conteúdo audiovisual que utiliza imagens em movimento, áudio e, em alguns casos, textos e animações para transmitir informações, apresentar ideias ou ensinar algo. Pode ser utilizado para demonstrar processos, apresentar situações e explicar determinados assuntos.
+
+### 2. Podcast
+É um conteúdo em formato de áudio, semelhante a um programa de rádio, no qual os participantes conversam, discutem temas, compartilham conhecimentos e apresentam opiniões. Pode contar com apresentadores e convidados.
+
+### 3. Videocast
+É semelhante ao podcast, porém com a presença de vídeo. Além de ouvir a conversa, o público consegue visualizar os participantes, suas expressões e o ambiente da gravação. É muito utilizado em entrevistas, debates e discussões.
+
+---
+
+## Resumindo
+
+- **Vídeo:** conteúdo transmitido por imagens e áudio.
+- **Podcast:** conteúdo transmitido principalmente por áudio.
+- **Videocast:** conversa transmitida em áudio e vídeo.
+
+---
+
 # Atividade em Podcast — ALP
 
 ## Objetivo
@@ -18,7 +51,7 @@ Após cada apresentação, haverá um **debate com a turma**.
 
 ## Tempo
 
-- **Podcast:** 10 a 15 minutos
+- **Apresentação:** 10 a 15 minutos
 - **Debate com a turma:** 5 minutos
 - **Feedback do professor:** 2 a 5 minutos
 
