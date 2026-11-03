@@ -31,7 +31,7 @@
 
 ---
 
-# Atividade em Podcast — ALP
+# Atividade  — ALP
 
 ## Objetivo
 
@@ -41,7 +41,7 @@ Desenvolver a capacidade de comunicação técnica, análise de falhas, organiza
 
 ## Formato da atividade
 
-Os alunos deverão produzir e apresentar um **podcast em grupo**, com duração de **10 a 15 minutos**, abordando algum assunto referente as matérias do curso
+Os alunos deverão produzir e apresentar um **video, videoCast oupodcast em grupo**, com duração de **10 a 15 minutos**, abordando algum assunto referente as matérias do curso
 
 Após cada apresentação, haverá um **debate com a turma**.
 
@@ -59,7 +59,7 @@ Após cada apresentação, haverá um **debate com a turma**.
 
 --- 
 
-# Atividade: Podcast – Desafios e Soluções no Ambiente Industrial
+# Atividade: Podcast/VideoCast/Video – Desafios e Soluções no Ambiente Industrial
 
 ## Objetivo da atividade
 
@@ -185,8 +185,8 @@ Apresentar:
 ---
 
 # Parte Visual da Apresentação
-- Crie um logo para o PodCast para ser projetado em sala.
-- Crie um Roteiro do PodCast a ser seguido em **Word**
+- Crie um logo para o grupo para ser projetado em sala.
+- Crie um Roteiro da apresentação a ser seguido em **Word**
 - Use a criatividade para transformar em algo divertido e que prenda a atenção dos ouvintes.
 
 --- 
