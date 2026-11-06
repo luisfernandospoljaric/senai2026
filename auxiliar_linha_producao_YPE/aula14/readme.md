@@ -98,7 +98,7 @@ Escolha um tipo de meio de comunicação: PodCast, VideoCast ou video.
 
 - Monte um roteiro da sua conversa sobre o tema escolhido, deve ter inicio, meio e fim (conclusão)
 
-## Exemplo de estrutudo do projeto:
+## Exemplo de estrutura do projeto:
 
 ### 1. Abertura
 
