@@ -401,3 +401,55 @@ Como profissionais em formação, vocês precisam desenvolver não apenas a capa
 5. Revise tudo antes de utilizar ou compartilhar.
 
 **A tecnologia deve trabalhar a nosso favor. O conhecimento, a responsabilidade e a capacidade de tomar decisões continuam sendo fundamentais para o ser humano.**
+
+---
+
+# As Três Leis da Robótica – Isaac Asimov
+
+As **Três Leis da Robótica**, também conhecidas como Leis de Asimov, foram criadas pelo escritor de ficção científica **Isaac Asimov**. Elas estabelecem princípios de comportamento ético e seguro para robôs e máquinas inteligentes.
+
+## 1. As Três Leis da Robótica
+
+### 1ª Lei – Proteção dos seres humanos
+
+Um robô não pode ferir um ser humano ou, por omissão, permitir que um ser humano sofra algum mal.
+
+**Exemplo:** Um robô deve impedir uma ação que possa colocar a vida de uma pessoa em perigo.
+
+### 2ª Lei – Obediência
+
+Um robô deve obedecer às ordens dadas pelos seres humanos, exceto quando essas ordens entrarem em conflito com a primeira lei.
+
+**Exemplo:** Um robô deve executar uma tarefa solicitada por uma pessoa, desde que ela não coloque alguém em risco.
+
+### 3ª Lei – Autopreservação
+
+Um robô deve proteger sua própria existência, desde que isso não entre em conflito com a primeira ou a segunda lei.
+
+**Exemplo:** Um robô deve evitar situações que possam danificar seus componentes, desde que isso não prejudique um ser humano.
+
+## 2. Lei Zero – Proteção da humanidade
+
+Posteriormente, Isaac Asimov acrescentou uma quarta regra, chamada **Lei Zero**.
+
+Um robô não pode causar danos à humanidade ou, por omissão, permitir que a humanidade sofra algum mal.
+
+Essa lei possui prioridade sobre as outras três, pois considera a proteção da humanidade como um todo.
+
+## 3. As Leis de Asimov e a Inteligência Artificial atual
+
+As leis de Asimov foram criadas para histórias de ficção científica e não são normas técnicas ou regras utilizadas diretamente na programação das inteligências artificiais atuais.
+
+Entretanto, elas ajudam a discutir questões importantes relacionadas à ética na Inteligência Artificial:
+
+- **Segurança:** evitar que a IA cause danos às pessoas.
+- **Responsabilidade:** definir quem responde pelas decisões tomadas por sistemas inteligentes.
+- **Privacidade:** proteger os dados e as informações dos usuários.
+- **Transparência:** permitir compreender como os sistemas de IA funcionam e tomam decisões.
+- **Controle humano:** garantir que pessoas possam supervisionar e controlar os sistemas de IA.
+
+## 4. Reflexão
+
+As Leis de Asimov são um excelente ponto de partida para discutir a ética na Inteligência Artificial. Elas mostram que obedecer às ordens humanas nem sempre significa fazer a coisa certa.
+
+**Questão para reflexão:** Se uma Inteligência Artificial recebesse uma ordem de um ser humano que pudesse prejudicar outras pessoas, ela deveria obedecer ou desobedecer? Justifique sua resposta.
