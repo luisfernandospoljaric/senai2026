@@ -280,7 +280,3 @@ Crie um sistema onde o usuário digita a matrícula e o Excel retorna:
 |-|
 |![Fretes](./fretes2.png)|
 
----
-## Autoavaliação
-
-https://forms.cloud.microsoft/r/kTGqb0J9bg
