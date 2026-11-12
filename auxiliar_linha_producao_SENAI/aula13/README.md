@@ -194,36 +194,32 @@ Apresentar:
 # Grupos
 
 ### Grupo 1
-- 
-- 
-- 
--   
-    - Tema: 
+- Cauê
+- Mariana
+- Daniel
+- João
+- Brayan
+    - Tema: Logística 4.0 
 
 ### Grupo 2
-- 
-- 
-- 
--   
-    - Tema: 
+- Julia
+- Leticia
+- Ana
+- Bianca
+- Lorena
+    - Tema: 5S
 
 ### Grupo 3
-- 
-- 
-- 
--   
-    - Tema: 
+- Maicon
+- Davy
+- Lorrainy
+- Victor Hugo
+    - Tema: Linhas de Produção
 
 ### Grupo 4
-- 
-- 
-- 
--   
-    - Tema: 
+- Paulo
+    - Tema: Não lembra o tema. 
 
 ### Grupo 5
-- 
-- 
-- 
--   
-    - Tema: 
+- Luís Fernando
+    - Tema: Não lembra o tema
