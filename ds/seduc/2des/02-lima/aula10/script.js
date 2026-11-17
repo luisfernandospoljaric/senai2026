@@ -128,5 +128,4 @@ formProduto.addEventListener("submit", function(event) {
         window.location.href = "produtos.html"
     }, 700);
 
-    console.log(produtos)
 });
