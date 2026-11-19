@@ -37,5 +37,9 @@ Conceitos utilizados
 - Modo apresentação
 
 ---
+## Atividade:
+Criar um jogo "do milhão" utilizando os conhecimentos passados em sala de aula, 10 questões referente as unidades curriculares do curso.
+
+Usem a criatividade para fazer animações, transições, podem colocar gif, imagens... enfim, USEM A CRIATIVIDADE.
 
 ## Enviar para: **luis.spoljaric@docente.senai.br**
