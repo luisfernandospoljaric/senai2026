@@ -20,14 +20,14 @@
 | Arthur O.     | 1262888    |   S   |
 | Enzo          | 1262889    |   S   |
 | Lucas S.      | 1262886    |   S   |
-| Manu          | 1262887    |   S   |
+| Manu          | 1262891    |   S   |
 | Joardson      | 1262885    |   S   |
 | Julio         | 1262883    |   S   |
-| Takeo         | 1262884    |   S   |
+| Takeo         | 1262882    |   S   |
 | Thamyris      | 1262895    |   N   |
 | Pedro T.      | 1262894    |   S   |
 | Yago          | 1262898    |   S   |
 | Samuel        | 1262899    |   S   |
-| Arthur A.     | 1262890    |   S   |
+| Arthur A.     | 1262897    |   S   |
 | Pedro Turolla | 1262891    |   S   |
 | Eyck          | 1262892    |   S   |
