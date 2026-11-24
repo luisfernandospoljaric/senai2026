@@ -27,7 +27,7 @@
 | Thamyris      | 1262895    |   N   |
 | Pedro T.      | 1262894    |   S   |
 | Yago          | 1262898    |   S   |
-| Samuel        | 1262899    |   S   |
+| Samuel        | 1262896    |   S   |
 | Arthur A.     | 1262897    |   S   |
 | Pedro Turolla | 1262891    |   S   |
 | Eyck          | 1262892    |   S   |
