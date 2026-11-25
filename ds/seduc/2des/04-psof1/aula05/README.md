@@ -84,6 +84,12 @@ No XAMPP, o usuario normalmente e `root` e a senha fica vazia por padrao. Se voc
 
 ```bash
 npm install
+
+Valide se foi instalada todas as dependencias: Cors, mysql2, dotenv e express
+
+Caso contrário rode os seguintes comandos:
+
+npm install cors express dotenv mysql2
 ```
 
 Esse comando instala Express, mysql2, dotenv e cors, alem do nodemon para desenvolvimento.
