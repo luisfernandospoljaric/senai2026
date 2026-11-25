@@ -64,5 +64,62 @@ const ProdutoController = {
         }
     },
 
-}
+    // PUT /api/produtos/:id - atualiza um produto.
+    async atualizar(req, res) {
+        try {
+            const id = Number(req.params.id); // Obtem o ID enviado na URL.
+            const { nome, descricao, preco } = req.body; // Obtem os novos dados.
+            const precoNumero = Number(preco);
+
+            if (!Number.isInteger(id) || id <= 0) {
+                return res.status(400).json({ mensagem: 'ID invalido.' });
+            }
+
+            if (!nome || !String(nome).trim() || preco === undefined ||
+                preco === '' || !Number.isFinite(precoNumero) || precoNumero < 0) {
+                return res.status(400).json({ mensagem: 'Nome e preco valido sao obrigatorios.' });
+            }
+
+            // Verifica se o produto existe antes de tentar atualizar.
+            const produtoExistente = await ProdutoModel.buscarPorId(id);
+            if (!produtoExistente) {
+                return res.status(404).json({ mensagem: 'Produto nao encontrado.' });
+            }
+
+            await ProdutoModel.atualizar(id, {
+                nome: String(nome).trim(),
+                descricao: descricao ? String(descricao).trim() : null,
+                preco: precoNumero
+            });
+
+            return res.status(200).json({ mensagem: 'Produto atualizado com sucesso.' });
+        } catch (erro) {
+            console.error('Erro ao atualizar produto:', erro);
+            return res.status(500).json({ mensagem: 'Erro ao atualizar produto.' });
+        }
+    },
+
+    // DELETE /api/produtos/:id - exclui um produto.
+    async excluir(req, res) {
+        try {
+            const id = Number(req.params.id); // Le o ID da URL.
+
+            if (!Number.isInteger(id) || id <= 0) {
+                return res.status(400).json({ mensagem: 'ID invalido.' });
+            }
+
+            const quantidadeExcluida = await ProdutoModel.excluir(id); // Executa o DELETE.
+            if (quantidadeExcluida === 0) {
+                return res.status(404).json({ mensagem: 'Produto nao encontrado.' });
+            }
+
+            return res.status(200).json({ mensagem: 'Produto excluido com sucesso.' });
+        } catch (erro) {
+            console.error('Erro ao excluir produto:', erro);
+            return res.status(500).json({ mensagem: 'Erro ao excluir produto.' });
+        }
+    }
+};
+
+// Exporta as funcoes utilizadas pelas rotas.
 module.exports = ProdutoController;
