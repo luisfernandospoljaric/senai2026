@@ -42,4 +42,7 @@ Criar um jogo "do milhão" utilizando os conhecimentos passados em sala de aula,
 
 Usem a criatividade para fazer animações, transições, podem colocar gif, imagens... enfim, USEM A CRIATIVIDADE.
 
-## Enviar para: **luis.spoljaric@docente.senai.br**
+## Enviar para: **luis.spoljaric@docente.senai.br** 
+- luisfernandospoljaric@gmail.com
+- luis.spoljaric@sp.senai.br
+- luis.spoljaric@senaisp.edu.br
