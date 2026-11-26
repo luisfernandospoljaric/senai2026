@@ -35,3 +35,12 @@ Conceitos utilizados
 - Formatar conteúdo
 - Administrar link
 - Modo apresentação
+
+---
+# Faça um jogo usando o POWERPOINT, SEM I.A DESSA VEZ.
+
+No mínimo 5 questões sobre um assunto de seu interesse.
+
+Encaminha para: **luis.spoljaric@docente.senai.br**
+
+Nome em anexo: QUIZ_SeuNome.pptx
